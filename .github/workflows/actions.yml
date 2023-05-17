@@ -1,7 +1,7 @@
 name: spotify-top-50-songs
 on:
   schedule:
-    - cron: '00 16 * * *'
+    - cron: '46 14 * * *'
 
 jobs:
   build:
