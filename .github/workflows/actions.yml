@@ -2,7 +2,7 @@ name: spotify-top-50-songs
 
 on:
   schedule:
-    - cron: '40 15 * * *'
+    - cron: '52 15 * * *'
 
 jobs:
   build:
@@ -36,4 +36,4 @@ jobs:
         uses: ad-m/github-push-action@v0.6.0
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: main 
+          branch: main
