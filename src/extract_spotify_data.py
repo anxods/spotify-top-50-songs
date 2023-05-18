@@ -1,4 +1,3 @@
-import secrets_spotify as ss
 import spotipy
 from spotipy.oauth2 import SpotifyClientCredentials
 from datetime import datetime
