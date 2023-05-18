@@ -2,7 +2,7 @@ name: spotify-top-50-songs
 on:
 ##  workflow_dispatch:
   schedule:
-    - cron: '*/3 * * * *'
+    - cron: '35 12 * * *'
 
 jobs:
   build:
