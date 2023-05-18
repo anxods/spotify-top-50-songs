@@ -23,6 +23,9 @@ jobs:
           pip install -r requirements.txt
           
       - name: execute py script # run main.py
+        env:
+          CLIENT_ID: ${{ secrets.CLIENT_ID }}
+          CLIENT_SECRET: ${{ secrets.CLIENT_SECRET }}
         run: python src/main.py
           
       - name: commit files
