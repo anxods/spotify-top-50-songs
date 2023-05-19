@@ -3,7 +3,7 @@
 This repository contains the code to extract and collect the data from several countries playlist's Top 50 Songs from Spotify
 
 ## Links
-- [Kaggle - Dataset (TB Done)](https://www.kaggle.com/datasets/anxods/spotify-top-50-playlist-songs-anxods)
+- [Kaggle - Dataset](https://www.kaggle.com/datasets/anxods/spotify-top-50-playlist-songs-anxods)
 
 ## How?
 
