@@ -499,3 +499,53 @@ date,position,song,artist,popularity,duration_ms,album_type,total_tracks,release
 2023-05-27,48,Riptide,Vance Joy,85,204280,album,13,2014-09-08,False,https://i.scdn.co/image/ab67616d0000b273d3ce97395ff522b0d70c1094
 2023-05-27,49,Cruel Summer,Taylor Swift,92,178426,album,18,2019-08-23,False,https://i.scdn.co/image/ab67616d0000b273e787cffec20aa2a396a61647
 2023-05-27,50,Everybody Wants To Rule The World,Tears For Fears,89,251488,album,59,1985-02-25,False,https://i.scdn.co/image/ab67616d0000b27322463d6939fec9e17b2a6235
+2023-05-28,1,Miracle (with Ellie Goulding),Calvin Harris & Ellie Goulding,91,186496,single,1,2023-03-10,False,https://i.scdn.co/image/ab67616d0000b273c58e22815048f8dfb1aa8bd0
+2023-05-28,2,Daylight,David Kushner,97,212953,single,1,2023-04-14,False,https://i.scdn.co/image/ab67616d0000b27395ca6a9b4083a86c149934ae
+2023-05-28,3,Hits Different,Taylor Swift,77,234466,album,23,2023-05-26,True,https://i.scdn.co/image/ab67616d0000b273fa747621a53c8e2cc436dee0
+2023-05-28,4,It's Crazy,J Hus,63,200440,single,1,2023-05-25,True,https://i.scdn.co/image/ab67616d0000b27389fa8a5225b9979c44d1527a
+2023-05-28,5,Giving Me,Jazzy,79,169000,single,1,2023-03-10,False,https://i.scdn.co/image/ab67616d0000b273e0c6c64da0c8e1d1df7e001c
+2023-05-28,6,As It Was,Harry Styles,92,167303,album,13,2022-05-20,False,https://i.scdn.co/image/ab67616d0000b2732e8ed79e177ff6011076f5f0
+2023-05-28,7,Karma (feat. Ice Spice),Taylor Swift,77,201493,album,23,2023-05-26,True,https://i.scdn.co/image/ab67616d0000b273fa747621a53c8e2cc436dee0
+2023-05-28,8,Snow On The Beach (feat. More Lana Del Rey),Taylor Swift,77,229942,album,23,2023-05-26,True,https://i.scdn.co/image/ab67616d0000b273fa747621a53c8e2cc436dee0
+2023-05-28,9,Flowers,Miley Cyrus,91,200600,album,13,2023-03-10,False,https://i.scdn.co/image/ab67616d0000b27358039b5147731b6e52202e46
+2023-05-28,10,All My Life (feat. J. Cole),Lil Durk,72,223878,album,21,2023-05-26,True,https://i.scdn.co/image/ab67616d0000b2736234c2c6d4bb935839ac4719
+2023-05-28,11,Boy's a Liar Pt. 2,PinkPantheress & Ice Spice,96,131013,single,2,2023-02-03,False,https://i.scdn.co/image/ab67616d0000b27342c5ba689b2e7cbc208a8fa7
+2023-05-28,12,Tattoo,Loreen,92,183374,single,1,2023-02-25,False,https://i.scdn.co/image/ab67616d0000b2732b0ba87db609976eee193bd6
+2023-05-28,13,Anti-Hero,Taylor Swift,94,200690,album,13,2022-10-21,False,https://i.scdn.co/image/ab67616d0000b273bb54dde68cd23e2a268ae0f5
+2023-05-28,14,People,Libianca,93,184791,single,1,2022-12-06,False,https://i.scdn.co/image/ab67616d0000b273fc342f95f117d48dbdde9735
+2023-05-28,15,REACT,Switch Disco & Ella Henderson & Robert Miles,80,201145,single,1,2023-01-13,False,https://i.scdn.co/image/ab67616d0000b27321acc4c231327248498a35da
+2023-05-28,16,Kill Bill,SZA,94,153946,album,23,2022-12-08,False,https://i.scdn.co/image/ab67616d0000b2730c471c36970b9406233842a5
+2023-05-28,17,Wish You The Best,Lewis Capaldi,76,210880,album,12,2023-05-19,False,https://i.scdn.co/image/ab67616d0000b2737cdf9838412bb52df6e9a952
+2023-05-28,18,Dance The Night (From Barbie The Album),Dua Lipa,75,176579,single,1,2023-05-25,False,https://i.scdn.co/image/ab67616d0000b2737dd3ba455ee3390cb55b0192
+2023-05-28,19,Escapism.,RAYE,91,272373,album,15,2023-02-03,True,https://i.scdn.co/image/ab67616d0000b27394e5237ce925531dbb38e75f
+2023-05-28,20,Dancing is Healing,Rudimental & Charlotte Plank & Vibe Chemistry,73,177321,single,2,2023-04-21,False,https://i.scdn.co/image/ab67616d0000b273b4edd98bf440d1013f6718d0
+2023-05-28,21,Cupid - Twin Ver.,FIFTY FIFTY,98,174253,single,3,2023-02-24,False,https://i.scdn.co/image/ab67616d0000b27337c0b3670236c067c8e8bbcb
+2023-05-28,22,Calm Down (with Selena Gomez),Rema,80,239317,album,22,2023-04-27,False,https://i.scdn.co/image/ab67616d0000b273963265801aa5c9740ad159b7
+2023-05-28,23,Dog Days Are Over,Florence + The Machine,84,252818,album,20,2009,False,https://i.scdn.co/image/ab67616d0000b273003f81b1f4246362638e682d
+2023-05-28,24,Eyes Closed,Ed Sheeran,81,194848,album,18,2023-05-05,False,https://i.scdn.co/image/ab67616d0000b273a0aea3805ed6a87aa394c796
+2023-05-28,25,See You Again (feat. Kali Uchis),"Tyler, The Creator",94,180386,album,14,2017-07-21,True,https://i.scdn.co/image/ab67616d0000b2738940ac99f49e44f59e6f7fb3
+2023-05-28,26,Chemical,Post Malone,90,184013,single,1,2023-04-14,True,https://i.scdn.co/image/ab67616d0000b273f76f8deeba5370c98ad38f1c
+2023-05-28,27,Afraid To Feel,LF SYSTEM,82,177524,single,1,2022-05-02,False,https://i.scdn.co/image/ab67616d0000b273ced808ef1567eaf901041438
+2023-05-28,28,Late Night Talking,Harry Styles,89,177954,album,13,2022-05-20,False,https://i.scdn.co/image/ab67616d0000b2732e8ed79e177ff6011076f5f0
+2023-05-28,29,Mr. Brightside,The Killers,87,222973,album,12,2004,False,https://i.scdn.co/image/ab67616d0000b273ccdddd46119a4ff53eaf1f5d
+2023-05-28,30,I Ain't Worried,OneRepublic,55,148120,album,18,2023-02-15,False,https://i.scdn.co/image/ab67616d0000b273fedd3df3fa6f52c42fbb9e08
+2023-05-28,31,Say Yes To Heaven,Lana Del Rey,87,209156,single,2,2023-05-19,False,https://i.scdn.co/image/ab67616d0000b273aa27708d07f49c82ff0d0dae
+2023-05-28,32,Hell N Back,Bakar,73,213573,single,2,2019-08-14,True,https://i.scdn.co/image/ab67616d0000b2733ee73eb16af247a0ea057542
+2023-05-28,33,AMERICA HAS A PROBLEM (feat. Kendrick Lamar),Beyoncé,81,260962,single,1,2023-05-19,True,https://i.scdn.co/image/ab67616d0000b27378643be90cd7c5ec75675855
+2023-05-28,34,I'm Good (Blue),David Guetta & Bebe Rexha,94,175238,single,2,2022-08-26,True,https://i.scdn.co/image/ab67616d0000b273933c036cd61cd40d3f17a9c4
+2023-05-28,35,CUFF IT,Beyoncé,89,225388,album,16,2022-07-29,True,https://i.scdn.co/image/ab67616d0000b2730e58a0f8308c1ad403d105e7
+2023-05-28,36,Satellite,Harry Styles,86,218577,album,13,2022-05-20,False,https://i.scdn.co/image/ab67616d0000b2732e8ed79e177ff6011076f5f0
+2023-05-28,37,Creepin' (with The Weeknd & 21 Savage),Metro Boomin,96,221520,album,15,2022-12-02,True,https://i.scdn.co/image/ab67616d0000b27313e54d6687e65678d60466c2
+2023-05-28,38,ceilings,Lizzy McAlpine,90,182887,album,14,2022-04-08,False,https://i.scdn.co/image/ab67616d0000b273d370fdc4dbc47778b9b667c3
+2023-05-28,39,Baby Don't Hurt Me,David Guetta & Anne-Marie & Coi Leray,91,140017,single,2,2023-04-06,False,https://i.scdn.co/image/ab67616d0000b2730b4ef75c3728599aa4104f7a
+2023-05-28,40,Watermelon Sugar,Harry Styles,90,174000,album,12,2019-12-13,False,https://i.scdn.co/image/ab67616d0000b27377fdcfda6535601aff081b6a
+2023-05-28,41,messy in heaven,venbee & goddard.,77,170437,single,2,2022-09-23,False,https://i.scdn.co/image/ab67616d0000b27302402656bca0b5b39489f39a
+2023-05-28,42,Cruel Summer,Taylor Swift,92,178426,album,18,2019-08-23,False,https://i.scdn.co/image/ab67616d0000b273e787cffec20aa2a396a61647
+2023-05-28,43,Riptide,Vance Joy,85,204280,album,13,2014-09-08,False,https://i.scdn.co/image/ab67616d0000b273d3ce97395ff522b0d70c1094
+2023-05-28,44,Cha Cha Cha,Käärijä,89,175161,single,1,2023-01-17,False,https://i.scdn.co/image/ab67616d0000b273e9973a2290bd5d88c6aad387
+2023-05-28,45,Forget Me,Lewis Capaldi,73,203666,album,12,2023-05-19,False,https://i.scdn.co/image/ab67616d0000b2737cdf9838412bb52df6e9a952
+2023-05-28,46,Sure Thing,Miguel,91,195373,album,13,2010-11-26,False,https://i.scdn.co/image/ab67616d0000b273d5a8395b0d80b8c48a5d851c
+2023-05-28,47,What's Love Got to Do with It - 2015 Remaster,Tina Turner,76,230240,album,25,1984-05-29,False,https://i.scdn.co/image/ab67616d0000b2738858cc9df4f43fd5954e5132
+2023-05-28,48,The Best,Tina Turner,79,329800,album,12,1989-09-13,False,https://i.scdn.co/image/ab67616d0000b273a04b4373fd72bf81c8784adf
+2023-05-28,49,No Role Modelz,J. Cole,90,292799,album,13,2014-12-09,True,https://i.scdn.co/image/ab67616d0000b273c6e0948bbb0681ff29cdbae8
+2023-05-28,50,If We Ever Broke Up,Mae Stephens,88,142758,single,1,2023-02-10,True,https://i.scdn.co/image/ab67616d0000b273918207ec2316cec13a0e036f
