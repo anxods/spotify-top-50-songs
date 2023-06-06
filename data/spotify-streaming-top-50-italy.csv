@@ -949,3 +949,53 @@ date,position,song,artist,popularity,duration_ms,album_type,total_tracks,release
 2023-06-05,48,Arai (feat. Capo Plaza),Medy,76,181668,album,7,2023-01-13,True,https://i.scdn.co/image/ab67616d0000b2734095e81ba4f0acca559a91c0
 2023-06-05,49,Fantasmi (feat. Geolier),Rose Villain,75,133266,album,14,2023-01-20,False,https://i.scdn.co/image/ab67616d0000b273888812bbfaa3731daaecee44
 2023-06-05,50,Coca zero,Pinguini Tattici Nucleari,65,203647,album,15,2022-12-02,False,https://i.scdn.co/image/ab67616d0000b27332ef0212a271aea136b88f05
+2023-06-06,1,Hoe (feat. Sfera Ebbasta),Tedua,75,137098,album,16,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b273cdcd51910584b3161217c75c
+2023-06-06,2,Malamente,Tedua,72,181875,album,16,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b273cdcd51910584b3161217c75c
+2023-06-06,3,Paradiso Artificiale (feat. Baby Gang & Kid Yugi),Tedua,72,162411,album,16,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b273cdcd51910584b3161217c75c
+2023-06-06,4,VETRI NERI,AVA & ANNA & Capo Plaza,78,164776,single,1,2023-05-19,True,https://i.scdn.co/image/ab67616d0000b273789f1862aa0e62086ff675f9
+2023-06-06,5,Volgare (feat. Lazza),Tedua,71,148367,album,16,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b273cdcd51910584b3161217c75c
+2023-06-06,6,Mancanze Affettive (feat. Geolier),Tedua,71,231296,album,16,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b273cdcd51910584b3161217c75c
+2023-06-06,7,Intro La Divina Commedia,Tedua,68,161583,album,16,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b273cdcd51910584b3161217c75c
+2023-06-06,8,Red Light,Tedua,70,167880,album,16,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b273cdcd51910584b3161217c75c
+2023-06-06,9,Diluvio A Luglio (feat. Marracash),Tedua,70,202201,album,16,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b273cdcd51910584b3161217c75c
+2023-06-06,10,Anime Libere (feat. Rkomi & Bresh),Tedua,69,173770,album,16,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b273cdcd51910584b3161217c75c
+2023-06-06,11,Scala Di Milano (feat. Guè),Tedua,70,175738,album,16,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b273cdcd51910584b3161217c75c
+2023-06-06,12,Angelo All'Inferno (feat. Salmo & Federica Abbate),Tedua,70,173222,album,16,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b273cdcd51910584b3161217c75c
+2023-06-06,13,IL MALE CHE MI FAI (feat. Marracash),Geolier,81,167339,album,24,2023-04-07,False,https://i.scdn.co/image/ab67616d0000b273afd999e92d692ad962b9c556
+2023-06-06,14,"Gelosa (feat. Shiva, Sfera Ebbasta, Guè)",Finesse & Shiva & Sfera Ebbasta,82,181611,single,1,2023-02-24,False,https://i.scdn.co/image/ab67616d0000b273daa862db6dbe29bb621e9338
+2023-06-06,15,Bagagli (Improvvisazione),Tedua,68,195535,album,16,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b273cdcd51910584b3161217c75c
+2023-06-06,16,Mon Amour,Annalisa,80,203225,single,1,2023-03-31,False,https://i.scdn.co/image/ab67616d0000b27318cfcfb5f053d8cf88b8b48c
+2023-06-06,17,COME VUOI,Geolier,80,172615,album,18,2023-01-06,True,https://i.scdn.co/image/ab67616d0000b273a43bc8d38cdecdb7a71b34a6
+2023-06-06,18,DISCO PARADISE,Fedez & Annalisa & Articolo 31,74,198536,single,1,2023-05-25,False,https://i.scdn.co/image/ab67616d0000b27341bb57fdd0dd954c25895033
+2023-06-06,19,CENERE,Lazza,76,208323,album,26,2022-04-07,False,https://i.scdn.co/image/ab67616d0000b273279a772ce72afcc068718423
+2023-06-06,20,Pelé,Rhove & Madfingerz,79,133858,single,1,2023-03-16,True,https://i.scdn.co/image/ab67616d0000b2731959056f44e03cdd18d85cc8
+2023-06-06,21,Soffierà,Tedua,68,202500,album,16,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b273cdcd51910584b3161217c75c
+2023-06-06,22,Un Briciolo Di Allegria (con MINA),BLANCO,80,207615,album,12,2023-04-13,False,https://i.scdn.co/image/ab67616d0000b273d0a7dfc11235eb8a6fc8fbf0
+2023-06-06,23,Rubami la Notte,Pinguini Tattici Nucleari,43,189583,album,16,2022-12-02,False,https://i.scdn.co/image/ab67616d0000b273df8e97d294e5f3d8ec777f68
+2023-06-06,24,Outro Purgatorio,Tedua,67,284250,album,16,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b273cdcd51910584b3161217c75c
+2023-06-06,25,La Verità (feat. bnkr44),Tedua,68,177939,album,16,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b273cdcd51910584b3161217c75c
+2023-06-06,26,ON FIRE - paid in full,Emis Killa,77,176000,album,14,2023-05-19,False,https://i.scdn.co/image/ab67616d0000b27329df67b7e1d45411f2ac4a92
+2023-06-06,27,"MIRAGE (feat. Ozuna, GIMS & Sfera Ebbasta)",AriBeatz & Ozuna & Sfera Ebbasta,82,206054,single,1,2023-04-14,True,https://i.scdn.co/image/ab67616d0000b2734a317bdd13b1a039a24300aa
+2023-06-06,28,Lo-fi For U,Tedua,65,203489,album,16,2023-06-02,True,https://i.scdn.co/image/ab67616d0000b273cdcd51910584b3161217c75c
+2023-06-06,29,Ci pensiamo domani,Angelina Mango,74,180184,single,1,2023-05-12,False,https://i.scdn.co/image/ab67616d0000b2738fdce21e347eb12b3ed951be
+2023-06-06,30,Non litighiamo più,Rocco Hunt,77,180444,single,1,2023-03-31,False,https://i.scdn.co/image/ab67616d0000b2734197301044c769c52ad4d61c
+2023-06-06,31,"Quevedo: Bzrp Music Sessions, Vol. 52",Bizarrap & Quevedo,93,198937,single,1,2022-07-06,False,https://i.scdn.co/image/ab67616d0000b2731630dd349221a35ce03a0ccf
+2023-06-06,32,X CASO (feat. Sfera Ebbasta),Geolier,78,215421,album,18,2023-01-06,True,https://i.scdn.co/image/ab67616d0000b273a43bc8d38cdecdb7a71b34a6
+2023-06-06,33,Whip Whip,Rhove,73,117600,single,2,2023-05-18,True,https://i.scdn.co/image/ab67616d0000b27327d9e289e069abbaa5192a02
+2023-06-06,34,TANGO,Tananai,73,209062,album,16,2022-11-24,False,https://i.scdn.co/image/ab67616d0000b27374dfe2b9efecc249aa0b2a55
+2023-06-06,35,ORIGAMI ALL'ALBA - CLARA,Matteo Paolillo - Icaro & Lolloflow & CLARA,78,153758,single,2,2023-02-24,False,https://i.scdn.co/image/ab67616d0000b273581a52729617653dabbe3fc8
+2023-06-06,36,CHIAGNE (feat. Lazza & Takagi & Ketra),Geolier,74,179863,album,18,2023-01-06,False,https://i.scdn.co/image/ab67616d0000b273a43bc8d38cdecdb7a71b34a6
+2023-06-06,37,Guasto D'Amore,Bresh & SHUNE,77,200080,single,1,2023-01-27,False,https://i.scdn.co/image/ab67616d0000b273fdcbf5d28fd6ab6d35c6411f
+2023-06-06,38,Cella 4,Baby Gang,73,186613,album,14,2023-05-26,True,https://i.scdn.co/image/ab67616d0000b273477773896d4786ae8abf3292
+2023-06-06,39,Dimmi Che C'è (feat. Tedua),thasup,70,182078,album,21,2022-09-30,False,https://i.scdn.co/image/ab67616d0000b27372cfdfd53af51bcfed067d75
+2023-06-06,40,SUPEREROI,Mr.Rain,78,195000,single,5,2023-02-08,False,https://i.scdn.co/image/ab67616d0000b273b6f87af8918ce1d7988c4712
+2023-06-06,41,Restare (feat. Lazza),Baby Gang,71,226640,album,14,2023-05-26,True,https://i.scdn.co/image/ab67616d0000b273477773896d4786ae8abf3292
+2023-06-06,42,Due Vite,Marco Mengoni,72,225652,album,28,2022-12-25,False,https://i.scdn.co/image/ab67616d0000b2730e61e4e997a3dc0ba273e732
+2023-06-06,43,Non lo Sai,Shiva,77,228454,album,18,2022-11-25,False,https://i.scdn.co/image/ab67616d0000b273c7e356600aed38293c7ca0a4
+2023-06-06,44,Cookies N' Cream (feat. ANNA & Sfera Ebbasta),Guè,77,201845,album,12,2023-01-13,True,https://i.scdn.co/image/ab67616d0000b2732f81606d1dbb823ca4a021b3
+2023-06-06,45,SENZ'ANIMA - nikita,Emis Killa,73,193453,album,14,2023-05-19,False,https://i.scdn.co/image/ab67616d0000b27329df67b7e1d45411f2ac4a92
+2023-06-06,46,Arai (feat. Capo Plaza),Medy,76,181668,album,7,2023-01-13,True,https://i.scdn.co/image/ab67616d0000b2734095e81ba4f0acca559a91c0
+2023-06-06,47,PARAFULMINI (con Bresh & Fabri Fibra),Ernia,65,208909,album,17,2023-05-04,False,https://i.scdn.co/image/ab67616d0000b273f7c44bfe4ebeb9c41e6b30dd
+2023-06-06,48,Pazza Musica,Marco Mengoni,69,194472,album,37,2023-05-26,False,https://i.scdn.co/image/ab67616d0000b27391543ddbf5df0343632b1254
+2023-06-06,49,Coca zero,Pinguini Tattici Nucleari,65,203647,album,15,2022-12-02,False,https://i.scdn.co/image/ab67616d0000b27332ef0212a271aea136b88f05
+2023-06-06,50,Fantasmi (feat. Geolier),Rose Villain,75,133266,album,14,2023-01-20,False,https://i.scdn.co/image/ab67616d0000b273888812bbfaa3731daaecee44
