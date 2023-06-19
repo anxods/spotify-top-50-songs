@@ -1599,3 +1599,53 @@ date,position,song,artist,popularity,duration_ms,album_type,total_tracks,release
 2023-06-18,48,Je la connais,SCH,73,219533,album,13,2016-05-20,True,https://i.scdn.co/image/ab67616d0000b273491e586b82711d3023977d69
 2023-06-18,49,Ragnar,Jul,65,372613,album,21,2023-06-09,True,https://i.scdn.co/image/ab67616d0000b273c6f5a6c929bb4da899b35fa2
 2023-06-18,50,Jolie Go,Shay,72,166654,single,1,2023-03-03,True,https://i.scdn.co/image/ab67616d0000b2735a09eb134f4d28030aad22f3
+2023-06-19,1,Bolide allemand,SDM,81,176746,album,15,2022-12-02,True,https://i.scdn.co/image/ab67616d0000b273455e89dbf3ce2e6d337be1d0
+2023-06-19,2,Meuda,Tiakola,80,152546,album,16,2022-05-27,True,https://i.scdn.co/image/ab67616d0000b2731bbc72ff946f55d4d3188062
+2023-06-19,3,C'est carré le S,Naps,54,201533,album,23,2023-04-28,True,https://i.scdn.co/image/ab67616d0000b273d33a76e9a6447e09922125a7
+2023-06-19,4,Demain,PLK,80,183013,single,10,2023-04-13,True,https://i.scdn.co/image/ab67616d0000b273390bfa914f9f7b04582aba5d
+2023-06-19,5,Rush,Ayra Starr,83,185093,album,16,2022-10-21,False,https://i.scdn.co/image/ab67616d0000b2734828f4b04d92d6641be98cc5
+2023-06-19,6,Jolie (feat. Ninho),GAULOIS,76,159573,album,14,2023-01-13,True,https://i.scdn.co/image/ab67616d0000b2733c9df4c3afb30980eec2674e
+2023-06-19,7,Flowers,Miley Cyrus,91,200600,album,13,2023-03-10,False,https://i.scdn.co/image/ab67616d0000b27358039b5147731b6e52202e46
+2023-06-19,8,LA RUE,No Limit & Gazo & Damso,80,225137,single,1,2023-06-05,True,https://i.scdn.co/image/ab67616d0000b27384f2454da0973c07a508b57e
+2023-06-19,9,La faille,Jul,67,291280,album,21,2023-06-09,True,https://i.scdn.co/image/ab67616d0000b273c6f5a6c929bb4da899b35fa2
+2023-06-19,10,Tiki Taka,Vacra,68,174829,album,8,2023-02-23,False,https://i.scdn.co/image/ab67616d0000b2734d82486b5c7a283ab9ed2797
+2023-06-19,11,Nouvelles,PLK,77,179653,single,10,2023-04-13,True,https://i.scdn.co/image/ab67616d0000b273390bfa914f9f7b04582aba5d
+2023-06-19,12,Laboratoire,Werenoi,77,162840,album,18,2023-03-10,True,https://i.scdn.co/image/ab67616d0000b27338a0c9e975d3aee9b44a6918
+2023-06-19,13,Finale - Nouvelle École,Dau,75,180000,single,1,2023-05-31,True,https://i.scdn.co/image/ab67616d0000b27383a0df30f0edbc00c5fc0d2a
+2023-06-19,14,TP,Sadek,56,178266,album,20,2023-06-16,True,https://i.scdn.co/image/ab67616d0000b2737ead397c5b37e15ce28d8b2c
+2023-06-19,15,Tattoo,Loreen,93,183374,single,1,2023-02-25,False,https://i.scdn.co/image/ab67616d0000b2732b0ba87db609976eee193bd6
+2023-06-19,16,Baby Don't Hurt Me,David Guetta & Anne-Marie & Coi Leray,93,140017,single,2,2023-04-06,False,https://i.scdn.co/image/ab67616d0000b2730b4ef75c3728599aa4104f7a
+2023-06-19,17,25 G,Ninho,71,250120,single,1,2023-06-07,True,https://i.scdn.co/image/ab67616d0000b273317dd270afbcdec456fa3ad1
+2023-06-19,18,Miracle (with Ellie Goulding),Calvin Harris & Ellie Goulding,92,186496,single,1,2023-03-10,False,https://i.scdn.co/image/ab67616d0000b273c58e22815048f8dfb1aa8bd0
+2023-06-19,19,Mr. Ocho,SDM,77,226653,album,15,2022-12-02,True,https://i.scdn.co/image/ab67616d0000b273455e89dbf3ce2e6d337be1d0
+2023-06-19,20,The Ballet Girl,Aden Foyer,78,201424,single,1,2022-10-21,False,https://i.scdn.co/image/ab67616d0000b27347ec34af123096d55e5391e8
+2023-06-19,21,Solitaire,Werenoi,75,146440,album,10,2022-06-03,True,https://i.scdn.co/image/ab67616d0000b273cf79b3201cff3e3a19942f12
+2023-06-19,22,Nocif,Hamza,75,229386,album,17,2023-02-17,True,https://i.scdn.co/image/ab67616d0000b2736d70a04b5fbec88db801822f
+2023-06-19,23,Saiyan,Heuss L'enfoiré & Gazo,72,189829,single,1,2023-06-02,True,https://i.scdn.co/image/ab67616d0000b273a557147daf896f6c80b79d58
+2023-06-19,24,Capitaine,Djadja & Dinaz,77,155920,album,34,2023-03-17,True,https://i.scdn.co/image/ab67616d0000b27307d766657a7ded13871265af
+2023-06-19,25,Entraînement,Jul,70,251266,album,21,2023-06-09,True,https://i.scdn.co/image/ab67616d0000b273c6f5a6c929bb4da899b35fa2
+2023-06-19,26,La bandite,Jul,79,160893,album,25,2019-06-28,True,https://i.scdn.co/image/ab67616d0000b2733c505b5ddcbdf80c7dff5a1f
+2023-06-19,27,"1,2,3 Soleil",NAZAKEBLACK & Naza & KeBlack,67,173419,single,1,2023-06-08,False,https://i.scdn.co/image/ab67616d0000b273b97a798223df384eb95a3188
+2023-06-19,28,Decrescendo,Lomepal,77,218586,album,15,2022-09-15,False,https://i.scdn.co/image/ab67616d0000b273f3b4ab85fc00ae35007eb7d0
+2023-06-19,29,Dépassé,Nuit Incolore,76,172394,single,1,2022-12-15,False,https://i.scdn.co/image/ab67616d0000b273b157e61791dc23dff9786eb4
+2023-06-19,30,Substitution,Purple Disco Machine & Kungs,84,181477,single,2,2023-03-30,False,https://i.scdn.co/image/ab67616d0000b273a8bcf8fac8520ac2cbf72ea7
+2023-06-19,31,Ciao,Werenoi,74,216333,album,18,2023-03-10,True,https://i.scdn.co/image/ab67616d0000b27338a0c9e975d3aee9b44a6918
+2023-06-19,32,Business (feat. Naza),DYSTINCT,62,170435,album,17,2023-06-08,False,https://i.scdn.co/image/ab67616d0000b2732104123cf1e7823f560c2fce
+2023-06-19,33,BESO,ROSALÍA & Rauw Alejandro,96,194543,single,3,2023-03-24,False,https://i.scdn.co/image/ab67616d0000b2734d6cf0d0d5e32ca4fa3a59e1
+2023-06-19,34,Tek Tek (feat. MHD),DYSTINCT,62,161506,album,17,2023-06-08,False,https://i.scdn.co/image/ab67616d0000b2732104123cf1e7823f560c2fce
+2023-06-19,35,As It Was,Harry Styles,93,167303,album,13,2022-05-20,False,https://i.scdn.co/image/ab67616d0000b2732e8ed79e177ff6011076f5f0
+2023-06-19,36,TQG,KAROL G,96,197933,album,17,2023-02-24,True,https://i.scdn.co/image/ab67616d0000b27382de1ca074ae63cb18fce335
+2023-06-19,37,AMBER,Zola,68,182493,album,15,2023-03-17,True,https://i.scdn.co/image/ab67616d0000b2733bbe265a079a047a655036de
+2023-06-19,38,People,Libianca,94,184791,single,1,2022-12-06,False,https://i.scdn.co/image/ab67616d0000b273fc342f95f117d48dbdde9735
+2023-06-19,39,Urus,Favé,71,147788,single,1,2022-10-12,True,https://i.scdn.co/image/ab67616d0000b273583586e9318379d1add68cfe
+2023-06-19,40,Daylight,David Kushner,98,212953,single,1,2023-04-14,False,https://i.scdn.co/image/ab67616d0000b27395ca6a9b4083a86c149934ae
+2023-06-19,41,Eyes Closed,Ed Sheeran,83,194848,album,18,2023-05-05,False,https://i.scdn.co/image/ab67616d0000b273a0aea3805ed6a87aa394c796
+2023-06-19,42,Mon BB,Gradur & Hamza,60,188786,single,1,2023-06-15,True,https://i.scdn.co/image/ab67616d0000b2739ea4554512f28365bfca8fab
+2023-06-19,43,DIE,Gazo,77,240413,album,15,2022-07-01,True,https://i.scdn.co/image/ab67616d0000b273765b01901c10003211f8554d
+2023-06-19,44,Piranha (feat. Vacra),Nahir & Vacra,69,155878,single,1,2023-06-15,True,https://i.scdn.co/image/ab67616d0000b273f2cc56ea19444cf909733b0a
+2023-06-19,45,La League,Werenoi,74,179572,single,1,2021-03-03,True,https://i.scdn.co/image/ab67616d0000b273530417284071d70ff30d43d9
+2023-06-19,46,Some Kind Of Kiss,Sound Of Legend,74,148124,single,1,2023-02-24,False,https://i.scdn.co/image/ab67616d0000b2732c9bc8e7a833aaf89526d1f5
+2023-06-19,47,Je la connais,SCH,73,219533,album,13,2016-05-20,True,https://i.scdn.co/image/ab67616d0000b273491e586b82711d3023977d69
+2023-06-19,48,Freestyle LVL UP 3,Ninho,75,200976,single,1,2023-05-22,True,https://i.scdn.co/image/ab67616d0000b2738e733d61872c68263a014c0a
+2023-06-19,49,The Fool,Jain,71,207733,album,11,2023-04-21,False,https://i.scdn.co/image/ab67616d0000b273ea494aca4f8ae6a9c2b904f9
+2023-06-19,50,"MIRAGE (feat. Ozuna, GIMS & Sfera Ebbasta)",AriBeatz & Ozuna & Sfera Ebbasta,83,206054,single,1,2023-04-14,True,https://i.scdn.co/image/ab67616d0000b2734a317bdd13b1a039a24300aa
