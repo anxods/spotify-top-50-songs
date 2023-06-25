@@ -1899,3 +1899,53 @@ date,position,song,artist,popularity,duration_ms,album_type,total_tracks,release
 2023-06-24,48,Just Wanna Rock,Lil Uzi Vert,90,123890,single,1,2022-10-17,True,https://i.scdn.co/image/ab67616d0000b2730e34fd68e8ff04e4515eb72a
 2023-06-24,49,Money Trees,Kendrick Lamar,86,386906,album,13,2012,True,https://i.scdn.co/image/ab67616d0000b273d28d2ebdedb220e479743797
 2023-06-24,50,El Gordo Trae El Mando,Chino Pacas,92,112087,single,1,2023-01-27,True,https://i.scdn.co/image/ab67616d0000b2733240b79491b0714245a4ec02
+2023-06-25,1,Last Night,Morgan Wallen,90,163854,album,36,2023-03-03,True,https://i.scdn.co/image/ab67616d0000b273705079df9a25a28b452c1fc9
+2023-06-25,2,Ella Baila Sola,Eslabon Armado,93,165671,album,16,2023-04-28,False,https://i.scdn.co/image/ab67616d0000b273dfddf1cb31b85a6d28b7d91f
+2023-06-25,3,Oh U Went (feat. Drake),Young Thug,74,185333,album,15,2023-06-23,True,https://i.scdn.co/image/ab67616d0000b273777850f1e77fd525fc6a782f
+2023-06-25,4,Parade on Cleveland (feat. Drake),Young Thug,73,228266,album,15,2023-06-23,True,https://i.scdn.co/image/ab67616d0000b273777850f1e77fd525fc6a782f
+2023-06-25,5,Cruel Summer,Taylor Swift,96,178426,album,18,2019-08-23,False,https://i.scdn.co/image/ab67616d0000b273e787cffec20aa2a396a61647
+2023-06-25,6,Barbie World (with Aqua) [From Barbie The Album],Nicki Minaj & Ice Spice & Aqua,74,109750,single,1,2023-06-23,True,https://i.scdn.co/image/ab67616d0000b2737e8f938c02fac3b564931116
+2023-06-25,7,LADY GAGA,Peso Pluma,77,212878,album,14,2023-06-22,True,https://i.scdn.co/image/ab67616d0000b273e6f540885b43d6f379360b22
+2023-06-25,8,LUNA,Peso Pluma,76,163551,album,14,2023-06-22,True,https://i.scdn.co/image/ab67616d0000b273e6f540885b43d6f379360b22
+2023-06-25,9,Fast Car,Luke Combs,91,265493,album,18,2023-03-24,False,https://i.scdn.co/image/ab67616d0000b273ca650d3a95022e0490434ba1
+2023-06-25,10,SABOR FRESA,Fuerza Regida,76,156500,single,1,2023-06-22,True,https://i.scdn.co/image/ab67616d0000b273cfe3eb72c48b93971e53efd9
+2023-06-25,11,Kill Bill,SZA,94,153946,album,23,2022-12-08,False,https://i.scdn.co/image/ab67616d0000b2730c471c36970b9406233842a5
+2023-06-25,12,un x100to,Grupo Frontera & Bad Bunny,99,194563,single,1,2023-04-17,False,https://i.scdn.co/image/ab67616d0000b273716c0b0ad51594ff788b5f06
+2023-06-25,13,"Wit Da Racks (feat. 21 Savage, Travis Scott & Yak Gotti)",Young Thug,71,226413,album,15,2023-06-23,True,https://i.scdn.co/image/ab67616d0000b273777850f1e77fd525fc6a782f
+2023-06-25,14,fukumean,Gunna,83,125040,album,15,2023-06-16,True,https://i.scdn.co/image/ab67616d0000b273017d5e26552345c4b1575b6c
+2023-06-25,15,See You Again (feat. Kali Uchis),"Tyler, The Creator",96,180386,album,14,2017-07-21,True,https://i.scdn.co/image/ab67616d0000b2738940ac99f49e44f59e6f7fb3
+2023-06-25,16,VVS,Peso Pluma,73,162676,album,14,2023-06-22,True,https://i.scdn.co/image/ab67616d0000b273e6f540885b43d6f379360b22
+2023-06-25,17,Cars Bring Me Out (feat. Future),Young Thug,71,202933,album,15,2023-06-23,True,https://i.scdn.co/image/ab67616d0000b273777850f1e77fd525fc6a782f
+2023-06-25,18,All My Life (feat. J. Cole),Lil Durk,84,223878,album,21,2023-05-26,True,https://i.scdn.co/image/ab67616d0000b2736234c2c6d4bb935839ac4719
+2023-06-25,19,"Peso Pluma: Bzrp Music Sessions, Vol. 55",Bizarrap & Peso Pluma,97,188361,single,1,2023-06-01,True,https://i.scdn.co/image/ab67616d0000b27315583045b2fdb7d7bab10e81
+2023-06-25,20,You Proof,Morgan Wallen,87,157477,album,36,2023-03-03,False,https://i.scdn.co/image/ab67616d0000b273705079df9a25a28b452c1fc9
+2023-06-25,21,La Bebe - Remix,Yng Lvcas & Peso Pluma,100,234352,single,2,2023-03-17,True,https://i.scdn.co/image/ab67616d0000b273a04be3ad7c8c67f4109111a9
+2023-06-25,22,BYE,Peso Pluma,66,212976,album,14,2023-06-22,True,https://i.scdn.co/image/ab67616d0000b273e6f540885b43d6f379360b22
+2023-06-25,23,Money On The Dresser,Young Thug,70,133000,album,15,2023-06-23,True,https://i.scdn.co/image/ab67616d0000b273777850f1e77fd525fc6a782f
+2023-06-25,24,WHERE SHE GOES,Bad Bunny,99,231704,single,1,2023-05-18,True,https://i.scdn.co/image/ab67616d0000b273ab5c9cd818ad6ed3e9b79cd1
+2023-06-25,25,TQM,Fuerza Regida,95,158965,single,1,2023-05-19,True,https://i.scdn.co/image/ab67616d0000b273832ea5d2f8c10f95fc3cc66d
+2023-06-25,26,"Calling (Spider-Man: Across the Spider-Verse) (Metro Boomin & Swae Lee, NAV, feat. A Boogie Wit da Hoodie)",Metro Boomin,93,219453,album,13,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b2736ed9aef791159496b286179f
+2023-06-25,27,Attention,Doja Cat,86,277043,single,1,2023-06-16,True,https://i.scdn.co/image/ab67616d0000b27324b893fb9e7953ebc9517c6a
+2023-06-25,28,Doomsday (with Juice WRLD & Cordae),Lyrical Lemonade & Juice WRLD & Cordae,70,150967,single,1,2023-06-23,True,https://i.scdn.co/image/ab67616d0000b2737a5767f9da2c8a4265f035d4
+2023-06-25,29,Wasted On You,Morgan Wallen,88,178520,album,30,2021-01-08,False,https://i.scdn.co/image/ab67616d0000b2737d6813fd233f3bc4977cceca
+2023-06-25,30,Area Codes,Kali,91,139325,single,1,2023-03-17,True,https://i.scdn.co/image/ab67616d0000b27333a8cd9ae03bc913e6e5af11
+2023-06-25,31,Hellcat Kenny (feat. Lil Uzi Vert),Young Thug,69,154466,album,15,2023-06-23,True,https://i.scdn.co/image/ab67616d0000b273777850f1e77fd525fc6a782f
+2023-06-25,32,Something in the Orange,Zach Bryan,89,228013,single,4,2022-04-22,False,https://i.scdn.co/image/ab67616d0000b273b2b6670e3aca9bcd55fbabbb
+2023-06-25,33,Want Me Dead (feat. 21 Savage),Young Thug,69,194706,album,15,2023-06-23,True,https://i.scdn.co/image/ab67616d0000b273777850f1e77fd525fc6a782f
+2023-06-25,34,Boy's a Liar Pt. 2,PinkPantheress & Ice Spice,95,131013,single,2,2023-02-03,False,https://i.scdn.co/image/ab67616d0000b27342c5ba689b2e7cbc208a8fa7
+2023-06-25,35,As It Was,Harry Styles,93,167303,album,13,2022-05-20,False,https://i.scdn.co/image/ab67616d0000b2732e8ed79e177ff6011076f5f0
+2023-06-25,36,Gucci Grocery Bag,Young Thug,69,175133,album,15,2023-06-23,True,https://i.scdn.co/image/ab67616d0000b273777850f1e77fd525fc6a782f
+2023-06-25,37,Flowers,Miley Cyrus,91,200600,album,13,2023-03-10,False,https://i.scdn.co/image/ab67616d0000b27358039b5147731b6e52202e46
+2023-06-25,38,Uncle M,Young Thug,69,140000,album,15,2023-06-23,True,https://i.scdn.co/image/ab67616d0000b273777850f1e77fd525fc6a782f
+2023-06-25,39,Thinkin’ Bout Me,Morgan Wallen,87,177387,album,36,2023-03-03,False,https://i.scdn.co/image/ab67616d0000b273705079df9a25a28b452c1fc9
+2023-06-25,40,Anti-Hero,Taylor Swift,95,200690,album,13,2022-10-21,False,https://i.scdn.co/image/ab67616d0000b273bb54dde68cd23e2a268ae0f5
+2023-06-25,41,Cupid - Twin Ver.,FIFTY FIFTY,99,174253,single,3,2023-02-24,False,https://i.scdn.co/image/ab67616d0000b27337c0b3670236c067c8e8bbcb
+2023-06-25,42,Sunflower - Spider-Man: Into the Spider-Verse,Post Malone,87,157560,album,17,2019-09-06,False,https://i.scdn.co/image/ab67616d0000b2739478c87599550dd73bfa7e02
+2023-06-25,43,"Annihilate (Spider-Man: Across the Spider-Verse) (Metro Boomin & Swae Lee, Lil Wayne, Offset)",Metro Boomin,92,231746,album,13,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b2736ed9aef791159496b286179f
+2023-06-25,44,Karma,Taylor Swift,90,204852,album,13,2022-10-21,True,https://i.scdn.co/image/ab67616d0000b273bb54dde68cd23e2a268ae0f5
+2023-06-25,45,No Role Modelz,J. Cole,91,292799,album,13,2014-12-09,True,https://i.scdn.co/image/ab67616d0000b273c6e0948bbb0681ff29cdbae8
+2023-06-25,46,Search & Rescue,Drake,91,272112,single,1,2023-04-07,True,https://i.scdn.co/image/ab67616d0000b273cace8a4b2ff924c9e12e3a96
+2023-06-25,47,"Am I Dreaming (Metro Boomin & A$AP Rocky, Roisee)",Metro Boomin,92,256026,album,13,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b2736ed9aef791159496b286179f
+2023-06-25,48,ROSA PASTEL,Peso Pluma,68,204253,album,14,2023-06-22,True,https://i.scdn.co/image/ab67616d0000b273e6f540885b43d6f379360b22
+2023-06-25,49,Abracadabra (feat. Travis Scott),Young Thug,69,247733,album,15,2023-06-23,True,https://i.scdn.co/image/ab67616d0000b273777850f1e77fd525fc6a782f
+2023-06-25,50,Self Love (Spider-Man: Across the Spider-Verse) (Metro Boomin & Coi Leray),Metro Boomin,90,189466,album,13,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b2736ed9aef791159496b286179f
