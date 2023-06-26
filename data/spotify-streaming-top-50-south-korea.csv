@@ -1949,3 +1949,53 @@ date,position,song,artist,popularity,duration_ms,album_type,total_tracks,release
 2023-06-25,48,I Don’t Think That I Like Her,Charlie Puth,73,188507,album,12,2022-10-06,False,https://i.scdn.co/image/ab67616d0000b27335d2e0ed94a934f2cc46fa49
 2023-06-25,49,Dare to Love (feat. BIG Naughty),B.I,63,175716,album,15,2023-06-01,False,https://i.scdn.co/image/ab67616d0000b27316ec5264f7c472cfdc2c1b9d
 2023-06-25,50,Boat,george,58,191994,single,1,2017-11-17,False,https://i.scdn.co/image/ab67616d0000b27326124ac81cc872cd040defd8
+2023-06-26,1,Like Crazy,Jimin,94,212241,single,6,2023-03-24,False,https://i.scdn.co/image/ab67616d0000b2732b46078245d0120690eb560d
+2023-06-26,2,"Angel Pt. 1 (feat. Jimin of BTS, JVKE & Muni Long)",Fast & Furious: The Fast Saga & Jimin & BTS,90,175802,single,2,2023-05-17,False,https://i.scdn.co/image/ab67616d0000b273445afb6341d2685b959251cc
+2023-06-26,3,Like Crazy (English Version),Jimin,87,212253,single,6,2023-03-24,False,https://i.scdn.co/image/ab67616d0000b2732b46078245d0120690eb560d
+2023-06-26,4,Set Me Free Pt.2,Jimin,85,200929,single,1,2023-03-17,True,https://i.scdn.co/image/ab67616d0000b2734f4ec2c2a865569bd4a067a4
+2023-06-26,5,Face-off,Jimin,81,229627,single,6,2023-03-24,True,https://i.scdn.co/image/ab67616d0000b2732b46078245d0120690eb560d
+2023-06-26,6,Alone,Jimin,80,211250,single,6,2023-03-24,False,https://i.scdn.co/image/ab67616d0000b2732b46078245d0120690eb560d
+2023-06-26,7,Interlude : Dive,Jimin,77,130996,single,6,2023-03-24,False,https://i.scdn.co/image/ab67616d0000b2732b46078245d0120690eb560d
+2023-06-26,8,Queencard,(G)I-DLE,89,161240,single,6,2023-05-15,False,https://i.scdn.co/image/ab67616d0000b27382dd2427e6d302711b1b9616
+2023-06-26,9,I AM,IVE,89,183853,album,11,2023-04-10,False,https://i.scdn.co/image/ab67616d0000b27325ef3cec1eceefd4db2f91c8
+2023-06-26,10,"Eve, Psyche & The Bluebeard’s wife",LE SSERAFIM,85,185538,album,13,2023-05-01,False,https://i.scdn.co/image/ab67616d0000b273d71fd77b89d08bc1bda219c7
+2023-06-26,11,Spicy,aespa,85,197040,single,6,2023-05-08,False,https://i.scdn.co/image/ab67616d0000b27304878afb19613a94d37b29ce
+2023-06-26,12,アイドル,YOASOBI,91,213233,single,1,2023-04-12,False,https://i.scdn.co/image/ab67616d0000b273b7d6ca50bf766ad72226290c
+2023-06-26,13,"Angel Pt. 2 (feat. Jimin of BTS, Charlie Puth and Muni Long)",Fast & Furious: The Fast Saga & Jimin & BTS,74,176454,single,2,2023-05-18,False,https://i.scdn.co/image/ab67616d0000b273be4afaf12bdbcfd17d95f22b
+2023-06-26,14,Take Two,BTS,95,229953,single,1,2023-06-09,False,https://i.scdn.co/image/ab67616d0000b2738a701e76e8845928f6cd81c8
+2023-06-26,15,UNFORGIVEN (feat. Nile Rodgers),LE SSERAFIM,89,182148,album,13,2023-05-01,False,https://i.scdn.co/image/ab67616d0000b273d71fd77b89d08bc1bda219c7
+2023-06-26,16,OMG,NewJeans,92,212253,single,2,2023-01-02,False,https://i.scdn.co/image/ab67616d0000b273d70036292d54f29e8b68ec01
+2023-06-26,17,Left and Right (Feat. Jung Kook of BTS),Charlie Puth,87,154486,album,12,2022-10-06,False,https://i.scdn.co/image/ab67616d0000b27335d2e0ed94a934f2cc46fa49
+2023-06-26,18,Ditto,NewJeans,89,185506,single,1,2022-12-19,False,https://i.scdn.co/image/ab67616d0000b273edf5b257be1d6593e81bb45f
+2023-06-26,19,Grain of Sand,Lim Young Woong,64,220309,single,1,2023-06-05,False,https://i.scdn.co/image/ab67616d0000b273111a6e9b713b646443c5c222
+2023-06-26,20,Hype Boy,NewJeans,87,179026,single,4,2022-08-01,False,https://i.scdn.co/image/ab67616d0000b2739d28fd01859073a3ae6ea209
+2023-06-26,21,Kitsch,IVE,80,195440,album,11,2023-04-10,False,https://i.scdn.co/image/ab67616d0000b27325ef3cec1eceefd4db2f91c8
+2023-06-26,22,London Boy,Lim Young Woong,65,244500,single,2,2022-11-15,False,https://i.scdn.co/image/ab67616d0000b2732d2009b6cad53ddacad11334
+2023-06-26,23,Polaroid,Lim Young Woong,64,206400,single,2,2022-11-15,False,https://i.scdn.co/image/ab67616d0000b2732d2009b6cad53ddacad11334
+2023-06-26,24,"Steal The Show - From ""Elemental""",Lauv,73,191779,single,1,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b27322bbb2bd9c0d6bec5057d535
+2023-06-26,25,Cupid - Twin Ver.,FIFTY FIFTY,99,174253,single,3,2023-02-24,False,https://i.scdn.co/image/ab67616d0000b27337c0b3670236c067c8e8bbcb
+2023-06-26,26,If We Ever Meet Again,Lim Young Woong,61,274386,album,12,2022-05-02,False,https://i.scdn.co/image/ab67616d0000b2738f116e476da669a9a3e7dcaa
+2023-06-26,27,Super,SEVENTEEN,88,200386,single,6,2023-04-24,False,https://i.scdn.co/image/ab67616d0000b27380e31ba0c05187e6310ef264
+2023-06-26,28,Lilith (feat. SUGA of BTS) (Diablo IV Anthem),Halsey & SUGA,86,180933,single,1,2023-06-05,True,https://i.scdn.co/image/ab67616d0000b273f19310c007c0fad365b0542e
+2023-06-26,29,Cupid,FIFTY FIFTY,88,174253,single,3,2023-02-24,False,https://i.scdn.co/image/ab67616d0000b27337c0b3670236c067c8e8bbcb
+2023-06-26,30,Attention,NewJeans,84,180066,single,4,2022-08-01,False,https://i.scdn.co/image/ab67616d0000b2739d28fd01859073a3ae6ea209
+2023-06-26,31,NIGHT DANCER,imase,78,210600,album,7,2022-11-09,False,https://i.scdn.co/image/ab67616d0000b2734b062591b6a5c15652dd2bb5
+2023-06-26,32,Broken Melodies,NCT DREAM,70,226160,single,1,2023-06-19,False,https://i.scdn.co/image/ab67616d0000b273c56ad1f03ab69a8a447d509c
+2023-06-26,33,VIBE (feat. Jimin of BTS),TAEYANG,71,175775,album,6,2023-04-25,False,https://i.scdn.co/image/ab67616d0000b27346313223adf2b6d726388328
+2023-06-26,34,Dreamers [Music from the FIFA World Cup Qatar 2022 Official Soundtrack],Jung Kook & BTS,87,201391,single,1,2022-11-20,False,https://i.scdn.co/image/ab67616d0000b273ef57183066d6cac0cabb85c6
+2023-06-26,35,ANTIFRAGILE,LE SSERAFIM,79,184444,album,13,2023-05-01,False,https://i.scdn.co/image/ab67616d0000b273d71fd77b89d08bc1bda219c7
+2023-06-26,36,Rainbow,Lim Young Woong,59,196400,album,12,2022-05-02,False,https://i.scdn.co/image/ab67616d0000b2738f116e476da669a9a3e7dcaa
+2023-06-26,37,FLOWER,JISOO,85,173134,single,2,2023-03-31,False,https://i.scdn.co/image/ab67616d0000b273f35b8a6c03cc633f734bd8ac
+2023-06-26,38,S-Class,Stray Kids,89,195688,album,12,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b273d8025c5b4c1f01c69ebdc935
+2023-06-26,39,Sunflower - Spider-Man: Into the Spider-Verse,Post Malone,88,157560,album,17,2019-09-06,False,https://i.scdn.co/image/ab67616d0000b2739478c87599550dd73bfa7e02
+2023-06-26,40,LOCKDOWN,ISEGYE IDOL,44,201906,single,2,2023-06-23,False,https://i.scdn.co/image/ab67616d0000b273628f1289fdc75e1906f24d27
+2023-06-26,41,After LIKE,IVE,85,176973,single,2,2022-08-22,False,https://i.scdn.co/image/ab67616d0000b27387f53da5fb4ab1171766b2d5
+2023-06-26,42,Haegeum,Agust D,89,168926,album,10,2023-04-21,False,https://i.scdn.co/image/ab67616d0000b273fa9247b68471b82d2125651e
+2023-06-26,43,"Our Blues, Our Life",Lim Young Woong,59,207386,album,12,2022-05-02,False,https://i.scdn.co/image/ab67616d0000b2738f116e476da669a9a3e7dcaa
+2023-06-26,44,Kill Bill,SZA,94,153946,album,23,2022-12-08,False,https://i.scdn.co/image/ab67616d0000b2730c471c36970b9406233842a5
+2023-06-26,45,Promise,Jimin,77,151011,single,1,2018-12-31,False,https://i.scdn.co/image/ab67616d0000b27321d21c44fa7a2495c37ce088
+2023-06-26,46,A bientot,Lim Young Woong,58,256372,album,12,2022-05-02,False,https://i.scdn.co/image/ab67616d0000b2738f116e476da669a9a3e7dcaa
+2023-06-26,47,Thirsty,aespa,77,193413,single,6,2023-05-08,False,https://i.scdn.co/image/ab67616d0000b27304878afb19613a94d37b29ce
+2023-06-26,48,I Don’t Think That I Like Her,Charlie Puth,73,188507,album,12,2022-10-06,False,https://i.scdn.co/image/ab67616d0000b27335d2e0ed94a934f2cc46fa49
+2023-06-26,49,Dare to Love (feat. BIG Naughty),B.I,63,175716,album,15,2023-06-01,False,https://i.scdn.co/image/ab67616d0000b27316ec5264f7c472cfdc2c1b9d
+2023-06-26,50,Boat,george,58,191994,single,1,2017-11-17,False,https://i.scdn.co/image/ab67616d0000b27326124ac81cc872cd040defd8
