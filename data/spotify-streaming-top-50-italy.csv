@@ -2199,3 +2199,53 @@ date,position,song,artist,popularity,duration_ms,album_type,total_tracks,release
 2023-06-30,48,BESO,ROSALÍA & Rauw Alejandro,96,194543,single,3,2023-03-24,False,https://i.scdn.co/image/ab67616d0000b2734d6cf0d0d5e32ca4fa3a59e1
 2023-06-30,49,Dimmi Che C'è (feat. Tedua),thasup,72,182078,album,21,2022-09-30,False,https://i.scdn.co/image/ab67616d0000b27372cfdfd53af51bcfed067d75
 2023-06-30,50,LA FINE DEL MONDO,Mr.Rain & sangiovanni,74,162000,single,1,2023-05-12,False,https://i.scdn.co/image/ab67616d0000b273e838b2164980ab4a17fed780
+2023-07-01,1,Hoe (feat. Sfera Ebbasta),Tedua,85,137098,album,16,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b273e8a27e7c2f439b53567c7496
+2023-07-01,2,VETRI NERI,AVA & ANNA & Capo Plaza,84,164776,single,1,2023-05-19,True,https://i.scdn.co/image/ab67616d0000b273789f1862aa0e62086ff675f9
+2023-07-01,3,"BON TON (feat. Lazza, BLANCO, Sfera Ebbasta & Michelangelo)",Drillionaire & Lazza & BLANCO,78,238533,single,1,2023-06-22,False,https://i.scdn.co/image/ab67616d0000b2730700e1cf6a3469e938bd392d
+2023-07-01,4,Un milione di volte (feat. Sfera Ebbasta),Shiva,81,181714,album,13,2023-06-09,True,https://i.scdn.co/image/ab67616d0000b27311f1b8bfd983e041f0ccb949
+2023-07-01,5,DISCO PARADISE,Fedez & Annalisa & Articolo 31,82,198536,single,1,2023-05-25,False,https://i.scdn.co/image/ab67616d0000b27341bb57fdd0dd954c25895033
+2023-07-01,6,"Gelosa (feat. Shiva, Sfera Ebbasta, Guè)",Finesse & Shiva & Sfera Ebbasta,83,181611,single,1,2023-02-24,False,https://i.scdn.co/image/ab67616d0000b273daa862db6dbe29bb621e9338
+2023-07-01,7,ITALODISCO,The Kolors,77,199512,single,1,2023-05-05,False,https://i.scdn.co/image/ab67616d0000b2737811146a7f29756c0bbda111
+2023-07-01,8,Rubami la Notte,Pinguini Tattici Nucleari,69,189583,album,16,2022-12-02,False,https://i.scdn.co/image/ab67616d0000b273df8e97d294e5f3d8ec777f68
+2023-07-01,9,Mon Amour,Annalisa,82,203225,single,1,2023-03-31,False,https://i.scdn.co/image/ab67616d0000b27318cfcfb5f053d8cf88b8b48c
+2023-07-01,10,COME VUOI,Geolier,81,172615,album,18,2023-01-06,True,https://i.scdn.co/image/ab67616d0000b273a43bc8d38cdecdb7a71b34a6
+2023-07-01,11,CENERE,Lazza,76,208323,album,26,2022-04-07,False,https://i.scdn.co/image/ab67616d0000b273279a772ce72afcc068718423
+2023-07-01,12,Ci pensiamo domani,Angelina Mango,79,180184,single,1,2023-05-12,False,https://i.scdn.co/image/ab67616d0000b2738fdce21e347eb12b3ed951be
+2023-07-01,13,IL MALE CHE MI FAI (feat. Marracash),Geolier,82,167339,album,24,2023-04-07,False,https://i.scdn.co/image/ab67616d0000b273afd999e92d692ad962b9c556
+2023-07-01,14,Malamente,Tedua,80,181875,album,16,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b273e8a27e7c2f439b53567c7496
+2023-07-01,15,TAXI SULLA LUNA,Tony Effe & Emma & Takagi & Ketra,76,143500,single,1,2023-06-08,False,https://i.scdn.co/image/ab67616d0000b273d31c0f7e84b4eae88ee7902a
+2023-07-01,16,Un Briciolo Di Allegria (con MINA),BLANCO,80,207615,album,12,2023-04-13,False,https://i.scdn.co/image/ab67616d0000b273d0a7dfc11235eb8a6fc8fbf0
+2023-07-01,17,Pelé,Rhove & Madfingerz,80,133858,single,1,2023-03-16,True,https://i.scdn.co/image/ab67616d0000b2731959056f44e03cdd18d85cc8
+2023-07-01,18,Non litighiamo più,Rocco Hunt,80,180444,single,1,2023-03-31,False,https://i.scdn.co/image/ab67616d0000b2734197301044c769c52ad4d61c
+2023-07-01,19,Paradiso Artificiale (feat. Baby Gang & Kid Yugi),Tedua,80,162411,album,16,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b273e8a27e7c2f439b53567c7496
+2023-07-01,20,"MIRAGE (feat. Ozuna, GIMS & Sfera Ebbasta)",AriBeatz & Ozuna & Sfera Ebbasta,84,206054,single,1,2023-04-14,True,https://i.scdn.co/image/ab67616d0000b2734a317bdd13b1a039a24300aa
+2023-07-01,21,WHERE SHE GOES,Bad Bunny,99,231704,single,1,2023-05-18,True,https://i.scdn.co/image/ab67616d0000b273ab5c9cd818ad6ed3e9b79cd1
+2023-07-01,22,"Quevedo: Bzrp Music Sessions, Vol. 52",Bizarrap & Quevedo,93,198937,single,1,2022-07-06,False,https://i.scdn.co/image/ab67616d0000b2731630dd349221a35ce03a0ccf
+2023-07-01,23,Red Light,Tedua,78,167880,album,16,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b273e8a27e7c2f439b53567c7496
+2023-07-01,24,HOLLYWOOD,Irama & Rkomi & Shablo,75,184800,single,1,2023-06-09,False,https://i.scdn.co/image/ab67616d0000b273bdab0cb55342b2768151767f
+2023-07-01,25,bellissimissima <3,Alfa,74,157031,single,1,2023-05-12,False,https://i.scdn.co/image/ab67616d0000b2737f48df21dd62579dcfd712ad
+2023-07-01,26,PARAFULMINI (con Bresh & Fabri Fibra),Ernia,72,208909,album,17,2023-05-04,False,https://i.scdn.co/image/ab67616d0000b273f7c44bfe4ebeb9c41e6b30dd
+2023-07-01,27,Pazza Musica,Marco Mengoni,75,194472,album,37,2023-05-26,False,https://i.scdn.co/image/ab67616d0000b27391543ddbf5df0343632b1254
+2023-07-01,28,Guasto D'Amore,Bresh & SHUNE,78,200080,single,1,2023-01-27,False,https://i.scdn.co/image/ab67616d0000b273fdcbf5d28fd6ab6d35c6411f
+2023-07-01,29,Alta marea,Coez & Frah Quintale,73,171903,single,1,2023-06-16,False,https://i.scdn.co/image/ab67616d0000b273886f45a24eda4629264a43e1
+2023-07-01,30,X CASO (feat. Sfera Ebbasta),Geolier,79,215421,album,18,2023-01-06,True,https://i.scdn.co/image/ab67616d0000b273a43bc8d38cdecdb7a71b34a6
+2023-07-01,31,Volgare (feat. Lazza),Tedua,78,148367,album,16,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b273e8a27e7c2f439b53567c7496
+2023-07-01,32,(It Goes Like) Nanana - Edit,Peggy Gou,86,231545,single,1,2023-06-15,False,https://i.scdn.co/image/ab67616d0000b2739a8459318ff1a68ecfd74522
+2023-07-01,33,ORIGAMI ALL'ALBA - CLARA,Matteo Paolillo - Icaro & Lolloflow & CLARA,78,153758,single,2,2023-02-24,False,https://i.scdn.co/image/ab67616d0000b273581a52729617653dabbe3fc8
+2023-07-01,34,Arai (feat. Capo Plaza),Medy,77,181668,album,7,2023-01-13,True,https://i.scdn.co/image/ab67616d0000b2734095e81ba4f0acca559a91c0
+2023-07-01,35,Ancora,Rhove,69,171775,single,3,2023-06-21,True,https://i.scdn.co/image/ab67616d0000b273d63d849b650950d5a95f567f
+2023-07-01,36,ON FIRE - paid in full,Emis Killa,78,176000,album,14,2023-05-19,False,https://i.scdn.co/image/ab67616d0000b27329df67b7e1d45411f2ac4a92
+2023-07-01,37,Mancanze Affettive (feat. Geolier),Tedua,78,231296,album,16,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b273e8a27e7c2f439b53567c7496
+2023-07-01,38,Un Altro Mondo (con Tananai & Marracash),Merk & Kremont & Tananai & Marracash,69,167647,single,1,2023-06-21,False,https://i.scdn.co/image/ab67616d0000b2738b55be183bd3e08021d15cc6
+2023-07-01,39,Baby Don't Hurt Me,David Guetta & Anne-Marie & Coi Leray,94,140017,single,2,2023-04-06,False,https://i.scdn.co/image/ab67616d0000b2730b4ef75c3728599aa4104f7a
+2023-07-01,40,Fragole,Achille Lauro & Rose Villain,74,209621,single,1,2023-05-12,False,https://i.scdn.co/image/ab67616d0000b273189716d6620abf7c4ab22696
+2023-07-01,41,Anime Libere (feat. Rkomi & Bresh),Tedua,77,173770,album,16,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b273e8a27e7c2f439b53567c7496
+2023-07-01,42,CHIAGNE (feat. Lazza & Takagi & Ketra),Geolier,75,179863,album,18,2023-01-06,False,https://i.scdn.co/image/ab67616d0000b273a43bc8d38cdecdb7a71b34a6
+2023-07-01,43,Cookies N' Cream (feat. ANNA & Sfera Ebbasta),Guè,77,201845,album,12,2023-01-13,True,https://i.scdn.co/image/ab67616d0000b2732f81606d1dbb823ca4a021b3
+2023-07-01,44,TANGO,Tananai,73,209062,album,16,2022-11-24,False,https://i.scdn.co/image/ab67616d0000b27374dfe2b9efecc249aa0b2a55
+2023-07-01,45,Bibidi Bobidi Bu (feat. Paky),Shiva,75,166222,album,13,2023-06-09,True,https://i.scdn.co/image/ab67616d0000b27311f1b8bfd983e041f0ccb949
+2023-07-01,46,BESO,ROSALÍA & Rauw Alejandro,96,194543,single,3,2023-03-24,False,https://i.scdn.co/image/ab67616d0000b2734d6cf0d0d5e32ca4fa3a59e1
+2023-07-01,47,ANELLI E COLLANE (feat. ANNA),Artie 5ive,72,189015,album,10,2023-05-05,True,https://i.scdn.co/image/ab67616d0000b2734ce00dcefbfab73d5ff70386
+2023-07-01,48,Due Vite,Marco Mengoni,72,225652,album,28,2022-12-25,False,https://i.scdn.co/image/ab67616d0000b2730e61e4e997a3dc0ba273e732
+2023-07-01,49,Dimmi Che C'è (feat. Tedua),thasup,72,182078,album,21,2022-09-30,False,https://i.scdn.co/image/ab67616d0000b27372cfdfd53af51bcfed067d75
+2023-07-01,50,Whip Whip,Rhove,75,117600,single,2,2023-05-18,True,https://i.scdn.co/image/ab67616d0000b27327d9e289e069abbaa5192a02
