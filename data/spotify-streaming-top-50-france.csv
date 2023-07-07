@@ -2499,3 +2499,53 @@ date,position,song,artist,popularity,duration_ms,album_type,total_tracks,release
 2023-07-06,48,Piranha (feat. Vacra),Nahir,38,155760,album,17,2023-06-23,True,https://i.scdn.co/image/ab67616d0000b273b8fd99915aa69a6c3ac4fb69
 2023-07-06,49,AMBER,Zola,59,182493,album,25,2023-05-26,True,https://i.scdn.co/image/ab67616d0000b27372397921165a97ee43bba844
 2023-07-06,50,La League,Werenoi,75,179572,single,1,2021-03-03,True,https://i.scdn.co/image/ab67616d0000b273530417284071d70ff30d43d9
+2023-07-07,1,Bolide allemand,SDM,82,176746,album,15,2022-12-02,True,https://i.scdn.co/image/ab67616d0000b273455e89dbf3ce2e6d337be1d0
+2023-07-07,2,Eurostar (feat. Central Cee),Ninho,75,187057,album,16,2023-06-30,True,https://i.scdn.co/image/ab67616d0000b27318d7aeed9b54d67eb3f65e44
+2023-07-07,3,Meuda,Tiakola,81,152546,album,16,2022-05-27,True,https://i.scdn.co/image/ab67616d0000b2731bbc72ff946f55d4d3188062
+2023-07-07,4,C'est carré le S,Naps,63,201533,album,23,2023-04-28,True,https://i.scdn.co/image/ab67616d0000b273d33a76e9a6447e09922125a7
+2023-07-07,5,Blue story (feat. Lil Baby),Ninho,74,258480,album,16,2023-06-30,True,https://i.scdn.co/image/ab67616d0000b27318d7aeed9b54d67eb3f65e44
+2023-07-07,6,25 G,Ninho,70,250120,album,16,2023-06-30,True,https://i.scdn.co/image/ab67616d0000b27318d7aeed9b54d67eb3f65e44
+2023-07-07,7,Jolie (feat. Ninho),GAULOIS,77,159573,album,14,2023-01-13,True,https://i.scdn.co/image/ab67616d0000b2733c9df4c3afb30980eec2674e
+2023-07-07,8,La vie de Johnny,Ninho,73,207893,album,16,2023-06-30,True,https://i.scdn.co/image/ab67616d0000b27318d7aeed9b54d67eb3f65e44
+2023-07-07,9,No love,Ninho,72,202186,album,16,2023-06-30,True,https://i.scdn.co/image/ab67616d0000b27318d7aeed9b54d67eb3f65e44
+2023-07-07,10,Rush,Ayra Starr,84,185093,album,16,2022-10-21,False,https://i.scdn.co/image/ab67616d0000b2734828f4b04d92d6641be98cc5
+2023-07-07,11,Laboratoire,Werenoi,78,162840,album,18,2023-03-10,True,https://i.scdn.co/image/ab67616d0000b27338a0c9e975d3aee9b44a6918
+2023-07-07,12,Rich Porter,Ninho,72,203360,album,16,2023-06-30,True,https://i.scdn.co/image/ab67616d0000b27318d7aeed9b54d67eb3f65e44
+2023-07-07,13,Flowers,Miley Cyrus,91,200600,album,13,2023-03-10,False,https://i.scdn.co/image/ab67616d0000b27358039b5147731b6e52202e46
+2023-07-07,14,Saiyan,Heuss L'enfoiré,54,189840,album,14,2023-06-30,True,https://i.scdn.co/image/ab67616d0000b273e867057ecb11903ffe53224b
+2023-07-07,15,LA RUE,No Limit & Gazo & Damso,80,225137,single,1,2023-06-05,True,https://i.scdn.co/image/ab67616d0000b27384f2454da0973c07a508b57e
+2023-07-07,16,Nouvelles,PLK,78,179653,single,10,2023-04-13,True,https://i.scdn.co/image/ab67616d0000b273390bfa914f9f7b04582aba5d
+2023-07-07,17,Tattoo,Loreen,94,183374,single,1,2023-02-25,False,https://i.scdn.co/image/ab67616d0000b2732b0ba87db609976eee193bd6
+2023-07-07,18,GTB,JEY BROWNIE & FLEM KGB,68,176786,album,14,2023-02-17,True,https://i.scdn.co/image/ab67616d0000b273dd35045654bea217eabfe77a
+2023-07-07,19,Chiraq,Ninho,71,266506,album,16,2023-06-30,True,https://i.scdn.co/image/ab67616d0000b27318d7aeed9b54d67eb3f65e44
+2023-07-07,20,Yo moko oyebi,Ninho,72,221133,album,16,2023-06-30,True,https://i.scdn.co/image/ab67616d0000b27318d7aeed9b54d67eb3f65e44
+2023-07-07,21,Bad,Ninho,71,226973,album,16,2023-06-30,True,https://i.scdn.co/image/ab67616d0000b27318d7aeed9b54d67eb3f65e44
+2023-07-07,22,Branché sur snap,Ninho,72,209320,album,16,2023-06-30,True,https://i.scdn.co/image/ab67616d0000b27318d7aeed9b54d67eb3f65e44
+2023-07-07,23,Daylight,David Kushner,99,212953,single,1,2023-04-14,False,https://i.scdn.co/image/ab67616d0000b27395ca6a9b4083a86c149934ae
+2023-07-07,24,Demain,PLK,79,183013,single,10,2023-04-13,True,https://i.scdn.co/image/ab67616d0000b273390bfa914f9f7b04582aba5d
+2023-07-07,25,Tiki Taka,Vacra,70,174829,album,8,2023-02-23,False,https://i.scdn.co/image/ab67616d0000b2734d82486b5c7a283ab9ed2797
+2023-07-07,26,Edouard Nahum,Ninho,71,187013,album,16,2023-06-30,True,https://i.scdn.co/image/ab67616d0000b27318d7aeed9b54d67eb3f65e44
+2023-07-07,27,Dépassé,Nuit Incolore,77,172394,single,1,2022-12-15,False,https://i.scdn.co/image/ab67616d0000b273b157e61791dc23dff9786eb4
+2023-07-07,28,Baby Don't Hurt Me,David Guetta & Anne-Marie & Coi Leray,94,140017,single,2,2023-04-06,False,https://i.scdn.co/image/ab67616d0000b2730b4ef75c3728599aa4104f7a
+2023-07-07,29,Bon qu’à ça,Ninho,70,169226,album,16,2023-06-30,True,https://i.scdn.co/image/ab67616d0000b27318d7aeed9b54d67eb3f65e44
+2023-07-07,30,Dans la peau,Ninho,71,189306,album,16,2023-06-30,True,https://i.scdn.co/image/ab67616d0000b27318d7aeed9b54d67eb3f65e44
+2023-07-07,31,Respect,Ninho,71,198373,album,16,2023-06-30,True,https://i.scdn.co/image/ab67616d0000b27318d7aeed9b54d67eb3f65e44
+2023-07-07,32,Ciao,Werenoi,75,216333,album,18,2023-03-10,True,https://i.scdn.co/image/ab67616d0000b27338a0c9e975d3aee9b44a6918
+2023-07-07,33,Decrescendo,Lomepal,77,218586,album,15,2022-09-15,False,https://i.scdn.co/image/ab67616d0000b273f3b4ab85fc00ae35007eb7d0
+2023-07-07,34,Solitaire,Werenoi,76,146440,album,10,2022-06-03,True,https://i.scdn.co/image/ab67616d0000b273cf79b3201cff3e3a19942f12
+2023-07-07,35,Urus,Favé,73,147788,single,1,2022-10-12,True,https://i.scdn.co/image/ab67616d0000b273583586e9318379d1add68cfe
+2023-07-07,36,Grands ensembles,Ninho,70,218720,album,16,2023-06-30,True,https://i.scdn.co/image/ab67616d0000b27318d7aeed9b54d67eb3f65e44
+2023-07-07,37,Mr. Ocho,SDM,77,226653,album,15,2022-12-02,True,https://i.scdn.co/image/ab67616d0000b273455e89dbf3ce2e6d337be1d0
+2023-07-07,38,Nocif,Hamza,75,229386,album,17,2023-02-17,True,https://i.scdn.co/image/ab67616d0000b2736d70a04b5fbec88db801822f
+2023-07-07,39,Capitaine,Djadja & Dinaz,77,155920,album,34,2023-03-17,True,https://i.scdn.co/image/ab67616d0000b27307d766657a7ded13871265af
+2023-07-07,40,"1,2,3 Soleil",NAZAKEBLACK & Naza & KeBlack,74,173419,single,1,2023-06-08,False,https://i.scdn.co/image/ab67616d0000b273b97a798223df384eb95a3188
+2023-07-07,41,Plus qu’eux,Ninho,70,209253,album,16,2023-06-30,True,https://i.scdn.co/image/ab67616d0000b27318d7aeed9b54d67eb3f65e44
+2023-07-07,42,Se Grita,Morad,80,259627,album,19,2023-05-12,True,https://i.scdn.co/image/ab67616d0000b273937ce99b134e3586d0bfdb19
+2023-07-07,43,Finale - Nouvelle École,Dau,77,180000,single,1,2023-05-31,True,https://i.scdn.co/image/ab67616d0000b27383a0df30f0edbc00c5fc0d2a
+2023-07-07,44,BESO,ROSALÍA & Rauw Alejandro,96,194543,single,3,2023-03-24,False,https://i.scdn.co/image/ab67616d0000b2734d6cf0d0d5e32ca4fa3a59e1
+2023-07-07,45,La vie qu'on mène,Ninho,76,193443,album,18,2019-03-22,False,https://i.scdn.co/image/ab67616d0000b2733f12b172c90b9fe9232f38d0
+2023-07-07,46,Substitution (feat. Julian Perretta),Purple Disco Machine & Kungs & Julian Perretta,86,181477,single,2,2023-03-30,False,https://i.scdn.co/image/ab67616d0000b273a8bcf8fac8520ac2cbf72ea7
+2023-07-07,47,AMBER,Zola,59,182493,album,25,2023-05-26,True,https://i.scdn.co/image/ab67616d0000b27372397921165a97ee43bba844
+2023-07-07,48,La faille,Jul,69,291280,album,21,2023-06-09,True,https://i.scdn.co/image/ab67616d0000b273c6f5a6c929bb4da899b35fa2
+2023-07-07,49,Piranha (feat. Vacra),Nahir,38,155760,album,17,2023-06-23,True,https://i.scdn.co/image/ab67616d0000b273b8fd99915aa69a6c3ac4fb69
+2023-07-07,50,La League,Werenoi,75,179572,single,1,2021-03-03,True,https://i.scdn.co/image/ab67616d0000b273530417284071d70ff30d43d9
