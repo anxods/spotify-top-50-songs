@@ -2699,3 +2699,53 @@ date,position,song,artist,popularity,duration_ms,album_type,total_tracks,release
 2023-07-10,48,Creepin' (with The Weeknd & 21 Savage),Metro Boomin,96,221520,album,15,2022-12-02,True,https://i.scdn.co/image/ab67616d0000b27313e54d6687e65678d60466c2
 2023-07-10,49,Trojan Horse,Dave & Central Cee,84,248866,single,4,2023-06-04,True,https://i.scdn.co/image/ab67616d0000b27326847a635b96c96fee81d838
 2023-07-10,50,Viva La Vida,Coldplay,91,242373,album,10,2008-05-26,False,https://i.scdn.co/image/ab67616d0000b273e21cc1db05580b6f2d2a3b6e
+2023-07-11,1,Sprinter,Dave & Central Cee,96,229133,single,1,2023-06-01,True,https://i.scdn.co/image/ab67616d0000b273e3a09a9ae3f1fa102c110e60
+2023-07-11,2,vampire,Olivia Rodrigo,96,219724,single,1,2023-06-30,True,https://i.scdn.co/image/ab67616d0000b2731e5e75dc1d878a0007cb6525
+2023-07-11,3,Cruel Summer,Taylor Swift,99,178426,album,18,2019-08-23,False,https://i.scdn.co/image/ab67616d0000b273e787cffec20aa2a396a61647
+2023-07-11,4,I Can See You (Taylor’s Version) (From The Vault),Taylor Swift,88,273186,album,22,2023-07-07,False,https://i.scdn.co/image/ab67616d0000b2730b04da4f224b51ff86e0a481
+2023-07-11,5,Who Told You (feat. Drake),J Hus & Drake,89,208917,single,1,2023-06-08,True,https://i.scdn.co/image/ab67616d0000b273f6aca6a7d4132d9b2d15e0f0
+2023-07-11,6,Giving Me,Jazzy,85,169000,single,1,2023-03-10,False,https://i.scdn.co/image/ab67616d0000b273e0c6c64da0c8e1d1df7e001c
+2023-07-11,7,(It Goes Like) Nanana - Edit,Peggy Gou,90,231545,single,1,2023-06-15,False,https://i.scdn.co/image/ab67616d0000b2739a8459318ff1a68ecfd74522
+2023-07-11,8,Pakistan,D-Block Europe,54,174545,album,24,2023-07-07,True,https://i.scdn.co/image/ab67616d0000b273e4f55190394721ebd8570d27
+2023-07-11,9,Daylight,David Kushner,98,212953,single,1,2023-04-14,False,https://i.scdn.co/image/ab67616d0000b27395ca6a9b4083a86c149934ae
+2023-07-11,10,Popular (with Playboi Carti & Madonna) - Music from the HBO Original Series,The Weeknd & Madonna,88,215466,single,1,2023-06-02,True,https://i.scdn.co/image/ab67616d0000b2734c8f092adc59b4bf4212389d
+2023-07-11,11,fukumean,Gunna,92,125040,album,15,2023-06-16,True,https://i.scdn.co/image/ab67616d0000b273017d5e26552345c4b1575b6c
+2023-07-11,12,Miracle (with Ellie Goulding),Calvin Harris & Ellie Goulding,93,186496,single,1,2023-03-10,False,https://i.scdn.co/image/ab67616d0000b273c58e22815048f8dfb1aa8bd0
+2023-07-11,13,As It Was,Harry Styles,94,167303,album,13,2022-05-20,False,https://i.scdn.co/image/ab67616d0000b2732e8ed79e177ff6011076f5f0
+2023-07-11,14,Good Love,Hannah Laing & RoRo,81,169534,single,1,2023-05-12,False,https://i.scdn.co/image/ab67616d0000b2735647f33c586bfe7bb8b7a0c6
+2023-07-11,15,Enchanted (Taylor's Version),Taylor Swift,87,353253,album,22,2023-07-07,False,https://i.scdn.co/image/ab67616d0000b2730b04da4f224b51ff86e0a481
+2023-07-11,16,Dancing is Healing,Rudimental & Charlotte Plank & Vibe Chemistry,80,177321,single,2,2023-04-21,False,https://i.scdn.co/image/ab67616d0000b273b4edd98bf440d1013f6718d0
+2023-07-11,17,Mine (Taylor's Version),Taylor Swift,88,231706,album,22,2023-07-07,False,https://i.scdn.co/image/ab67616d0000b2730b04da4f224b51ff86e0a481
+2023-07-11,18,Flowers,Miley Cyrus,91,200600,album,13,2023-03-10,False,https://i.scdn.co/image/ab67616d0000b27358039b5147731b6e52202e46
+2023-07-11,19,Better Than Revenge (Taylor's Version),Taylor Swift,86,220306,album,22,2023-07-07,False,https://i.scdn.co/image/ab67616d0000b2730b04da4f224b51ff86e0a481
+2023-07-11,20,Back To December (Taylor's Version),Taylor Swift,88,294189,album,22,2023-07-07,False,https://i.scdn.co/image/ab67616d0000b2730b04da4f224b51ff86e0a481
+2023-07-11,21,Anti-Hero,Taylor Swift,95,200690,album,13,2022-10-21,False,https://i.scdn.co/image/ab67616d0000b273bb54dde68cd23e2a268ae0f5
+2023-07-11,22,Boy's a Liar Pt. 2,PinkPantheress & Ice Spice,95,131013,single,2,2023-02-03,False,https://i.scdn.co/image/ab67616d0000b27342c5ba689b2e7cbc208a8fa7
+2023-07-11,23,Sparks Fly (Taylor’s Version),Taylor Swift,87,261230,album,22,2023-07-07,False,https://i.scdn.co/image/ab67616d0000b2730b04da4f224b51ff86e0a481
+2023-07-11,24,Kill Bill,SZA,95,153946,album,23,2022-12-08,False,https://i.scdn.co/image/ab67616d0000b2730c471c36970b9406233842a5
+2023-07-11,25,Riptide,Vance Joy,84,204280,album,15,2014-09-09,False,https://i.scdn.co/image/ab67616d0000b273a9929deb093a6617d2493b03
+2023-07-11,26,REACT,Switch Disco & Ella Henderson & Robert Miles,84,201145,single,1,2023-01-13,False,https://i.scdn.co/image/ab67616d0000b27321acc4c231327248498a35da
+2023-07-11,27,Speak Now (Taylor's Version),Taylor Swift,86,242473,album,22,2023-07-07,False,https://i.scdn.co/image/ab67616d0000b2730b04da4f224b51ff86e0a481
+2023-07-11,28,People,Libianca,94,184791,single,1,2022-12-06,False,https://i.scdn.co/image/ab67616d0000b273fc342f95f117d48dbdde9735
+2023-07-11,29,Mr. Brightside,The Killers,89,222973,album,12,2004,False,https://i.scdn.co/image/ab67616d0000b273ccdddd46119a4ff53eaf1f5d
+2023-07-11,30,Dance The Night (From Barbie The Album),Dua Lipa,94,176579,single,1,2023-05-25,False,https://i.scdn.co/image/ab67616d0000b2737dd3ba455ee3390cb55b0192
+2023-07-11,31,Dear John (Taylor's Version),Taylor Swift,86,405906,album,22,2023-07-07,False,https://i.scdn.co/image/ab67616d0000b2730b04da4f224b51ff86e0a481
+2023-07-11,32,Castles Crumbling (feat. Hayley Williams) (Taylor’s Version) (From The Vault),Taylor Swift,85,306062,album,22,2023-07-07,False,https://i.scdn.co/image/ab67616d0000b2730b04da4f224b51ff86e0a481
+2023-07-11,33,UK Rap,Dave & Central Cee,85,198026,single,4,2023-06-04,True,https://i.scdn.co/image/ab67616d0000b27326847a635b96c96fee81d838
+2023-07-11,34,Style,Taylor Swift,83,231000,album,13,2014-10-27,False,https://i.scdn.co/image/ab67616d0000b2739abdf14e6058bd3903686148
+2023-07-11,35,I Ain't Worried,OneRepublic,95,148485,single,1,2022-05-13,False,https://i.scdn.co/image/ab67616d0000b273ec96e006b8bdfc582610ec13
+2023-07-11,36,Calm Down (with Selena Gomez),Rema,83,239317,album,22,2023-04-27,False,https://i.scdn.co/image/ab67616d0000b273963265801aa5c9740ad159b7
+2023-07-11,37,Mean (Taylor's Version),Taylor Swift,85,238693,album,22,2023-07-07,False,https://i.scdn.co/image/ab67616d0000b2730b04da4f224b51ff86e0a481
+2023-07-11,38,The Story Of Us (Taylor's Version),Taylor Swift,85,267653,album,22,2023-07-07,False,https://i.scdn.co/image/ab67616d0000b2730b04da4f224b51ff86e0a481
+2023-07-11,39,I Wanna Be Yours,Arctic Monkeys,96,183956,album,12,2013-09-09,False,https://i.scdn.co/image/ab67616d0000b2734ae1c4c5c45aabe565499163
+2023-07-11,40,0800 HEAVEN,Nathan Dawe & Joel Corry & Ella Henderson,56,159316,single,1,2023-06-09,False,https://i.scdn.co/image/ab67616d0000b273a5595661ff64a0c1deb1cea2
+2023-07-11,41,Someone You Loved,Lewis Capaldi,92,182160,album,12,2019-05-17,False,https://i.scdn.co/image/ab67616d0000b273fc2101e6889d6ce9025f85f2
+2023-07-11,42,Electric Touch (feat. Fall Out Boy) (Taylor’s Version) (From The Vault),Taylor Swift,85,266466,album,22,2023-07-07,False,https://i.scdn.co/image/ab67616d0000b2730b04da4f224b51ff86e0a481
+2023-07-11,43,Viva La Vida,Coldplay,91,242373,album,10,2008-05-26,False,https://i.scdn.co/image/ab67616d0000b273e21cc1db05580b6f2d2a3b6e
+2023-07-11,44,When Emma Falls in Love (Taylor’s Version) (From The Vault),Taylor Swift,85,252385,album,22,2023-07-07,False,https://i.scdn.co/image/ab67616d0000b2730b04da4f224b51ff86e0a481
+2023-07-11,45,Creepin' (with The Weeknd & 21 Savage),Metro Boomin,96,221520,album,15,2022-12-02,True,https://i.scdn.co/image/ab67616d0000b27313e54d6687e65678d60466c2
+2023-07-11,46,Trojan Horse,Dave & Central Cee,84,248866,single,4,2023-06-04,True,https://i.scdn.co/image/ab67616d0000b27326847a635b96c96fee81d838
+2023-07-11,47,505,Arctic Monkeys,83,253586,album,12,2007-04-24,False,https://i.scdn.co/image/ab67616d0000b2730c8ac83035e9588e8ad34b90
+2023-07-11,48,Why'd You Only Call Me When You're High?,Arctic Monkeys,90,161123,album,12,2013-09-09,False,https://i.scdn.co/image/ab67616d0000b2734ae1c4c5c45aabe565499163
+2023-07-11,49,See You Again (feat. Kali Uchis),"Tyler, The Creator",96,180386,album,14,2017-07-21,True,https://i.scdn.co/image/ab67616d0000b2738940ac99f49e44f59e6f7fb3
+2023-07-11,50,Haunted (Taylor's Version),Taylor Swift,84,245413,album,22,2023-07-07,False,https://i.scdn.co/image/ab67616d0000b2730b04da4f224b51ff86e0a481
