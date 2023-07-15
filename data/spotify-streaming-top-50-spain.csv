@@ -2899,3 +2899,53 @@ date,position,song,artist,popularity,duration_ms,album_type,total_tracks,release
 2023-07-14,48,LA INOCENTE,Mora,90,202173,album,15,2022-04-01,True,https://i.scdn.co/image/ab67616d0000b273851222dc5c5681bd4c3119d3
 2023-07-14,49,"Shakira: Bzrp Music Sessions, Vol. 53",Bizarrap & Shakira,93,214945,single,1,2023-01-11,False,https://i.scdn.co/image/ab67616d0000b2732b6d78c5a3f6247aa997b812
 2023-07-14,50,DESPECHÁ,ROSALÍA,86,156787,album,24,2022-09-09,True,https://i.scdn.co/image/ab67616d0000b273efc0ef9dd996312ebaf0bf52
+2023-07-15,1,Columbia,Quevedo,89,186000,single,1,2023-07-07,False,https://i.scdn.co/image/ab67616d0000b273a00a817b017c6f6bf8460be9
+2023-07-15,2,LALA,Myke Towers,95,197920,album,23,2023-03-23,True,https://i.scdn.co/image/ab67616d0000b2730656d5ce813ca3cc4b677e05
+2023-07-15,3,BABY HELLO,Rauw Alejandro,75,222461,album,14,2023-07-07,True,https://i.scdn.co/image/ab67616d0000b273f29d0900444e44b4146409e5
+2023-07-15,4,Los del Espacio,LIT killah,95,338000,single,1,2023-06-01,False,https://i.scdn.co/image/ab67616d0000b27352a52eac3761e2133bd0f57a
+2023-07-15,5,Arena y Sal,Omar Montes & Saiko & Tunvao,85,174415,single,1,2023-05-18,False,https://i.scdn.co/image/ab67616d0000b273e78ae3c73af7c17be0c05cb2
+2023-07-15,6,POLARIS - Remix,Saiko & Feid & Quevedo,90,288000,single,1,2023-06-08,True,https://i.scdn.co/image/ab67616d0000b2738f4a278cd5b5b2f65a0f87fd
+2023-07-15,7,"Rauw Alejandro: Bzrp Music Sessions, Vol. 56",Bizarrap & Rauw Alejandro,93,191254,single,1,2023-06-21,True,https://i.scdn.co/image/ab67616d0000b27395dcc1f2e2a2ad2050f7f41d
+2023-07-15,8,El Cielo,Sky Rompiendo & Feid & Myke Towers,94,191320,single,1,2023-06-02,True,https://i.scdn.co/image/ab67616d0000b27306eccb4893fa58ae311c45ea
+2023-07-15,9,WHERE SHE GOES,Bad Bunny,100,231704,single,1,2023-05-18,True,https://i.scdn.co/image/ab67616d0000b273ab5c9cd818ad6ed3e9b79cd1
+2023-07-15,10,VAGABUNDO,Sebastian Yatra & Manuel Turizo & Beéle,91,215600,single,1,2023-05-12,False,https://i.scdn.co/image/ab67616d0000b2732d6016751b8ea5e66e83cd04
+2023-07-15,11,El Merengue,Marshmello & Manuel Turizo,92,189668,single,1,2023-03-03,False,https://i.scdn.co/image/ab67616d0000b273f404676577626a87d92cf33f
+2023-07-15,12,COCO LOCO,Maluma,87,166734,single,1,2023-06-08,False,https://i.scdn.co/image/ab67616d0000b273925cc82b6e5af2a2c91cd5d4
+2023-07-15,13,Clavaito,Chanel & Abraham Mateo,85,162740,single,1,2023-04-27,False,https://i.scdn.co/image/ab67616d0000b273441d55b86b1e5a3d4c3da232
+2023-07-15,14,Supernova,Saiko,85,190909,single,1,2023-04-19,False,https://i.scdn.co/image/ab67616d0000b273c3f5b9580dfc96c80705424a
+2023-07-15,15,EL TONTO,Lola Indigo,84,187986,album,11,2023-04-13,False,https://i.scdn.co/image/ab67616d0000b273daab364ac14d96679b5639aa
+2023-07-15,16,Classy 101,Feid & Young Miko,97,195986,single,1,2023-03-31,True,https://i.scdn.co/image/ab67616d0000b27329ebee2b5fb008871fcd201a
+2023-07-15,17,Nochentera,Vicco,83,202184,single,1,2022-12-19,False,https://i.scdn.co/image/ab67616d0000b27343eb3794977db60bced5ad16
+2023-07-15,18,No_se_ve.mp3,Emilia & LUDMILLA & ZECCA,89,203636,single,1,2023-05-03,True,https://i.scdn.co/image/ab67616d0000b27332630fe83750d8db0b2b2d5c
+2023-07-15,19,PLAYA DEL INGLÉS,Quevedo,84,237525,album,16,2023-01-20,False,https://i.scdn.co/image/ab67616d0000b273efc1b8f6beda4abe848a84e0
+2023-07-15,20,BESO,ROSALÍA & Rauw Alejandro,95,194543,single,3,2023-03-24,False,https://i.scdn.co/image/ab67616d0000b2734d6cf0d0d5e32ca4fa3a59e1
+2023-07-15,21,WANDA,Quevedo,88,160909,album,16,2023-01-20,False,https://i.scdn.co/image/ab67616d0000b273efc1b8f6beda4abe848a84e0
+2023-07-15,22,Coco Chanel,Eladio Carrion,93,208125,album,18,2023-03-17,True,https://i.scdn.co/image/ab67616d0000b273fc8563c0dc75d79e73c2dca0
+2023-07-15,23,Rara Vez,Taiu & Milo j,91,128677,single,1,2023-02-08,False,https://i.scdn.co/image/ab67616d0000b273d467bed4e6b2a01ea8569100
+2023-07-15,24,Yandel 150,Yandel,90,216148,album,17,2023-01-13,True,https://i.scdn.co/image/ab67616d0000b273b2aec01b56eeb74610532700
+2023-07-15,25,CORAZÓN VACÍO,Maria Becerra,89,160535,single,1,2023-06-22,False,https://i.scdn.co/image/ab67616d0000b273a3cbe5aa0bcf10eb02a8c960
+2023-07-15,26,LAS BABYS,Aitana,83,153827,single,1,2023-06-06,True,https://i.scdn.co/image/ab67616d0000b273d97fd92a38320a899113f139
+2023-07-15,27,Si La Calle Llama - Remix,Eladio Carrion,87,240000,album,18,2023-03-17,True,https://i.scdn.co/image/ab67616d0000b273fc8563c0dc75d79e73c2dca0
+2023-07-15,28,La Bachata,Manuel Turizo,88,162637,album,15,2023-03-17,False,https://i.scdn.co/image/ab67616d0000b2734dd99565ae6453deab7c26e1
+2023-07-15,29,MOJABI GHOST,Tainy,92,232131,album,19,2023-06-29,True,https://i.scdn.co/image/ab67616d0000b273de7b9af78fbdda96c5a0635b
+2023-07-15,30,MERCHO,LiL CaKe & Migrantes,89,161451,single,1,2022-12-16,False,https://i.scdn.co/image/ab67616d0000b2739f1f8adb00c71daa8a9cb22c
+2023-07-15,31,Mi Lova,Bad Gyal & Myke Towers,77,220173,single,1,2023-07-07,True,https://i.scdn.co/image/ab67616d0000b273539e71ce43092f758de83c09
+2023-07-15,32,La Bebe - Remix,Yng Lvcas & Peso Pluma,99,234352,single,2,2023-03-17,True,https://i.scdn.co/image/ab67616d0000b273a04be3ad7c8c67f4109111a9
+2023-07-15,33,Ella Baila Sola,Eslabon Armado,93,165671,album,16,2023-04-28,False,https://i.scdn.co/image/ab67616d0000b273dfddf1cb31b85a6d28b7d91f
+2023-07-15,34,Niña Bonita,Feid & Sean Paul,90,187653,single,1,2023-04-21,False,https://i.scdn.co/image/ab67616d0000b27347b049fcbcc571271cc88d9f
+2023-07-15,35,"Quevedo: Bzrp Music Sessions, Vol. 52",Bizarrap & Quevedo,94,198937,single,1,2022-07-06,False,https://i.scdn.co/image/ab67616d0000b2731630dd349221a35ce03a0ccf
+2023-07-15,36,PASIEMPRE,Tainy,86,355795,album,19,2023-06-29,True,https://i.scdn.co/image/ab67616d0000b273de7b9af78fbdda96c5a0635b
+2023-07-15,37,Cupido,TINI,84,174369,album,14,2023-02-16,False,https://i.scdn.co/image/ab67616d0000b273f5409c637b9a7244e0c0d11d
+2023-07-15,38,Mami Chula,Jhayco & Quevedo,85,220600,single,1,2023-04-28,False,https://i.scdn.co/image/ab67616d0000b273cb950d94cb42ca9d03754578
+2023-07-15,39,TQG,KAROL G,95,197933,album,17,2023-02-24,True,https://i.scdn.co/image/ab67616d0000b27382de1ca074ae63cb18fce335
+2023-07-15,40,PUNTO G,Quevedo,87,151324,album,16,2023-01-20,False,https://i.scdn.co/image/ab67616d0000b273efc1b8f6beda4abe848a84e0
+2023-07-15,41,Hey Mor,Ozuna,92,196600,album,18,2022-10-07,False,https://i.scdn.co/image/ab67616d0000b273125624f2e04f5a1ccb0dfb45
+2023-07-15,42,Los Ángeles,Aitana,83,158483,single,1,2023-03-29,False,https://i.scdn.co/image/ab67616d0000b273272365661e2197708b89de01
+2023-07-15,43,Copa Vacía,Shakira & Manuel Turizo,87,173547,single,1,2023-06-29,False,https://i.scdn.co/image/ab67616d0000b273caecc8c0bcfd16173dfeeb53
+2023-07-15,44,Todo Contigo,Álvaro De Luna,79,165527,single,1,2023-03-17,False,https://i.scdn.co/image/ab67616d0000b2737d45bffb03d186c1f4a47a83
+2023-07-15,45,TUYA,ROSALÍA,87,154551,single,1,2023-06-08,True,https://i.scdn.co/image/ab67616d0000b273fdac20e82a98955918ac8ba5
+2023-07-15,46,Arranca (feat. Omega),Becky G & Omega,86,166529,single,1,2023-03-10,False,https://i.scdn.co/image/ab67616d0000b27361f698cb35bb6f6d96fd1612
+2023-07-15,47,Antes,Rvfv & Edu García,78,153684,single,1,2023-03-10,False,https://i.scdn.co/image/ab67616d0000b273bb37ea07bf9e4e37be3bd61c
+2023-07-15,48,LA INOCENTE,Mora,90,202173,album,15,2022-04-01,True,https://i.scdn.co/image/ab67616d0000b273851222dc5c5681bd4c3119d3
+2023-07-15,49,DESPECHÁ,ROSALÍA,86,156787,album,24,2022-09-09,True,https://i.scdn.co/image/ab67616d0000b273efc0ef9dd996312ebaf0bf52
+2023-07-15,50,"Shakira: Bzrp Music Sessions, Vol. 53",Bizarrap & Shakira,93,214945,single,1,2023-01-11,False,https://i.scdn.co/image/ab67616d0000b2732b6d78c5a3f6247aa997b812
