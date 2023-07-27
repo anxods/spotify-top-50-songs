@@ -3499,3 +3499,53 @@ date,position,song,artist,popularity,duration_ms,album_type,total_tracks,release
 2023-07-26,48,Why'd You Only Call Me When You're High?,Arctic Monkeys,90,161123,album,12,2013-09-09,False,https://i.scdn.co/image/ab67616d0000b2734ae1c4c5c45aabe565499163
 2023-07-26,49,Someone You Loved,Lewis Capaldi,92,182160,album,12,2019-05-17,False,https://i.scdn.co/image/ab67616d0000b273fc2101e6889d6ce9025f85f2
 2023-07-26,50,See You Again (feat. Kali Uchis),"Tyler, The Creator",95,180386,album,14,2017-07-21,True,https://i.scdn.co/image/ab67616d0000b2738940ac99f49e44f59e6f7fb3
+2023-07-27,1,Sprinter,Dave & Central Cee,97,229133,single,1,2023-06-01,True,https://i.scdn.co/image/ab67616d0000b273e3a09a9ae3f1fa102c110e60
+2023-07-27,2,"What Was I Made For? [From The Motion Picture ""Barbie""]",Billie Eilish,93,222369,single,1,2023-07-13,False,https://i.scdn.co/image/ab67616d0000b273ed317ec13d3de9e01fb99c9e
+2023-07-27,3,Dance The Night (From Barbie The Album),Dua Lipa,95,176579,single,1,2023-05-25,False,https://i.scdn.co/image/ab67616d0000b2737dd3ba455ee3390cb55b0192
+2023-07-27,4,vampire,Olivia Rodrigo,98,219724,single,1,2023-06-30,True,https://i.scdn.co/image/ab67616d0000b2731e5e75dc1d878a0007cb6525
+2023-07-27,5,Barbie World (with Aqua) [From Barbie The Album],Nicki Minaj & Ice Spice & Aqua,93,109750,single,1,2023-06-23,True,https://i.scdn.co/image/ab67616d0000b2737e8f938c02fac3b564931116
+2023-07-27,6,fukumean,Gunna,96,125040,album,15,2023-06-16,True,https://i.scdn.co/image/ab67616d0000b273017d5e26552345c4b1575b6c
+2023-07-27,7,Cruel Summer,Taylor Swift,100,178426,album,18,2019-08-23,False,https://i.scdn.co/image/ab67616d0000b273e787cffec20aa2a396a61647
+2023-07-27,8,(It Goes Like) Nanana - Edit,Peggy Gou,92,231545,single,1,2023-06-15,False,https://i.scdn.co/image/ab67616d0000b2739a8459318ff1a68ecfd74522
+2023-07-27,9,Speed Drive (From Barbie The Album),Charli XCX,85,117809,single,1,2023-06-29,False,https://i.scdn.co/image/ab67616d0000b273cd6f4f3b7d178e0a8b963da1
+2023-07-27,10,Who Told You (feat. Drake),J Hus,72,208920,album,19,2023-07-14,True,https://i.scdn.co/image/ab67616d0000b273cc16159b40907722da91078c
+2023-07-27,11,Giving Me,Jazzy,85,169000,single,1,2023-03-10,False,https://i.scdn.co/image/ab67616d0000b273e0c6c64da0c8e1d1df7e001c
+2023-07-27,12,Popular (with Playboi Carti & Madonna) - Music from the HBO Original Series,The Weeknd & Madonna,93,215466,single,1,2023-06-02,True,https://i.scdn.co/image/ab67616d0000b2734c8f092adc59b4bf4212389d
+2023-07-27,13,I’m Just Ken (From Barbie The Album),Ryan Gosling,71,222633,single,1,2023-07-21,False,https://i.scdn.co/image/ab67616d0000b27312b7b6e520d6ac082b520e64
+2023-07-27,14,Daylight,David Kushner,98,212953,single,1,2023-04-14,False,https://i.scdn.co/image/ab67616d0000b27395ca6a9b4083a86c149934ae
+2023-07-27,15,Good Love,Hannah Laing & RoRo,81,169534,single,1,2023-05-12,False,https://i.scdn.co/image/ab67616d0000b2735647f33c586bfe7bb8b7a0c6
+2023-07-27,16,Disconnect,Becky Hill & Chase & Status,73,164914,single,1,2023-07-14,True,https://i.scdn.co/image/ab67616d0000b27309dc775999d5a6d87d156c2f
+2023-07-27,17,Miracle (with Ellie Goulding),Calvin Harris & Ellie Goulding,92,186496,single,1,2023-03-10,False,https://i.scdn.co/image/ab67616d0000b273c58e22815048f8dfb1aa8bd0
+2023-07-27,18,Pakistan,D-Block Europe,67,174545,album,24,2023-07-07,True,https://i.scdn.co/image/ab67616d0000b273e4f55190394721ebd8570d27
+2023-07-27,19,0800 HEAVEN,Nathan Dawe & Joel Corry & Ella Henderson,58,159316,single,1,2023-06-09,False,https://i.scdn.co/image/ab67616d0000b273a5595661ff64a0c1deb1cea2
+2023-07-27,20,As It Was,Harry Styles,93,167303,album,13,2022-05-20,False,https://i.scdn.co/image/ab67616d0000b2732e8ed79e177ff6011076f5f0
+2023-07-27,21,Seven (feat. Latto) (Explicit Ver.),Jung Kook & Latto,99,184400,single,3,2023-07-14,True,https://i.scdn.co/image/ab67616d0000b273bf5cce5a0e1ed03a626bdd74
+2023-07-27,22,Dancing is Healing,Rudimental & Charlotte Plank & Vibe Chemistry,79,177321,single,2,2023-04-21,False,https://i.scdn.co/image/ab67616d0000b273b4edd98bf440d1013f6718d0
+2023-07-27,23,Rush,Troye Sivan,89,156391,single,1,2023-07-13,True,https://i.scdn.co/image/ab67616d0000b273a4ffb2049ffce92bdae5f559
+2023-07-27,24,Little Things x Gypsy Woman - L BEATS MASHUP,Jorja Smith,80,131000,single,2,2023-06-30,False,https://i.scdn.co/image/ab67616d0000b27393844705a9f375b857203617
+2023-07-27,25,Kill Bill,SZA,94,153946,album,23,2022-12-08,False,https://i.scdn.co/image/ab67616d0000b2730c471c36970b9406233842a5
+2023-07-27,26,Anti-Hero,Taylor Swift,95,200690,album,13,2022-10-21,False,https://i.scdn.co/image/ab67616d0000b273bb54dde68cd23e2a268ae0f5
+2023-07-27,27,Flowers,Miley Cyrus,90,200600,album,13,2023-03-10,False,https://i.scdn.co/image/ab67616d0000b27358039b5147731b6e52202e46
+2023-07-27,28,Nothing Compares 2 U,Sinéad O'Connor,76,280040,album,10,1990-07-01,False,https://i.scdn.co/image/ab67616d0000b2734eeefa0555b6f8cc88df9ffe
+2023-07-27,29,Boy's a Liar Pt. 2,PinkPantheress & Ice Spice,94,131013,single,2,2023-02-03,False,https://i.scdn.co/image/ab67616d0000b27342c5ba689b2e7cbc208a8fa7
+2023-07-27,30,UNHEALTHY (feat. Shania Twain),Anne-Marie & Shania Twain,82,149653,single,1,2023-05-18,False,https://i.scdn.co/image/ab67616d0000b273953c933cfb1b66b4dd1577d0
+2023-07-27,31,Mr. Brightside,The Killers,88,222973,album,12,2004,False,https://i.scdn.co/image/ab67616d0000b273ccdddd46119a4ff53eaf1f5d
+2023-07-27,32,K-POP,Travis Scott & Bad Bunny & The Weeknd,53,185220,single,4,2023-07-18,True,https://i.scdn.co/image/ab67616d0000b273dd8912dfae6121b0e25bcaec
+2023-07-27,33,The Weekend,Stormzy & RAYE,72,206035,single,1,2023-07-19,True,https://i.scdn.co/image/ab67616d0000b27322f6e6c616dd1fefd6683abd
+2023-07-27,34,Riptide,Vance Joy,84,204280,album,15,2014-09-09,False,https://i.scdn.co/image/ab67616d0000b273a9929deb093a6617d2493b03
+2023-07-27,35,REACT,Switch Disco & Ella Henderson & Robert Miles,84,201145,single,1,2023-01-13,False,https://i.scdn.co/image/ab67616d0000b27321acc4c231327248498a35da
+2023-07-27,36,People,Libianca,93,184791,single,1,2022-12-06,False,https://i.scdn.co/image/ab67616d0000b273fc342f95f117d48dbdde9735
+2023-07-27,37,How Does It Feel,Tom Grennan,66,143573,album,17,2023-06-16,False,https://i.scdn.co/image/ab67616d0000b27345bae0a320cb8885c80cca54
+2023-07-27,38,So Much In Love,D.O.D,76,178453,single,1,2023-04-21,False,https://i.scdn.co/image/ab67616d0000b273bd35b98a3f858a1d771670b8
+2023-07-27,39,Calm Down (with Selena Gomez),Rema,83,239317,album,22,2023-04-27,False,https://i.scdn.co/image/ab67616d0000b273963265801aa5c9740ad159b7
+2023-07-27,40,Pink (From Barbie The Album),Lizzo,66,143833,single,1,2023-07-21,False,https://i.scdn.co/image/ab67616d0000b273641627aabd50d3ee65f9d38c
+2023-07-27,41,I Ain't Worried,OneRepublic,94,148485,single,1,2022-05-13,False,https://i.scdn.co/image/ab67616d0000b273ec96e006b8bdfc582610ec13
+2023-07-27,42,UK Rap,Dave & Central Cee,85,198026,single,4,2023-06-04,True,https://i.scdn.co/image/ab67616d0000b27326847a635b96c96fee81d838
+2023-07-27,43,I Can See You (Taylor’s Version) (From The Vault),Taylor Swift,93,273186,album,22,2023-07-07,False,https://i.scdn.co/image/ab67616d0000b2730b04da4f224b51ff86e0a481
+2023-07-27,44,Style,Taylor Swift,83,231000,album,13,2014-10-27,False,https://i.scdn.co/image/ab67616d0000b2739abdf14e6058bd3903686148
+2023-07-27,45,Relax My Eyes,ANOTR & Abel Balder,83,192150,single,1,2022-11-04,False,https://i.scdn.co/image/ab67616d0000b273eedb2366a9c2fbb8503c703e
+2023-07-27,46,Baby Don't Hurt Me,David Guetta & Anne-Marie & Coi Leray,94,140017,single,2,2023-04-06,False,https://i.scdn.co/image/ab67616d0000b2730b4ef75c3728599aa4104f7a
+2023-07-27,47,I Wanna Be Yours,Arctic Monkeys,95,183956,album,12,2013-09-09,False,https://i.scdn.co/image/ab67616d0000b2734ae1c4c5c45aabe565499163
+2023-07-27,48,Viva La Vida,Coldplay,90,242373,album,10,2008-05-26,False,https://i.scdn.co/image/ab67616d0000b273e21cc1db05580b6f2d2a3b6e
+2023-07-27,49,Padam Padam,Kylie Minogue,85,166266,single,1,2023-05-18,False,https://i.scdn.co/image/ab67616d0000b273ec00c380719aa51043510834
+2023-07-27,50,Why'd You Only Call Me When You're High?,Arctic Monkeys,90,161123,album,12,2013-09-09,False,https://i.scdn.co/image/ab67616d0000b2734ae1c4c5c45aabe565499163
