@@ -4399,3 +4399,53 @@ date,position,song,artist,popularity,duration_ms,album_type,total_tracks,release
 2023-08-13,48,TQG,KAROL G,93,197933,album,17,2023-02-24,True,https://i.scdn.co/image/ab67616d0000b27382de1ca074ae63cb18fce335
 2023-08-13,49,UNA NOCHE EN MEDELLÍN - REMIX,KAROL G,56,205144,album,9,2023-08-10,True,https://i.scdn.co/image/ab67616d0000b273d026bf9d7780f6a1267b4d03
 2023-08-13,50,I'm Good (Blue),David Guetta & Bebe Rexha,94,175238,single,2,2022-08-26,True,https://i.scdn.co/image/ab67616d0000b273933c036cd61cd40d3f17a9c4
+2023-08-14,1,Seven (feat. Latto) (Explicit Ver.),Jung Kook & Latto,100,184400,single,3,2023-07-14,True,https://i.scdn.co/image/ab67616d0000b273bf5cce5a0e1ed03a626bdd74
+2023-08-14,2,Cruel Summer,Taylor Swift,99,178426,album,18,2019-08-23,False,https://i.scdn.co/image/ab67616d0000b273e787cffec20aa2a396a61647
+2023-08-14,3,LALA,Myke Towers,99,197920,album,23,2023-03-23,True,https://i.scdn.co/image/ab67616d0000b2730656d5ce813ca3cc4b677e05
+2023-08-14,4,"What Was I Made For? [From The Motion Picture ""Barbie""]",Billie Eilish,98,222369,single,1,2023-07-13,False,https://i.scdn.co/image/ab67616d0000b273ed317ec13d3de9e01fb99c9e
+2023-08-14,5,Dance The Night (From Barbie The Album),Dua Lipa,97,176579,single,1,2023-05-25,False,https://i.scdn.co/image/ab67616d0000b2737dd3ba455ee3390cb55b0192
+2023-08-14,6,vampire,Olivia Rodrigo,98,219724,single,1,2023-06-30,True,https://i.scdn.co/image/ab67616d0000b2731e5e75dc1d878a0007cb6525
+2023-08-14,7,bad idea right?,Olivia Rodrigo,82,184783,single,1,2023-08-11,True,https://i.scdn.co/image/ab67616d0000b2738bfab8d577ad17a7b74d9f5f
+2023-08-14,8,Barbie World (with Aqua) [From Barbie The Album],Nicki Minaj & Ice Spice & Aqua,95,109750,single,1,2023-06-23,True,https://i.scdn.co/image/ab67616d0000b2737e8f938c02fac3b564931116
+2023-08-14,9,Columbia,Quevedo,97,186000,single,1,2023-07-07,False,https://i.scdn.co/image/ab67616d0000b273a00a817b017c6f6bf8460be9
+2023-08-14,10,Love Me Again,V,83,182293,single,2,2023-08-11,False,https://i.scdn.co/image/ab67616d0000b2732f1a5b69c2bd76474bca8035
+2023-08-14,11,fukumean,Gunna,96,125040,album,15,2023-06-16,True,https://i.scdn.co/image/ab67616d0000b273017d5e26552345c4b1575b6c
+2023-08-14,12,Super Shy,NewJeans,95,154666,single,2,2023-07-07,False,https://i.scdn.co/image/ab67616d0000b2733d98a0ae7c78a3a9babaf8af
+2023-08-14,13,Sprinter,Dave & Central Cee,96,229133,single,1,2023-06-01,True,https://i.scdn.co/image/ab67616d0000b273e3a09a9ae3f1fa102c110e60
+2023-08-14,14,Rainy Days,V,83,179560,single,2,2023-08-11,False,https://i.scdn.co/image/ab67616d0000b2732f1a5b69c2bd76474bca8035
+2023-08-14,15,MELTDOWN (feat. Drake),Travis Scott,94,246133,album,19,2023-07-28,True,https://i.scdn.co/image/ab67616d0000b273881d8d8378cd01099babcd44
+2023-08-14,16,La Bebe - Remix,Yng Lvcas & Peso Pluma,96,234352,single,2,2023-03-17,True,https://i.scdn.co/image/ab67616d0000b273a04be3ad7c8c67f4109111a9
+2023-08-14,17,Daylight,David Kushner,96,212953,single,1,2023-04-14,False,https://i.scdn.co/image/ab67616d0000b27395ca6a9b4083a86c149934ae
+2023-08-14,18,WHERE SHE GOES,Bad Bunny,97,231704,single,1,2023-05-18,True,https://i.scdn.co/image/ab67616d0000b273ab5c9cd818ad6ed3e9b79cd1
+2023-08-14,19,As It Was,Harry Styles,92,167303,album,13,2022-05-20,False,https://i.scdn.co/image/ab67616d0000b2732e8ed79e177ff6011076f5f0
+2023-08-14,20,Ella Baila Sola,Eslabon Armado,90,165671,album,16,2023-04-28,False,https://i.scdn.co/image/ab67616d0000b273dfddf1cb31b85a6d28b7d91f
+2023-08-14,21,LADY GAGA,Peso Pluma,94,212878,album,17,2023-06-29,True,https://i.scdn.co/image/ab67616d0000b2732fb583ed96f8f35cbf2897ba
+2023-08-14,22,Flowers,Miley Cyrus,92,200600,album,13,2023-03-10,False,https://i.scdn.co/image/ab67616d0000b27358039b5147731b6e52202e46
+2023-08-14,23,Kill Bill,SZA,92,153946,album,23,2022-12-08,False,https://i.scdn.co/image/ab67616d0000b2730c471c36970b9406233842a5
+2023-08-14,24,MI EX TENÍA RAZÓN,KAROL G,67,154374,album,9,2023-08-10,False,https://i.scdn.co/image/ab67616d0000b273d026bf9d7780f6a1267b4d03
+2023-08-14,25,Style,Taylor Swift,83,231000,album,13,2014-10-27,False,https://i.scdn.co/image/ab67616d0000b2739abdf14e6058bd3903686148
+2023-08-14,26,Like Crazy,Jimin,95,212241,single,6,2023-03-24,False,https://i.scdn.co/image/ab67616d0000b2732b46078245d0120690eb560d
+2023-08-14,27,FE!N (feat. Playboi Carti),Travis Scott,94,191700,album,19,2023-07-28,True,https://i.scdn.co/image/ab67616d0000b273881d8d8378cd01099babcd44
+2023-08-14,28,Paint The Town Red,Doja Cat,88,231750,single,1,2023-08-04,True,https://i.scdn.co/image/ab67616d0000b2737acee948ecac8380c1b6ce30
+2023-08-14,29,Classy 101,Feid & Young Miko,95,195986,single,1,2023-03-31,True,https://i.scdn.co/image/ab67616d0000b27329ebee2b5fb008871fcd201a
+2023-08-14,30,I Wanna Be Yours,Arctic Monkeys,94,183956,album,12,2013-09-09,False,https://i.scdn.co/image/ab67616d0000b2734ae1c4c5c45aabe565499163
+2023-08-14,31,august,Taylor Swift,91,261922,album,16,2020-07-24,False,https://i.scdn.co/image/ab67616d0000b27395f754318336a07e85ec59bc
+2023-08-14,32,Blank Space,Taylor Swift,83,231826,album,13,2014-10-27,False,https://i.scdn.co/image/ab67616d0000b2739abdf14e6058bd3903686148
+2023-08-14,33,(It Goes Like) Nanana - Edit,Peggy Gou,93,231545,single,1,2023-06-15,False,https://i.scdn.co/image/ab67616d0000b2739a8459318ff1a68ecfd74522
+2023-08-14,34,K-POP,Travis Scott & Bad Bunny & The Weeknd,93,185220,single,1,2023-07-21,True,https://i.scdn.co/image/ab67616d0000b273893489768de0c42b4d217b82
+2023-08-14,35,Cupid - Twin Ver.,FIFTY FIFTY,95,174253,single,3,2023-02-24,False,https://i.scdn.co/image/ab67616d0000b27337c0b3670236c067c8e8bbcb
+2023-08-14,36,un x100to,Grupo Frontera,77,194563,album,11,2023-08-03,False,https://i.scdn.co/image/ab67616d0000b273563e8611947cd478e6d3c8c4
+2023-08-14,37,Anti-Hero,Taylor Swift,94,200690,album,13,2022-10-21,False,https://i.scdn.co/image/ab67616d0000b273bb54dde68cd23e2a268ae0f5
+2023-08-14,38,Popular (with Playboi Carti & Madonna) - Music from the HBO Original Series,The Weeknd & Madonna,93,215466,single,1,2023-06-02,True,https://i.scdn.co/image/ab67616d0000b2734c8f092adc59b4bf4212389d
+2023-08-14,39,TULUM,Peso Pluma,93,209415,album,17,2023-06-29,True,https://i.scdn.co/image/ab67616d0000b2732fb583ed96f8f35cbf2897ba
+2023-08-14,40,I KNOW ?,Travis Scott,92,211582,album,19,2023-07-28,True,https://i.scdn.co/image/ab67616d0000b273881d8d8378cd01099babcd44
+2023-08-14,41,Primera Cita,Carin Leon,83,186455,album,18,2023-05-19,False,https://i.scdn.co/image/ab67616d0000b2730e30fcf494fd711ad068d1cd
+2023-08-14,42,Last Night,Morgan Wallen,88,163854,album,36,2023-03-03,True,https://i.scdn.co/image/ab67616d0000b273705079df9a25a28b452c1fc9
+2023-08-14,43,Calm Down (with Selena Gomez),Rema,82,239317,album,22,2023-04-27,False,https://i.scdn.co/image/ab67616d0000b273963265801aa5c9740ad159b7
+2023-08-14,44,SABOR FRESA,Fuerza Regida,93,156500,single,1,2023-06-22,True,https://i.scdn.co/image/ab67616d0000b273cfe3eb72c48b93971e53efd9
+2023-08-14,45,TELEKINESIS (feat. SZA & Future),Travis Scott,91,353754,album,19,2023-07-28,True,https://i.scdn.co/image/ab67616d0000b273881d8d8378cd01099babcd44
+2023-08-14,46,Die For You,The Weeknd,90,260253,album,18,2016-11-24,False,https://i.scdn.co/image/ab67616d0000b273a048415db06a5b6fa7ec4e1a
+2023-08-14,47,S91,KAROL G,59,173005,album,9,2023-08-10,False,https://i.scdn.co/image/ab67616d0000b273d026bf9d7780f6a1267b4d03
+2023-08-14,48,TQG,KAROL G,93,197933,album,17,2023-02-24,True,https://i.scdn.co/image/ab67616d0000b27382de1ca074ae63cb18fce335
+2023-08-14,49,Creepin' (with The Weeknd & 21 Savage),Metro Boomin,94,221520,album,15,2022-12-02,True,https://i.scdn.co/image/ab67616d0000b27313e54d6687e65678d60466c2
+2023-08-14,50,See You Again (feat. Kali Uchis),"Tyler, The Creator",93,180386,album,14,2017-07-21,True,https://i.scdn.co/image/ab67616d0000b2738940ac99f49e44f59e6f7fb3
