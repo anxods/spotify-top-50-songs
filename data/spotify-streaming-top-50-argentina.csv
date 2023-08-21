@@ -4749,3 +4749,53 @@ date,position,song,artist,popularity,duration_ms,album_type,total_tracks,release
 2023-08-20,48,AEROBICO REMIX,Bhavi & Duki & Milo j,78,213245,single,1,2023-08-03,True,https://i.scdn.co/image/ab67616d0000b27362c5bc46ba222ef5bb797257
 2023-08-20,49,La Bachata,Manuel Turizo,86,162637,album,15,2023-03-17,False,https://i.scdn.co/image/ab67616d0000b2734dd99565ae6453deab7c26e1
 2023-08-20,50,BABY HELLO,Rauw Alejandro,79,222461,album,14,2023-07-07,True,https://i.scdn.co/image/ab67616d0000b273f29d0900444e44b4146409e5
+2023-08-21,1,Columbia,Quevedo,97,186000,single,1,2023-07-07,False,https://i.scdn.co/image/ab67616d0000b273a00a817b017c6f6bf8460be9
+2023-08-21,2,Ni Una Ni Dos,BM,84,158535,single,1,2023-06-28,True,https://i.scdn.co/image/ab67616d0000b2732e719c605f8d5be0633611a6
+2023-08-21,3,LALA,Myke Towers,99,197920,album,23,2023-03-23,True,https://i.scdn.co/image/ab67616d0000b2730656d5ce813ca3cc4b677e05
+2023-08-21,4,Un Finde | CROSSOVER #2,Big One & FMK & Ke Personajes,89,162500,single,1,2023-04-04,False,https://i.scdn.co/image/ab67616d0000b273fc9ce77ab8fcd9eadda3acd3
+2023-08-21,5,CORAZÓN VACÍO,Maria Becerra,89,160535,single,1,2023-06-22,False,https://i.scdn.co/image/ab67616d0000b273a3cbe5aa0bcf10eb02a8c960
+2023-08-21,6,Los del Espacio,LIT killah,92,338000,single,1,2023-06-01,False,https://i.scdn.co/image/ab67616d0000b27352a52eac3761e2133bd0f57a
+2023-08-21,7,Mentiras | CROSSOVER #3,Big One & Ulises Bueno & Rusherking,80,168000,single,1,2023-07-25,False,https://i.scdn.co/image/ab67616d0000b273df0218a20c298edf6219817f
+2023-08-21,8,OJITOS ROJOS,Grupo Frontera,75,221601,album,11,2023-08-03,False,https://i.scdn.co/image/ab67616d0000b273563e8611947cd478e6d3c8c4
+2023-08-21,9,La Morocha,Luck Ra & BM,77,134144,single,1,2023-07-07,False,https://i.scdn.co/image/ab67616d0000b2733cd645cc0b41595ccdfd0a73
+2023-08-21,10,No_se_ve.mp3,Emilia & LUDMILLA & ZECCA,88,203636,single,1,2023-05-03,True,https://i.scdn.co/image/ab67616d0000b27332630fe83750d8db0b2b2d5c
+2023-08-21,11,Ya No Vuelvas (Versión Cuarteto),Luck Ra & La K'onga & Ke Personajes,83,204000,single,1,2022-12-01,False,https://i.scdn.co/image/ab67616d0000b273b061c89b210b4e16bd808976
+2023-08-21,12,Chulo pt.2,Bad Gyal & Tokischa & Young Miko,89,219333,single,1,2023-06-22,True,https://i.scdn.co/image/ab67616d0000b2730d45a19d3b38fb1a0be40e3a
+2023-08-21,13,ADIÓS,Maria Becerra,83,160856,album,12,2022-12-08,True,https://i.scdn.co/image/ab67616d0000b27377ec4341ebb8a0dbfe2df739
+2023-08-21,14,Pobre Corazón - En Vivo,Ke Personajes & Onda Sabanera,84,198930,single,1,2023-03-02,False,https://i.scdn.co/image/ab67616d0000b27370bfe435a7dc698bbf0883cf
+2023-08-21,15,DISCOTEKA (feat. Locura Mix),The La Planta & BM & Alejo Isakk,80,204480,single,1,2023-02-16,False,https://i.scdn.co/image/ab67616d0000b2736eb51112e2a1f9d520e83344
+2023-08-21,16,ATORRANTE - con Los Palmeras,Emanero & Ulises Bueno & Migrantes,78,252347,single,2,2023-07-08,False,https://i.scdn.co/image/ab67616d0000b2738dd33c4b040cc8f2cae4a6dc
+2023-08-21,17,En La Intimidad | CROSSOVER #1,Big One & Emilia & Callejero Fino,83,165854,single,1,2023-02-01,False,https://i.scdn.co/image/ab67616d0000b273bfc03d005bbc2f7e7abc889b
+2023-08-21,18,Classy 101,Feid & Young Miko,95,195986,single,1,2023-03-31,True,https://i.scdn.co/image/ab67616d0000b27329ebee2b5fb008871fcd201a
+2023-08-21,19,Salgo a Bailar,FMK & Emilia,79,157830,single,1,2023-07-14,False,https://i.scdn.co/image/ab67616d0000b2733c70172e31f35f084e1a8fae
+2023-08-21,20,Dale Mecha,Mesita,79,150829,single,1,2023-05-02,False,https://i.scdn.co/image/ab67616d0000b273419f7bb549d24a1c68bcdf93
+2023-08-21,21,Me Enteré,Tiago PZK & TINI,85,182075,single,1,2023-05-18,False,https://i.scdn.co/image/ab67616d0000b2735d78fa55507610429ba13cb6
+2023-08-21,22,La Bebe - Remix,Yng Lvcas & Peso Pluma,96,234352,single,2,2023-03-17,True,https://i.scdn.co/image/ab67616d0000b273a04be3ad7c8c67f4109111a9
+2023-08-21,23,Luck Ra | Mission 15,Alan Gomez & Luck Ra,77,133284,single,1,2023-05-17,True,https://i.scdn.co/image/ab67616d0000b2731ff540ce0b6ebd31b8c6a462
+2023-08-21,24,M.A - Remix,BM & Callejero Fino & La Joaqui,81,272727,single,1,2023-04-05,True,https://i.scdn.co/image/ab67616d0000b273cbbbad87cff1115a090ed190
+2023-08-21,25,DISPARA ***,Nicki Nicole,82,143935,album,10,2023-05-18,True,https://i.scdn.co/image/ab67616d0000b273d91a54eea72c50765e2fa72b
+2023-08-21,26,Cabaña,El Jordan 23 & Los Patos Feos Inc & Nes,85,178836,single,1,2023-06-24,True,https://i.scdn.co/image/ab67616d0000b2731ead0833844d8f215d730604
+2023-08-21,27,BM | DJ TAO Turreo Sessions #17,DJ Tao & BM,76,176144,single,1,2023-06-01,True,https://i.scdn.co/image/ab67616d0000b2733e18f60c79cc1043214f2c2a
+2023-08-21,28,Frágil,Yahritza Y Su Esencia & Grupo Frontera,92,160517,single,1,2023-04-07,False,https://i.scdn.co/image/ab67616d0000b27357ed58cb724f8d55f78a1d4c
+2023-08-21,29,Holanda,Jhayco,86,231693,single,1,2023-07-28,True,https://i.scdn.co/image/ab67616d0000b273cd2ceb6adaa32ecc83cec5c3
+2023-08-21,30,8 AM,Nicki Nicole,82,147603,album,10,2023-05-18,True,https://i.scdn.co/image/ab67616d0000b273d91a54eea72c50765e2fa72b
+2023-08-21,31,Otro Día Más,Ke Personajes,79,202342,single,1,2021-06-10,False,https://i.scdn.co/image/ab67616d0000b2738192a9950670d01b9eff0fbc
+2023-08-21,32,WHERE SHE GOES,Bad Bunny,96,231704,single,1,2023-05-18,True,https://i.scdn.co/image/ab67616d0000b273ab5c9cd818ad6ed3e9b79cd1
+2023-08-21,33,El Amor De Mi Vida,Los Ángeles Azules & Maria Becerra,49,184586,single,1,2023-08-18,False,https://i.scdn.co/image/ab67616d0000b2730fbfe75fb58c2e07def46917
+2023-08-21,34,wiggy,Young Miko,85,146559,single,1,2023-07-21,True,https://i.scdn.co/image/ab67616d0000b2733173616d30fcc77a19742fd9
+2023-08-21,35,Rara Vez,Taiu & Milo j,89,128677,single,1,2023-02-08,False,https://i.scdn.co/image/ab67616d0000b273d467bed4e6b2a01ea8569100
+2023-08-21,36,Quiero Creer,Luck Ra & La T y La M & Rusherking,77,145054,single,1,2023-02-03,False,https://i.scdn.co/image/ab67616d0000b273751e3fea2ebed09f118eb99b
+2023-08-21,37,Costumbres - Vivo,Damas Gratis & Ke Personajes,80,133077,single,1,2022-10-27,False,https://i.scdn.co/image/ab67616d0000b273b726cbc446c49872d64d333d
+2023-08-21,38,un x100to,Grupo Frontera,80,194563,album,11,2023-08-03,False,https://i.scdn.co/image/ab67616d0000b273563e8611947cd478e6d3c8c4
+2023-08-21,39,M.A (Mejores Amigos),BM & Phontana,80,158309,single,1,2022-09-20,True,https://i.scdn.co/image/ab67616d0000b2737cdf45319edb9583efd3f1c9
+2023-08-21,40,ASQUEROSO,Tiago PZK & ZECCA,77,159245,single,2,2023-07-13,True,https://i.scdn.co/image/ab67616d0000b2733d4893e9b9c84d0b28fdb7b5
+2023-08-21,41,Ella Baila Sola,Eslabon Armado,89,165671,album,16,2023-04-28,False,https://i.scdn.co/image/ab67616d0000b273dfddf1cb31b85a6d28b7d91f
+2023-08-21,42,"Peso Pluma: Bzrp Music Sessions, Vol. 55",Bizarrap & Peso Pluma,93,188361,single,1,2023-06-01,True,https://i.scdn.co/image/ab67616d0000b27315583045b2fdb7d7bab10e81
+2023-08-21,43,MI EX TENÍA RAZÓN,KAROL G,80,154374,album,9,2023-08-10,False,https://i.scdn.co/image/ab67616d0000b273d026bf9d7780f6a1267b4d03
+2023-08-21,44,Te Cura,Fast & Furious: The Fast Saga & Maria Becerra,79,150612,single,1,2023-05-17,False,https://i.scdn.co/image/ab67616d0000b2739ebb3865d33ecc6aa9582cbd
+2023-08-21,45,Perfecta (Versión 2023),Miranda!,75,221053,album,11,2023-04-19,False,https://i.scdn.co/image/ab67616d0000b2730040ea3fe369688ad9757cf2
+2023-08-21,46,Jagger.mp3,Emilia,78,155861,single,1,2023-03-30,False,https://i.scdn.co/image/ab67616d0000b273f9695983789ee4faffba9121
+2023-08-21,47,AEROBICO REMIX,Bhavi & Duki & Milo j,78,213245,single,1,2023-08-03,True,https://i.scdn.co/image/ab67616d0000b27362c5bc46ba222ef5bb797257
+2023-08-21,48,qué le pasa conmigo?,Nicki Nicole,78,167251,album,10,2023-05-18,False,https://i.scdn.co/image/ab67616d0000b273d91a54eea72c50765e2fa72b
+2023-08-21,49,Si No Te Tengo / Ángel / Aquello Que Pasó,Ke Personajes,79,428438,single,1,2021-08-17,False,https://i.scdn.co/image/ab67616d0000b27361d8f01f54a346681218e81f
+2023-08-21,50,BABY HELLO,Rauw Alejandro,79,222461,album,14,2023-07-07,True,https://i.scdn.co/image/ab67616d0000b273f29d0900444e44b4146409e5
