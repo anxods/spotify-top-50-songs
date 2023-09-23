@@ -6399,3 +6399,53 @@ date,position,song,artist,popularity,duration_ms,album_type,total_tracks,release
 2023-09-22,48,"1,2,3 Soleil",NAZAKEBLACK & Naza & KeBlack,73,173419,single,1,2023-06-08,False,https://i.scdn.co/image/ab67616d0000b273b97a798223df384eb95a3188
 2023-09-22,49,Je la connais,SCH,72,219533,album,13,2016-05-20,True,https://i.scdn.co/image/ab67616d0000b273491e586b82711d3023977d69
 2023-09-22,50,Baby Don't Hurt Me,David Guetta & Anne-Marie & Coi Leray,90,140017,single,2,2023-04-06,False,https://i.scdn.co/image/ab67616d0000b2730b4ef75c3728599aa4104f7a
+2023-09-23,1,Petit génie,Jungeli & Imen Es & Alonzo,78,217142,single,1,2023-08-04,True,https://i.scdn.co/image/ab67616d0000b2738d6a7790a8b2d22f7a1fcae7
+2023-09-23,2,Saiyan,Heuss L'enfoiré,74,189840,album,14,2023-06-30,True,https://i.scdn.co/image/ab67616d0000b273e867057ecb11903ffe53224b
+2023-09-23,3,Casanova,Soolking & Gazo,83,189090,single,1,2023-07-06,False,https://i.scdn.co/image/ab67616d0000b2735e90edde8fea572f0400c369
+2023-09-23,4,Meridian,Dave & Tiakola,82,255160,single,1,2023-08-24,True,https://i.scdn.co/image/ab67616d0000b273fb0239a3df5667586c83349f
+2023-09-23,5,LAISSE MOI,KeBlack,69,168620,single,1,2023-09-08,True,https://i.scdn.co/image/ab67616d0000b273ab5360bcfb07322f015687e1
+2023-09-23,6,Paint The Town Red,Doja Cat,100,231750,single,1,2023-08-04,True,https://i.scdn.co/image/ab67616d0000b2737acee948ecac8380c1b6ce30
+2023-09-23,7,Flashback,Favé & Gazo,69,176109,single,1,2023-09-15,True,https://i.scdn.co/image/ab67616d0000b2730c956815f213a20562ccc7d4
+2023-09-23,8,Meuda,Tiakola,78,152546,album,16,2022-05-27,True,https://i.scdn.co/image/ab67616d0000b2731bbc72ff946f55d4d3188062
+2023-09-23,9,Jour de plus,Freeze corleone,75,209557,album,13,2023-09-11,True,https://i.scdn.co/image/ab67616d0000b273b4c62c647e2e1e4ebccead82
+2023-09-23,10,Bolide allemand,SDM,79,176746,album,15,2022-12-02,True,https://i.scdn.co/image/ab67616d0000b273455e89dbf3ce2e6d337be1d0
+2023-09-23,11,Strangers,Kenya Grace,91,172964,single,1,2023-09-01,False,https://i.scdn.co/image/ab67616d0000b2734756c2e9ae436437cd75e9f3
+2023-09-23,12,Shavkat,Freeze corleone,71,219865,album,13,2023-09-11,True,https://i.scdn.co/image/ab67616d0000b273b4c62c647e2e1e4ebccead82
+2023-09-23,13,MW2,Freeze corleone,75,287948,album,13,2023-09-11,True,https://i.scdn.co/image/ab67616d0000b273b4c62c647e2e1e4ebccead82
+2023-09-23,14,Laboratoire,Werenoi,75,162840,album,19,2023-03-10,True,https://i.scdn.co/image/ab67616d0000b2739d74d3f0042968ea8f084acb
+2023-09-23,15,Ancelotti,Freeze corleone,74,220935,album,13,2023-09-11,True,https://i.scdn.co/image/ab67616d0000b273b4c62c647e2e1e4ebccead82
+2023-09-23,16,Tattoo,Loreen,88,183374,single,1,2023-02-25,False,https://i.scdn.co/image/ab67616d0000b2732b0ba87db609976eee193bd6
+2023-09-23,17,Nouvelles,PLK,75,179653,single,10,2023-04-13,True,https://i.scdn.co/image/ab67616d0000b273390bfa914f9f7b04582aba5d
+2023-09-23,18,Daylight,David Kushner,94,212953,single,1,2023-04-14,False,https://i.scdn.co/image/ab67616d0000b27395ca6a9b4083a86c149934ae
+2023-09-23,19,Dance The Night - From Barbie The Album,Dua Lipa,95,176579,single,1,2023-05-25,False,https://i.scdn.co/image/ab67616d0000b2737dd3ba455ee3390cb55b0192
+2023-09-23,20,LA RUE,No Limit & Gazo & Damso,76,225137,single,1,2023-06-05,True,https://i.scdn.co/image/ab67616d0000b27384f2454da0973c07a508b57e
+2023-09-23,21,Voldemort,Freeze corleone,72,228800,album,13,2023-09-11,True,https://i.scdn.co/image/ab67616d0000b273b4c62c647e2e1e4ebccead82
+2023-09-23,22,Kpop,Freeze corleone,73,181175,album,13,2023-09-11,True,https://i.scdn.co/image/ab67616d0000b273b4c62c647e2e1e4ebccead82
+2023-09-23,23,Arranca (feat. Omega),Becky G & Omega,82,166529,single,1,2023-03-10,False,https://i.scdn.co/image/ab67616d0000b27361f698cb35bb6f6d96fd1612
+2023-09-23,24,No love,Ninho,74,202186,album,16,2023-06-30,True,https://i.scdn.co/image/ab67616d0000b27318d7aeed9b54d67eb3f65e44
+2023-09-23,25,Special,Dave & Tiakola,76,247506,single,1,2023-08-25,True,https://i.scdn.co/image/ab67616d0000b273b01b53b7eb58308e633434f0
+2023-09-23,26,FLEURS (feat. Tiakola),Gazo,74,210933,album,15,2022-07-01,True,https://i.scdn.co/image/ab67616d0000b273765b01901c10003211f8554d
+2023-09-23,27,Eurostar (feat. Central Cee),Ninho,76,187057,album,16,2023-06-30,True,https://i.scdn.co/image/ab67616d0000b27318d7aeed9b54d67eb3f65e44
+2023-09-23,28,The Magic Key,Trinix & One-T,75,171211,single,1,2023-04-07,False,https://i.scdn.co/image/ab67616d0000b273172ec92da271e71498440056
+2023-09-23,29,Bill Clinton,Freeze corleone,72,209333,album,13,2023-09-11,True,https://i.scdn.co/image/ab67616d0000b273b4c62c647e2e1e4ebccead82
+2023-09-23,30,BESO,ROSALÍA & Rauw Alejandro,90,194543,single,3,2023-03-24,False,https://i.scdn.co/image/ab67616d0000b2734d6cf0d0d5e32ca4fa3a59e1
+2023-09-23,31,Se Grita,Morad,83,259627,album,19,2023-05-12,True,https://i.scdn.co/image/ab67616d0000b273937ce99b134e3586d0bfdb19
+2023-09-23,32,Urus,Favé,70,147788,single,1,2022-10-12,True,https://i.scdn.co/image/ab67616d0000b273583586e9318379d1add68cfe
+2023-09-23,33,Chemin d'or,Werenoi,71,212093,album,19,2023-03-10,True,https://i.scdn.co/image/ab67616d0000b2739d74d3f0042968ea8f084acb
+2023-09-23,34,Amérique du sud,Freeze corleone,70,211720,album,13,2023-09-11,True,https://i.scdn.co/image/ab67616d0000b273b4c62c647e2e1e4ebccead82
+2023-09-23,35,Emorio,Trinix & Fafá de Belém,75,163840,single,1,2023-04-28,False,https://i.scdn.co/image/ab67616d0000b273635884f3123d858676bdab81
+2023-09-23,36,DIE,Gazo,75,240413,album,15,2022-07-01,True,https://i.scdn.co/image/ab67616d0000b273765b01901c10003211f8554d
+2023-09-23,37,GTB,JEY BROWNIE & FLEM KGB,75,176786,album,14,2023-02-17,True,https://i.scdn.co/image/ab67616d0000b273dd35045654bea217eabfe77a
+2023-09-23,38,Flowers,Miley Cyrus,93,200600,album,13,2023-03-10,False,https://i.scdn.co/image/ab67616d0000b27358039b5147731b6e52202e46
+2023-09-23,39,Avec Toi,OBOY,72,193813,album,15,2019-07-12,True,https://i.scdn.co/image/ab67616d0000b2735dbfd7d2f9d5d2797c693e04
+2023-09-23,40,C'est carré le S,Naps,64,201533,album,23,2023-04-28,True,https://i.scdn.co/image/ab67616d0000b273d33a76e9a6447e09922125a7
+2023-09-23,41,Lamborghini bénie,Freeze corleone,71,233306,album,13,2023-09-11,True,https://i.scdn.co/image/ab67616d0000b273b4c62c647e2e1e4ebccead82
+2023-09-23,42,Tiki Taka,Vacra,68,174829,album,8,2023-02-23,False,https://i.scdn.co/image/ab67616d0000b2734d82486b5c7a283ab9ed2797
+2023-09-23,43,Demain,PLK,73,183013,single,10,2023-04-13,True,https://i.scdn.co/image/ab67616d0000b273390bfa914f9f7b04582aba5d
+2023-09-23,44,(It Goes Like) Nanana - Edit,Peggy Gou,93,231545,single,1,2023-06-15,False,https://i.scdn.co/image/ab67616d0000b2739a8459318ff1a68ecfd74522
+2023-09-23,45,Mr. Ocho,SDM,73,226653,album,15,2022-12-02,True,https://i.scdn.co/image/ab67616d0000b273455e89dbf3ce2e6d337be1d0
+2023-09-23,46,Waves,Imagine Dragons,76,225431,album,32,2022-07-01,False,https://i.scdn.co/image/ab67616d0000b273fc915b69600dce2991a61f13
+2023-09-23,47,Another Love,Tom Odell,90,244360,album,15,2013-06-24,True,https://i.scdn.co/image/ab67616d0000b2731917a0f3f4152622a040913f
+2023-09-23,48,All for U (Ameyatchi),King Serenity & Locko & Sergio Alejandro,71,165563,single,1,2023-06-14,False,https://i.scdn.co/image/ab67616d0000b273f359408266d7273358d26960
+2023-09-23,49,Baby Don't Hurt Me,David Guetta & Anne-Marie & Coi Leray,90,140017,single,2,2023-04-06,False,https://i.scdn.co/image/ab67616d0000b2730b4ef75c3728599aa4104f7a
+2023-09-23,50,Isshin Ashina,Freeze corleone,72,293215,album,13,2023-09-11,True,https://i.scdn.co/image/ab67616d0000b273b4c62c647e2e1e4ebccead82
