@@ -5,6 +5,8 @@ This repository contains the code to extract and collect the data from several c
 ## Links
 - [Kaggle - Dataset](https://www.kaggle.com/datasets/anxods/spotify-top-50-playlist-songs-anxods)
 
+- [Bump chart visualization made in Tableau - Top 15 Songs Worldwide (last month)](https://public.tableau.com/app/profile/anxo.d.az.sande/viz/Top15SongsWorldwidelastmonth/Top15songs)
+
 ## How?
 
 > The ***esd.extract_data*** function retrieves songs from a Spotify playlist using the Spotify API. It checks if the playlist has already been processed for the current day and, if not, extracts song information such as name, artist, popularity, duration, and more. The function then stores this data in a CSV file, appending it.
