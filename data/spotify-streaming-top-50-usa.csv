@@ -7249,3 +7249,53 @@ date,position,song,artist,popularity,duration_ms,album_type,total_tracks,release
 2023-10-09,48,3D (feat. Jack Harlow),Jung Kook & Jack Harlow,80,201812,album,7,2023-10-02,True,https://i.scdn.co/image/ab67616d0000b27399583bb32b47e87d55c6064b
 2023-10-09,49,Pink + White,Frank Ocean,90,184516,album,17,2016-08-20,False,https://i.scdn.co/image/ab67616d0000b273c5649add07ed3720be9d5526
 2023-10-09,50,Sweater Weather,The Neighbourhood,91,240400,album,11,2013-04-19,False,https://i.scdn.co/image/ab67616d0000b2738265a736a1eb838ad5a0b921
+2023-10-10,1,IDGAF (feat. Yeat),Drake,82,260111,album,23,2023-10-06,True,https://i.scdn.co/image/ab67616d0000b273931aeb0d63b3e45425bd7310
+2023-10-10,2,First Person Shooter (feat. J. Cole),Drake,83,247444,album,23,2023-10-06,True,https://i.scdn.co/image/ab67616d0000b273931aeb0d63b3e45425bd7310
+2023-10-10,3,Virginia Beach,Drake,81,251094,album,23,2023-10-06,True,https://i.scdn.co/image/ab67616d0000b273931aeb0d63b3e45425bd7310
+2023-10-10,4,Slime You Out (feat. SZA),Drake,77,310490,album,23,2023-10-06,True,https://i.scdn.co/image/ab67616d0000b273931aeb0d63b3e45425bd7310
+2023-10-10,5,Paint The Town Red,Doja Cat,85,230480,album,15,2023-09-20,True,https://i.scdn.co/image/ab67616d0000b273a840032f14ab22da396e43cb
+2023-10-10,6,I Remember Everything (feat. Kacey Musgraves),Zach Bryan,93,227195,album,16,2023-08-25,False,https://i.scdn.co/image/ab67616d0000b273e5a25ed08d1e7e0fbb440cef
+2023-10-10,7,Calling For You (feat. 21 Savage),Drake,80,285630,album,23,2023-10-06,True,https://i.scdn.co/image/ab67616d0000b273931aeb0d63b3e45425bd7310
+2023-10-10,8,Daylight,Drake,80,164142,album,23,2023-10-06,True,https://i.scdn.co/image/ab67616d0000b273931aeb0d63b3e45425bd7310
+2023-10-10,9,Gently (feat. Bad Bunny),Drake,80,133694,album,23,2023-10-06,True,https://i.scdn.co/image/ab67616d0000b273931aeb0d63b3e45425bd7310
+2023-10-10,10,Rich Baby Daddy (feat. Sexyy Red & SZA),Drake,78,319191,album,23,2023-10-06,True,https://i.scdn.co/image/ab67616d0000b273931aeb0d63b3e45425bd7310
+2023-10-10,11,greedy,Tate McRae,96,131872,single,1,2023-09-15,True,https://i.scdn.co/image/ab67616d0000b27322fd802bc61db666c7c81aa8
+2023-10-10,12,Fear Of Heights,Drake,80,155154,album,23,2023-10-06,True,https://i.scdn.co/image/ab67616d0000b273931aeb0d63b3e45425bd7310
+2023-10-10,13,My Love Mine All Mine,Mitski,90,137773,album,11,2023-09-15,False,https://i.scdn.co/image/ab67616d0000b27334f21d3047d85440dfa37f10
+2023-10-10,14,fukumean,Gunna,95,125040,album,15,2023-06-16,True,https://i.scdn.co/image/ab67616d0000b273017d5e26552345c4b1575b6c
+2023-10-10,15,8am in Charlotte,Drake,78,266847,album,23,2023-10-06,True,https://i.scdn.co/image/ab67616d0000b273931aeb0d63b3e45425bd7310
+2023-10-10,16,7969 Santa,Drake,79,259846,album,23,2023-10-06,True,https://i.scdn.co/image/ab67616d0000b273931aeb0d63b3e45425bd7310
+2023-10-10,17,Amen (feat. Teezo Touchdown),Drake,79,141212,album,23,2023-10-06,True,https://i.scdn.co/image/ab67616d0000b273931aeb0d63b3e45425bd7310
+2023-10-10,18,What Would Pluto Do,Drake,77,182998,album,23,2023-10-06,True,https://i.scdn.co/image/ab67616d0000b273931aeb0d63b3e45425bd7310
+2023-10-10,19,Last Night,Morgan Wallen,86,163854,album,36,2023-03-03,True,https://i.scdn.co/image/ab67616d0000b273705079df9a25a28b452c1fc9
+2023-10-10,20,Cruel Summer,Taylor Swift,99,178426,album,18,2019-08-23,False,https://i.scdn.co/image/ab67616d0000b273e787cffec20aa2a396a61647
+2023-10-10,21,Bahamas Promises,Drake,77,184089,album,23,2023-10-06,True,https://i.scdn.co/image/ab67616d0000b273931aeb0d63b3e45425bd7310
+2023-10-10,22,Tried Our Best,Drake,77,209990,album,23,2023-10-06,True,https://i.scdn.co/image/ab67616d0000b273931aeb0d63b3e45425bd7310
+2023-10-10,23,vampire,Olivia Rodrigo,95,219724,album,12,2023-09-08,True,https://i.scdn.co/image/ab67616d0000b273e85259a1cae29a8d91f2093d
+2023-10-10,24,I KNOW ?,Travis Scott,92,211582,album,19,2023-07-28,True,https://i.scdn.co/image/ab67616d0000b273881d8d8378cd01099babcd44
+2023-10-10,25,Another Late Night (feat. Lil Yachty),Drake,76,170414,album,23,2023-10-06,True,https://i.scdn.co/image/ab67616d0000b273931aeb0d63b3e45425bd7310
+2023-10-10,26,Something in the Orange,Zach Bryan,90,228013,single,4,2022-04-22,False,https://i.scdn.co/image/ab67616d0000b273b2b6670e3aca9bcd55fbabbb
+2023-10-10,27,All The Parties (feat. Chief Keef),Drake,76,218611,album,23,2023-10-06,True,https://i.scdn.co/image/ab67616d0000b273931aeb0d63b3e45425bd7310
+2023-10-10,28,Members Only (feat. PARTYNEXTDOOR),Drake,77,277720,album,23,2023-10-06,True,https://i.scdn.co/image/ab67616d0000b273931aeb0d63b3e45425bd7310
+2023-10-10,29,Drew A Picasso,Drake,76,262768,album,23,2023-10-06,True,https://i.scdn.co/image/ab67616d0000b273931aeb0d63b3e45425bd7310
+2023-10-10,30,bad idea right?,Olivia Rodrigo,93,184783,album,12,2023-09-08,True,https://i.scdn.co/image/ab67616d0000b273e85259a1cae29a8d91f2093d
+2023-10-10,31,Stick Season,Noah Kahan,84,182346,album,14,2022-10-14,False,https://i.scdn.co/image/ab67616d0000b2736ee35072df1af802cca09918
+2023-10-10,32,Away From Home,Drake,75,258592,album,23,2023-10-06,True,https://i.scdn.co/image/ab67616d0000b273931aeb0d63b3e45425bd7310
+2023-10-10,33,Strangers,Kenya Grace,96,172964,single,1,2023-09-01,False,https://i.scdn.co/image/ab67616d0000b2734756c2e9ae436437cd75e9f3
+2023-10-10,34,Snooze,SZA,92,201800,album,23,2022-12-09,True,https://i.scdn.co/image/ab67616d0000b27370dbc9f47669d120ad874ec1
+2023-10-10,35,Kill Bill,SZA,91,153946,album,23,2022-12-08,False,https://i.scdn.co/image/ab67616d0000b2730c471c36970b9406233842a5
+2023-10-10,36,LADY GAGA,Peso Pluma,94,212878,album,17,2023-06-29,True,https://i.scdn.co/image/ab67616d0000b2732fb583ed96f8f35cbf2897ba
+2023-10-10,37,Agora Hills,Doja Cat,74,265360,album,15,2023-09-20,True,https://i.scdn.co/image/ab67616d0000b273a840032f14ab22da396e43cb
+2023-10-10,38,MELTDOWN (feat. Drake),Travis Scott,91,246133,album,19,2023-07-28,True,https://i.scdn.co/image/ab67616d0000b273881d8d8378cd01099babcd44
+2023-10-10,39,QLONA,KAROL G,93,172797,album,9,2023-08-10,True,https://i.scdn.co/image/ab67616d0000b273d026bf9d7780f6a1267b4d03
+2023-10-10,40,500lbs,Lil Tecca,77,144390,album,16,2023-09-22,True,https://i.scdn.co/image/ab67616d0000b273c4e6adea69105e6b6e214b96
+2023-10-10,41,See You Again (feat. Kali Uchis),"Tyler, The Creator",92,180386,album,14,2017-07-21,True,https://i.scdn.co/image/ab67616d0000b2738940ac99f49e44f59e6f7fb3
+2023-10-10,42,get him back!,Olivia Rodrigo,92,211141,album,12,2023-09-08,True,https://i.scdn.co/image/ab67616d0000b273e85259a1cae29a8d91f2093d
+2023-10-10,43,Polar Opposites,Drake,74,257180,album,23,2023-10-06,True,https://i.scdn.co/image/ab67616d0000b273931aeb0d63b3e45425bd7310
+2023-10-10,44,Ella Baila Sola,Eslabon Armado,86,165671,album,16,2023-04-28,False,https://i.scdn.co/image/ab67616d0000b273dfddf1cb31b85a6d28b7d91f
+2023-10-10,45,Pink + White,Frank Ocean,90,184516,album,17,2016-08-20,False,https://i.scdn.co/image/ab67616d0000b273c5649add07ed3720be9d5526
+2023-10-10,46,No Role Modelz,J. Cole,90,292799,album,13,2014-12-09,True,https://i.scdn.co/image/ab67616d0000b273c6e0948bbb0681ff29cdbae8
+2023-10-10,47,Sweater Weather,The Neighbourhood,92,240400,album,11,2013-04-19,False,https://i.scdn.co/image/ab67616d0000b2738265a736a1eb838ad5a0b921
+2023-10-10,48,"What Was I Made For? [From The Motion Picture ""Barbie""]",Billie Eilish,96,222369,single,1,2023-07-13,False,https://i.scdn.co/image/ab67616d0000b273ed317ec13d3de9e01fb99c9e
+2023-10-10,49,BBL Love - Interlude,Drake,74,161363,album,23,2023-10-06,True,https://i.scdn.co/image/ab67616d0000b273931aeb0d63b3e45425bd7310
+2023-10-10,50,3D (feat. Jack Harlow),Jung Kook & Jack Harlow,83,201812,album,7,2023-10-02,True,https://i.scdn.co/image/ab67616d0000b27399583bb32b47e87d55c6064b
