@@ -7849,3 +7849,53 @@ date,position,song,artist,popularity,duration_ms,album_type,total_tracks,release
 2023-10-21,48,CYBERTRUCK,Bad Bunny,87,191959,album,22,2023-10-13,True,https://i.scdn.co/image/ab67616d0000b2737b1fc51ff3257b5286a1ecec
 2023-10-21,49,MERCEDES CAROTA,Bad Bunny,86,202635,album,22,2023-10-13,True,https://i.scdn.co/image/ab67616d0000b2737b1fc51ff3257b5286a1ecec
 2023-10-21,50,SEYA,GIMS,51,188484,album,21,2023-10-05,False,https://i.scdn.co/image/ab67616d0000b2738c127b14ce91c9e0f45cda94
+2023-10-22,1,Lollipop,Darell,86,199946,album,18,2023-07-28,True,https://i.scdn.co/image/ab67616d0000b273992b4a535535ec4d0f109021
+2023-10-22,2,Si No Estás,iñigo quintero,96,184061,single,1,2022-09-23,False,https://i.scdn.co/image/ab67616d0000b2735cb9531348f45311cd6fb8df
+2023-10-22,3,PERRO NEGRO,Bad Bunny,92,162767,album,22,2023-10-13,True,https://i.scdn.co/image/ab67616d0000b2737b1fc51ff3257b5286a1ecec
+2023-10-22,4,El Mambo,Kiko Rivera,80,129845,single,1,2023-07-13,False,https://i.scdn.co/image/ab67616d0000b2739550e7d371ec97215fee49f3
+2023-10-22,5,MONACO,Bad Bunny,94,267194,album,22,2023-10-13,True,https://i.scdn.co/image/ab67616d0000b2737b1fc51ff3257b5286a1ecec
+2023-10-22,6,OA,Anuel AA & Quevedo & Maluma,81,235200,single,1,2023-10-13,True,https://i.scdn.co/image/ab67616d0000b27331e30ddd08dde773cd4cbbbe
+2023-10-22,7,HIBIKI,Bad Bunny,90,208000,album,22,2023-10-13,True,https://i.scdn.co/image/ab67616d0000b2737b1fc51ff3257b5286a1ecec
+2023-10-22,8,Buenas,Quevedo & Saiko,87,192954,single,1,2023-09-22,False,https://i.scdn.co/image/ab67616d0000b27347dde0f7071eb50a15c74470
+2023-10-22,9,REINA,Mora,89,211879,album,15,2023-08-28,True,https://i.scdn.co/image/ab67616d0000b2734cc96ed1e38fa517608c2fb0
+2023-10-22,10,Columbia,Quevedo,96,186000,single,1,2023-07-07,False,https://i.scdn.co/image/ab67616d0000b273a00a817b017c6f6bf8460be9
+2023-10-22,11,MODELITO,Mora,85,190496,album,14,2022-11-03,True,https://i.scdn.co/image/ab67616d0000b273076ef0fed51ff7a4911459e9
+2023-10-22,12,LALA,Myke Towers,98,197920,album,23,2023-03-23,True,https://i.scdn.co/image/ab67616d0000b2730656d5ce813ca3cc4b677e05
+2023-10-22,13,SEDA,Bad Bunny,88,190476,album,22,2023-10-13,True,https://i.scdn.co/image/ab67616d0000b2737b1fc51ff3257b5286a1ecec
+2023-10-22,14,"Milo J: Bzrp Music Sessions, Vol. 57",Bizarrap & Milo j,88,189901,single,1,2023-10-03,False,https://i.scdn.co/image/ab67616d0000b273055cea306ade28a459e948b4
+2023-10-22,15,FINA,Bad Bunny,91,216327,album,22,2023-10-13,True,https://i.scdn.co/image/ab67616d0000b2737b1fc51ff3257b5286a1ecec
+2023-10-22,16,Holanda,Jhayco,93,231693,single,1,2023-07-28,True,https://i.scdn.co/image/ab67616d0000b273cd2ceb6adaa32ecc83cec5c3
+2023-10-22,17,Quien Es Dei V?,Dei V,81,162244,single,1,2023-03-17,True,https://i.scdn.co/image/ab67616d0000b27348093fb42a734d7e0845ade5
+2023-10-22,18,POLARIS - Remix,Saiko & Feid & Quevedo,86,288000,single,1,2023-06-08,True,https://i.scdn.co/image/ab67616d0000b2738f4a278cd5b5b2f65a0f87fd
+2023-10-22,19,Fruto,Bizarrap & Milo j,89,132294,single,5,2023-10-04,False,https://i.scdn.co/image/ab67616d0000b27344fa31a89a1e549f74908a81
+2023-10-22,20,COSAS QUE NO TE DIJE,Saiko,81,224725,single,1,2021-09-17,False,https://i.scdn.co/image/ab67616d0000b273fb045f7dda9773e266437bc6
+2023-10-22,21,QLONA,KAROL G,94,172797,album,9,2023-08-10,True,https://i.scdn.co/image/ab67616d0000b273d026bf9d7780f6a1267b4d03
+2023-10-22,22,GANGSTER (PQFNEDG),Ovy On The Drums & Quevedo & Yandel,39,215470,single,1,2023-10-19,True,https://i.scdn.co/image/ab67616d0000b2731ec86397013abccb760a99a0
+2023-10-22,23,BABY HELLO,Rauw Alejandro,79,222461,album,14,2023-07-07,True,https://i.scdn.co/image/ab67616d0000b273f29d0900444e44b4146409e5
+2023-10-22,24,THUNDER Y LIGHTNING,Bad Bunny,86,217133,album,22,2023-10-13,True,https://i.scdn.co/image/ab67616d0000b2737b1fc51ff3257b5286a1ecec
+2023-10-22,25,El Merengue,Marshmello & Manuel Turizo,89,189668,single,1,2023-03-03,False,https://i.scdn.co/image/ab67616d0000b273f404676577626a87d92cf33f
+2023-10-22,26,DILUVIO,Rauw Alejandro,78,197052,album,14,2023-07-07,True,https://i.scdn.co/image/ab67616d0000b273f29d0900444e44b4146409e5
+2023-10-22,27,NO PIENSO LLAMAR,Soge Culebra,57,198352,album,13,2023-10-13,False,https://i.scdn.co/image/ab67616d0000b273890db83272f7dff65eb2e41d
+2023-10-22,28,Dicelo,Lianet Rivero & Lia & Gatillo,60,153563,single,1,2023-06-28,False,https://i.scdn.co/image/ab67616d0000b2736ad8d7ae030fca201a29eced
+2023-10-22,29,A 300,JC Reyes & Pedro Calderon,78,169208,single,1,2023-02-17,False,https://i.scdn.co/image/ab67616d0000b2738274465afec06d55b3493a59
+2023-10-22,30,Los del Espacio,LIT killah,89,338000,single,1,2023-06-01,False,https://i.scdn.co/image/ab67616d0000b27352a52eac3761e2133bd0f57a
+2023-10-22,31,VAGABUNDO,Sebastian Yatra & Manuel Turizo & Beéle,87,215600,single,1,2023-05-12,False,https://i.scdn.co/image/ab67616d0000b2732d6016751b8ea5e66e83cd04
+2023-10-22,32,Arena y Sal,Omar Montes & Saiko & Tunvao,80,174415,single,1,2023-05-18,False,https://i.scdn.co/image/ab67616d0000b273e78ae3c73af7c17be0c05cb2
+2023-10-22,33,No Estuviste En Lo Malo - REMIX,Morad & Beny Jr & DELLAFUENTE,76,268320,single,1,2023-10-04,False,https://i.scdn.co/image/ab67616d0000b27318015bf511642e06641d0a8e
+2023-10-22,34,Corazón Roto pt. 3,Brray & Anuel AA & Chencho Corleone,86,348400,single,1,2023-09-08,True,https://i.scdn.co/image/ab67616d0000b2732cfe06902d86d09df823726e
+2023-10-22,35,LUCES DE TECNO,Feid,78,164293,album,16,2023-09-29,False,https://i.scdn.co/image/ab67616d0000b2731e76d5d8c654a8f5e640392b
+2023-10-22,36,Narcotics (with Bryant Myers),Dei V & Bryant Myers,81,173991,single,1,2023-09-14,True,https://i.scdn.co/image/ab67616d0000b2735b8ec2b9361e0bbf841860cf
+2023-10-22,37,El Cielo,Sky Rompiendo & Feid & Myke Towers,88,191320,single,1,2023-06-02,True,https://i.scdn.co/image/ab67616d0000b27306eccb4893fa58ae311c45ea
+2023-10-22,38,Antidepresivos,Saiko,79,145384,single,1,2023-08-03,False,https://i.scdn.co/image/ab67616d0000b2739f3cb52cd35a86ac59470fd9
+2023-10-22,39,NADIE SABE,Bad Bunny,89,379058,album,22,2023-10-13,True,https://i.scdn.co/image/ab67616d0000b2737b1fc51ff3257b5286a1ecec
+2023-10-22,40,UN PREVIEW,Bad Bunny,84,165582,album,22,2023-10-13,True,https://i.scdn.co/image/ab67616d0000b2737b1fc51ff3257b5286a1ecec
+2023-10-22,41,TELEFONO NUEVO,Bad Bunny,88,354784,album,22,2023-10-13,True,https://i.scdn.co/image/ab67616d0000b2737b1fc51ff3257b5286a1ecec
+2023-10-22,42,BABY NUEVA,Bad Bunny,88,240773,album,22,2023-10-13,True,https://i.scdn.co/image/ab67616d0000b2737b1fc51ff3257b5286a1ecec
+2023-10-22,43,DONDE SE APRENDE A QUERER?,Mora,88,144427,album,15,2023-08-28,False,https://i.scdn.co/image/ab67616d0000b2734cc96ed1e38fa517608c2fb0
+2023-10-22,44,SEYA,GIMS,51,188484,album,21,2023-10-05,False,https://i.scdn.co/image/ab67616d0000b2738c127b14ce91c9e0f45cda94
+2023-10-22,45,La Bachata,Manuel Turizo,86,162637,album,15,2023-03-17,False,https://i.scdn.co/image/ab67616d0000b2734dd99565ae6453deab7c26e1
+2023-10-22,46,WHERE SHE GOES,Bad Bunny,83,231704,album,22,2023-10-13,True,https://i.scdn.co/image/ab67616d0000b2737b1fc51ff3257b5286a1ecec
+2023-10-22,47,Eva Longoria,Ozuna,80,199850,album,7,2023-05-26,False,https://i.scdn.co/image/ab67616d0000b273791d76abc6a152ac90c9b140
+2023-10-22,48,COLMILLO,Tainy,68,265999,album,20,2023-06-29,True,https://i.scdn.co/image/ab67616d0000b273f885fb64a381318a1c9c14e4
+2023-10-22,49,Rara Vez,Taiu & Milo j,89,128677,single,1,2023-02-08,False,https://i.scdn.co/image/ab67616d0000b273d467bed4e6b2a01ea8569100
+2023-10-22,50,DE PLASTILINA,Lola Indigo & Pepe y Vizio,32,209533,single,1,2023-10-19,False,https://i.scdn.co/image/ab67616d0000b273511a8a710cb6b932f47f5705
