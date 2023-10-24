@@ -7949,3 +7949,53 @@ date,position,song,artist,popularity,duration_ms,album_type,total_tracks,release
 2023-10-23,48,BABY NUEVA,Bad Bunny,89,240773,album,22,2023-10-13,True,https://i.scdn.co/image/ab67616d0000b2737b1fc51ff3257b5286a1ecec
 2023-10-23,49,HIBIKI,Bad Bunny,91,208000,album,22,2023-10-13,True,https://i.scdn.co/image/ab67616d0000b2737b1fc51ff3257b5286a1ecec
 2023-10-23,50,Julietota,LATIN MAFIA,85,212151,single,1,2023-08-25,False,https://i.scdn.co/image/ab67616d0000b2735e1831e5a4b463c6aefa92e0
+2023-10-24,1,Que Onda,Calle 24 & Chino Pacas & Fuerza Regida,94,191466,single,1,2023-08-30,True,https://i.scdn.co/image/ab67616d0000b273c069abd6ab0ed961aa7b2d39
+2023-10-24,2,LADY GAGA,Peso Pluma,95,212878,album,17,2023-06-29,True,https://i.scdn.co/image/ab67616d0000b2732fb583ed96f8f35cbf2897ba
+2023-10-24,3,LOU LOU,Gabito Ballesteros & Natanael Cano,77,188000,single,1,2023-10-19,True,https://i.scdn.co/image/ab67616d0000b27338c5b1d6170ff3120bbbaf42
+2023-10-24,4,ELOVRGA,Alex Favela & Grupo Marca Registrada & Joaquin Medina,91,194769,single,1,2023-08-18,True,https://i.scdn.co/image/ab67616d0000b273c470398d2c6a0005706d9876
+2023-10-24,5,Y LLORO,Junior H,87,179013,album,17,2023-10-05,True,https://i.scdn.co/image/ab67616d0000b273f3ba6742a35f111aaea1ca2f
+2023-10-24,6,PERRO NEGRO,Bad Bunny,94,162767,album,22,2023-10-13,True,https://i.scdn.co/image/ab67616d0000b2737b1fc51ff3257b5286a1ecec
+2023-10-24,7,Según Quién,Maluma,88,142334,album,25,2023-08-25,True,https://i.scdn.co/image/ab67616d0000b273d688b951a19f48941682e026
+2023-10-24,8,MONACO,Bad Bunny,95,267194,album,22,2023-10-13,True,https://i.scdn.co/image/ab67616d0000b2737b1fc51ff3257b5286a1ecec
+2023-10-24,9,QLONA,KAROL G,94,172797,album,9,2023-08-10,True,https://i.scdn.co/image/ab67616d0000b273d026bf9d7780f6a1267b4d03
+2023-10-24,10,EL AMOR DE SU VIDA,Grupo Frontera,90,165848,album,12,2023-08-25,False,https://i.scdn.co/image/ab67616d0000b27382ce4c7bbf861185252e82ae
+2023-10-24,11,Reggaeton Champagne,Bellakath,85,159170,album,18,2023-10-05,False,https://i.scdn.co/image/ab67616d0000b2731ecd0a0631b08371002af606
+2023-10-24,12,Primera Cita,Carin Leon,87,186455,album,18,2023-05-19,False,https://i.scdn.co/image/ab67616d0000b2730e30fcf494fd711ad068d1cd
+2023-10-24,13,O Me Voy O Te Vas,Natanael Cano,80,242133,single,1,2023-10-11,False,https://i.scdn.co/image/ab67616d0000b273c1814d19b44c5e9df7ef33bd
+2023-10-24,14,SABOR FRESA,Fuerza Regida,62,156500,album,30,2023-10-20,True,https://i.scdn.co/image/ab67616d0000b273ad57982065339f7dc2058efe
+2023-10-24,15,LALA,Myke Towers,98,197920,album,23,2023-03-23,True,https://i.scdn.co/image/ab67616d0000b2730656d5ce813ca3cc4b677e05
+2023-10-24,16,Mood Malandro,Código FN & Gabito Ballesteros,87,191558,single,1,2023-08-24,False,https://i.scdn.co/image/ab67616d0000b2734a7834c05e5f6ba2d60cce43
+2023-10-24,17,Mi Bello Angel,Natanael Cano,88,188666,album,15,2023-06-30,True,https://i.scdn.co/image/ab67616d0000b273e2e093427065eaca9e2f2970
+2023-10-24,18,El Azul,Junior H & Peso Pluma,90,187225,single,1,2023-02-10,False,https://i.scdn.co/image/ab67616d0000b27333ed356efed99b158c4267c6
+2023-10-24,19,TQM,Fuerza Regida,60,157251,album,30,2023-10-20,True,https://i.scdn.co/image/ab67616d0000b273ad57982065339f7dc2058efe
+2023-10-24,20,Skin de Bandida,Oscar Maydon & Junior H & Gabito Ballesteros,84,176134,single,1,2023-09-22,False,https://i.scdn.co/image/ab67616d0000b27381db99ce744a419c8ff02162
+2023-10-24,21,La Víctima,Xavi,84,156345,single,1,2023-08-17,True,https://i.scdn.co/image/ab67616d0000b2730e8dc9720dd03d86627fa54b
+2023-10-24,22,ROCKSTAR,Junior H,83,168677,album,17,2023-10-05,True,https://i.scdn.co/image/ab67616d0000b273f3ba6742a35f111aaea1ca2f
+2023-10-24,23,HARLEY QUINN,Fuerza Regida,67,143327,album,30,2023-10-20,True,https://i.scdn.co/image/ab67616d0000b273ad57982065339f7dc2058efe
+2023-10-24,24,Poco A Poco,Xavi & Los Dareyes De La Sierra,83,156040,single,1,2023-09-21,False,https://i.scdn.co/image/ab67616d0000b273b79bb48c27ca9d10b784a52d
+2023-10-24,25,TULUM,Peso Pluma,91,209415,album,17,2023-06-29,True,https://i.scdn.co/image/ab67616d0000b2732fb583ed96f8f35cbf2897ba
+2023-10-24,26,FINA,Bad Bunny,92,216327,album,22,2023-10-13,True,https://i.scdn.co/image/ab67616d0000b2737b1fc51ff3257b5286a1ecec
+2023-10-24,27,un x100to,Grupo Frontera,86,194563,album,12,2023-08-25,False,https://i.scdn.co/image/ab67616d0000b27382ce4c7bbf861185252e82ae
+2023-10-24,28,Si No Estás,iñigo quintero,97,184061,single,1,2022-09-23,False,https://i.scdn.co/image/ab67616d0000b2735cb9531348f45311cd6fb8df
+2023-10-24,29,UN PREVIEW,Bad Bunny,85,165582,album,22,2023-10-13,True,https://i.scdn.co/image/ab67616d0000b2737b1fc51ff3257b5286a1ecec
+2023-10-24,30,CCC - Remix,Michelle Maciel & Eden Muñoz & Panter Bélico,84,147877,single,1,2023-08-31,False,https://i.scdn.co/image/ab67616d0000b2730261cf752d4a09765530439a
+2023-10-24,31,LAGUNAS,Peso Pluma,89,231246,album,17,2023-06-29,True,https://i.scdn.co/image/ab67616d0000b2732fb583ed96f8f35cbf2897ba
+2023-10-24,32,Ella Baila Sola,Eslabon Armado,86,165671,album,16,2023-04-28,False,https://i.scdn.co/image/ab67616d0000b273dfddf1cb31b85a6d28b7d91f
+2023-10-24,33,BIPOLAR,Peso Pluma & Jasiel Nuñez & Junior H,88,265045,single,1,2023-09-07,True,https://i.scdn.co/image/ab67616d0000b273e26340898110cbde4cb74e17
+2023-10-24,34,Vete,Alfredo Olivas,83,185240,album,12,2022-09-30,False,https://i.scdn.co/image/ab67616d0000b2734ad368f24e056b99f00fb0af
+2023-10-24,35,Fin de Semana,Oscar Maydon & Junior H,87,224920,single,1,2023-01-13,False,https://i.scdn.co/image/ab67616d0000b2739b7e1ea3815a172019bc5e56
+2023-10-24,36,QUE VUELVAS,Grupo Frontera,81,169418,album,12,2023-08-25,False,https://i.scdn.co/image/ab67616d0000b27382ce4c7bbf861185252e82ae
+2023-10-24,37,MI EX TENÍA RAZÓN,KAROL G,89,154374,album,9,2023-08-10,False,https://i.scdn.co/image/ab67616d0000b273d026bf9d7780f6a1267b4d03
+2023-10-24,38,EXCESOS,Fuerza Regida,73,187076,album,30,2023-10-20,False,https://i.scdn.co/image/ab67616d0000b273ad57982065339f7dc2058efe
+2023-10-24,39,La Bebe - Remix,Yng Lvcas & Peso Pluma,92,234352,single,2,2023-03-17,True,https://i.scdn.co/image/ab67616d0000b273a04be3ad7c8c67f4109111a9
+2023-10-24,40,Ch y la Pizza,Fuerza Regida,83,136913,album,13,2022-12-30,True,https://i.scdn.co/image/ab67616d0000b273cdbbe3160616f7c85e2eb2c8
+2023-10-24,41,BABY NUEVA,Bad Bunny,89,240773,album,22,2023-10-13,True,https://i.scdn.co/image/ab67616d0000b2737b1fc51ff3257b5286a1ecec
+2023-10-24,42,HIBIKI,Bad Bunny,91,208000,album,22,2023-10-13,True,https://i.scdn.co/image/ab67616d0000b2737b1fc51ff3257b5286a1ecec
+2023-10-24,43,RUBICON,Peso Pluma,87,238447,album,17,2023-06-29,True,https://i.scdn.co/image/ab67616d0000b2732fb583ed96f8f35cbf2897ba
+2023-10-24,44,Classy 101,Feid & Young Miko,93,195986,single,1,2023-03-31,True,https://i.scdn.co/image/ab67616d0000b27329ebee2b5fb008871fcd201a
+2023-10-24,45,Otro Show,Uzielito Mix & El Bogueto & Dani Flow,82,160800,single,1,2023-09-09,True,https://i.scdn.co/image/ab67616d0000b2734f1926fada105a42d492890b
+2023-10-24,46,Julietota,LATIN MAFIA,85,212151,single,1,2023-08-25,False,https://i.scdn.co/image/ab67616d0000b2735e1831e5a4b463c6aefa92e0
+2023-10-24,47,Chupón,Various Artists,80,201084,single,1,2023-08-25,False,https://i.scdn.co/image/ab67616d0000b273ec0dfdf8d867011a8aea8a84
+2023-10-24,48,CCC,Michelle Maciel & Eden Muñoz,85,126081,single,1,2023-05-04,False,https://i.scdn.co/image/ab67616d0000b2732ed5e2c5fd8d56d3b82dfbe5
+2023-10-24,49,PRC,Peso Pluma,81,184066,album,17,2023-06-29,True,https://i.scdn.co/image/ab67616d0000b2732fb583ed96f8f35cbf2897ba
+2023-10-24,50,Yo Todo Lo Doy,Alfredo Olivas,81,202453,album,12,2022-09-30,False,https://i.scdn.co/image/ab67616d0000b2734ad368f24e056b99f00fb0af
