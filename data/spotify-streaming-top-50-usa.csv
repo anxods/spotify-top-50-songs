@@ -8199,3 +8199,53 @@ date,position,song,artist,popularity,duration_ms,album_type,total_tracks,release
 2023-10-28,48,Karma,Taylor Swift,90,204852,album,13,2022-10-21,True,https://i.scdn.co/image/ab67616d0000b273bb54dde68cd23e2a268ae0f5
 2023-10-28,49,Thinkin’ Bout Me,Morgan Wallen,86,177387,album,36,2023-03-03,False,https://i.scdn.co/image/ab67616d0000b273705079df9a25a28b452c1fc9
 2023-10-28,50,Don’t Blame Me,Taylor Swift,92,236413,album,15,2017-11-10,False,https://i.scdn.co/image/ab67616d0000b273da5d5aeeabacacc1263c0f4b
+2023-10-29,1,Is It Over Now? (Taylor's Version) (From The Vault),Taylor Swift,0,229477,album,21,2023-10-26,False,https://i.scdn.co/image/ab67616d0000b2735cc1de8fa9b7c2f27af04958
+2023-10-29,2,Now That We Don't Talk (Taylor's Version) (From The Vault),Taylor Swift,0,146436,album,21,2023-10-26,False,https://i.scdn.co/image/ab67616d0000b2735cc1de8fa9b7c2f27af04958
+2023-10-29,3,"""Slut!"" (Taylor's Version) (From The Vault)",Taylor Swift,0,180381,album,21,2023-10-26,False,https://i.scdn.co/image/ab67616d0000b2735cc1de8fa9b7c2f27af04958
+2023-10-29,4,Say Don't Go (Taylor's Version) (From The Vault),Taylor Swift,0,279833,album,21,2023-10-26,False,https://i.scdn.co/image/ab67616d0000b2735cc1de8fa9b7c2f27af04958
+2023-10-29,5,Style (Taylor's Version),Taylor Swift,0,231000,album,21,2023-10-26,False,https://i.scdn.co/image/ab67616d0000b2735cc1de8fa9b7c2f27af04958
+2023-10-29,6,Suburban Legends (Taylor's Version) (From The Vault),Taylor Swift,0,171818,album,21,2023-10-26,False,https://i.scdn.co/image/ab67616d0000b2735cc1de8fa9b7c2f27af04958
+2023-10-29,7,Blank Space (Taylor's Version),Taylor Swift,0,231833,album,21,2023-10-26,False,https://i.scdn.co/image/ab67616d0000b2735cc1de8fa9b7c2f27af04958
+2023-10-29,8,Out Of The Woods (Taylor's Version),Taylor Swift,0,235800,album,21,2023-10-26,False,https://i.scdn.co/image/ab67616d0000b2735cc1de8fa9b7c2f27af04958
+2023-10-29,9,Welcome To New York (Taylor's Version),Taylor Swift,0,212600,album,21,2023-10-26,False,https://i.scdn.co/image/ab67616d0000b2735cc1de8fa9b7c2f27af04958
+2023-10-29,10,Wildest Dreams (Taylor's Version),Taylor Swift,0,220433,album,21,2023-10-26,False,https://i.scdn.co/image/ab67616d0000b2735cc1de8fa9b7c2f27af04958
+2023-10-29,11,All You Had To Do Was Stay (Taylor's Version),Taylor Swift,0,193289,album,21,2023-10-26,False,https://i.scdn.co/image/ab67616d0000b2735cc1de8fa9b7c2f27af04958
+2023-10-29,12,New Romantics (Taylor's Version),Taylor Swift,0,230177,album,21,2023-10-26,False,https://i.scdn.co/image/ab67616d0000b2735cc1de8fa9b7c2f27af04958
+2023-10-29,13,I Wish You Would (Taylor's Version),Taylor Swift,0,207650,album,21,2023-10-26,False,https://i.scdn.co/image/ab67616d0000b2735cc1de8fa9b7c2f27af04958
+2023-10-29,14,Clean (Taylor's Version),Taylor Swift,0,271000,album,21,2023-10-26,False,https://i.scdn.co/image/ab67616d0000b2735cc1de8fa9b7c2f27af04958
+2023-10-29,15,Shake It Off (Taylor's Version),Taylor Swift,0,219209,album,21,2023-10-26,False,https://i.scdn.co/image/ab67616d0000b2735cc1de8fa9b7c2f27af04958
+2023-10-29,16,How You Get The Girl (Taylor's Version),Taylor Swift,0,247533,album,21,2023-10-26,False,https://i.scdn.co/image/ab67616d0000b2735cc1de8fa9b7c2f27af04958
+2023-10-29,17,Bad Blood (Taylor's Version),Taylor Swift,0,211103,album,21,2023-10-26,False,https://i.scdn.co/image/ab67616d0000b2735cc1de8fa9b7c2f27af04958
+2023-10-29,18,I Know Places (Taylor's Version),Taylor Swift,0,195700,album,21,2023-10-26,False,https://i.scdn.co/image/ab67616d0000b2735cc1de8fa9b7c2f27af04958
+2023-10-29,19,Wonderland (Taylor's Version),Taylor Swift,0,245566,album,21,2023-10-26,False,https://i.scdn.co/image/ab67616d0000b2735cc1de8fa9b7c2f27af04958
+2023-10-29,20,IDGAF (feat. Yeat),Drake,94,260111,album,23,2023-10-06,True,https://i.scdn.co/image/ab67616d0000b2737d384516b23347e92a587ed1
+2023-10-29,21,This Love (Taylor’s Version),Taylor Swift,0,250100,album,21,2023-10-26,False,https://i.scdn.co/image/ab67616d0000b2735cc1de8fa9b7c2f27af04958
+2023-10-29,22,You Are In Love (Taylor's Version),Taylor Swift,0,267389,album,21,2023-10-26,False,https://i.scdn.co/image/ab67616d0000b2735cc1de8fa9b7c2f27af04958
+2023-10-29,23,Paint The Town Red,Doja Cat,89,230480,album,15,2023-09-20,True,https://i.scdn.co/image/ab67616d0000b273a840032f14ab22da396e43cb
+2023-10-29,24,MONACO,Bad Bunny,97,267194,album,22,2023-10-13,True,https://i.scdn.co/image/ab67616d0000b2737b1fc51ff3257b5286a1ecec
+2023-10-29,25,Cruel Summer,Taylor Swift,100,178426,album,18,2019-08-23,False,https://i.scdn.co/image/ab67616d0000b273e787cffec20aa2a396a61647
+2023-10-29,26,I Remember Everything (feat. Kacey Musgraves),Zach Bryan,94,227195,album,16,2023-08-25,False,https://i.scdn.co/image/ab67616d0000b273e5a25ed08d1e7e0fbb440cef
+2023-10-29,27,Bad Blood (feat. Kendrick Lamar) (Taylor's Version),Taylor Swift,74,199773,album,22,2023-10-27,False,https://i.scdn.co/image/ab67616d0000b273612fb31cf6802a4704388cbf
+2023-10-29,28,My Love Mine All Mine,Mitski,96,137773,album,11,2023-09-15,False,https://i.scdn.co/image/ab67616d0000b27334f21d3047d85440dfa37f10
+2023-10-29,29,fukumean,Gunna,95,125040,album,15,2023-06-16,True,https://i.scdn.co/image/ab67616d0000b273017d5e26552345c4b1575b6c
+2023-10-29,30,greedy,Tate McRae,99,131872,single,1,2023-09-15,True,https://i.scdn.co/image/ab67616d0000b27322fd802bc61db666c7c81aa8
+2023-10-29,31,Last Night,Morgan Wallen,87,163854,album,36,2023-03-03,True,https://i.scdn.co/image/ab67616d0000b273705079df9a25a28b452c1fc9
+2023-10-29,32,First Person Shooter (feat. J. Cole),Drake,92,247444,album,23,2023-10-06,True,https://i.scdn.co/image/ab67616d0000b2737d384516b23347e92a587ed1
+2023-10-29,33,Agora Hills,Doja Cat,80,265360,album,15,2023-09-20,True,https://i.scdn.co/image/ab67616d0000b273a840032f14ab22da396e43cb
+2023-10-29,34,Stick Season,Noah Kahan,88,182346,album,14,2022-10-14,False,https://i.scdn.co/image/ab67616d0000b2736ee35072df1af802cca09918
+2023-10-29,35,PERRO NEGRO,Bad Bunny,95,162767,album,22,2023-10-13,True,https://i.scdn.co/image/ab67616d0000b2737b1fc51ff3257b5286a1ecec
+2023-10-29,36,Kill Bill,SZA,92,153946,album,23,2022-12-08,False,https://i.scdn.co/image/ab67616d0000b2730c471c36970b9406233842a5
+2023-10-29,37,Rich Baby Daddy (feat. Sexyy Red & SZA),Drake,87,319191,album,23,2023-10-06,True,https://i.scdn.co/image/ab67616d0000b2737d384516b23347e92a587ed1
+2023-10-29,38,500lbs,Lil Tecca,82,144390,album,16,2023-09-22,True,https://i.scdn.co/image/ab67616d0000b273c4e6adea69105e6b6e214b96
+2023-10-29,39,I KNOW ?,Travis Scott,93,211582,album,19,2023-07-28,True,https://i.scdn.co/image/ab67616d0000b273881d8d8378cd01099babcd44
+2023-10-29,40,vampire,Olivia Rodrigo,96,219724,album,12,2023-09-08,True,https://i.scdn.co/image/ab67616d0000b273e85259a1cae29a8d91f2093d
+2023-10-29,41,Something in the Orange,Zach Bryan,90,228013,single,4,2022-04-22,False,https://i.scdn.co/image/ab67616d0000b273b2b6670e3aca9bcd55fbabbb
+2023-10-29,42,Water,Tyla,94,200255,single,1,2023-07-28,False,https://i.scdn.co/image/ab67616d0000b273d20231861e86a6f74ef2393e
+2023-10-29,43,Snooze,SZA,92,201800,album,23,2022-12-09,True,https://i.scdn.co/image/ab67616d0000b27370dbc9f47669d120ad874ec1
+2023-10-29,44,Monster Mash,"Bobby ""Boris"" Pickett & The Crypt-Kickers",77,192040,album,16,1962,False,https://i.scdn.co/image/ab67616d0000b273edf6710f9c0cd81e37fcaf3d
+2023-10-29,45,LADY GAGA,Peso Pluma,95,212878,album,17,2023-06-29,True,https://i.scdn.co/image/ab67616d0000b2732fb583ed96f8f35cbf2897ba
+2023-10-29,46,QLONA,KAROL G,94,172797,album,9,2023-08-10,True,https://i.scdn.co/image/ab67616d0000b273d026bf9d7780f6a1267b4d03
+2023-10-29,47,This Is Halloween,Various Artists,55,196560,compilation,20,1993-10-12,False,https://i.scdn.co/image/ab67616d0000b273ff2684642c23615f628260ba
+2023-10-29,48,Strangers,Kenya Grace,98,172964,single,1,2023-09-01,False,https://i.scdn.co/image/ab67616d0000b2734756c2e9ae436437cd75e9f3
+2023-10-29,49,No Role Modelz,J. Cole,91,292799,album,13,2014-12-09,True,https://i.scdn.co/image/ab67616d0000b273c6e0948bbb0681ff29cdbae8
+2023-10-29,50,Thinkin’ Bout Me,Morgan Wallen,86,177387,album,36,2023-03-03,False,https://i.scdn.co/image/ab67616d0000b273705079df9a25a28b452c1fc9
