@@ -8799,3 +8799,53 @@ date,position,song,artist,popularity,duration_ms,album_type,total_tracks,release
 2023-11-09,48,FINA,Bad Bunny,93,216327,album,22,2023-10-13,True,https://i.scdn.co/image/ab67616d0000b2737b1fc51ff3257b5286a1ecec
 2023-11-09,49,Flowers,Miley Cyrus,92,200600,album,14,2023-08-18,False,https://i.scdn.co/image/ab67616d0000b273cd222052a2594be29a6616b5
 2023-11-09,50,Lover,Taylor Swift,92,221306,album,18,2019-08-23,False,https://i.scdn.co/image/ab67616d0000b273e787cffec20aa2a396a61647
+2023-11-10,1,greedy,Tate McRae,100,131872,single,1,2023-09-15,True,https://i.scdn.co/image/ab67616d0000b27322fd802bc61db666c7c81aa8
+2023-11-10,2,Standing Next to You,Jung Kook,93,206019,album,11,2023-11-03,False,https://i.scdn.co/image/ab67616d0000b273741fd4807f442af3f7359316
+2023-11-10,3,Si No Estás,iñigo quintero,99,184061,single,1,2022-09-23,False,https://i.scdn.co/image/ab67616d0000b2735cb9531348f45311cd6fb8df
+2023-11-10,4,PERRO NEGRO,Bad Bunny,97,162767,album,22,2023-10-13,True,https://i.scdn.co/image/ab67616d0000b2737b1fc51ff3257b5286a1ecec
+2023-11-10,5,Seven (feat. Latto) (Explicit Ver.),Jung Kook,84,183550,album,11,2023-11-03,True,https://i.scdn.co/image/ab67616d0000b273741fd4807f442af3f7359316
+2023-11-10,6,Cruel Summer,Taylor Swift,99,178426,album,18,2019-08-23,False,https://i.scdn.co/image/ab67616d0000b273e787cffec20aa2a396a61647
+2023-11-10,7,Is It Over Now? (Taylor's Version) (From The Vault),Taylor Swift,93,229477,album,21,2023-10-26,False,https://i.scdn.co/image/ab67616d0000b273904445d70d04eb24d6bb79ac
+2023-11-10,8,Paint The Town Red,Doja Cat,89,230480,album,15,2023-09-20,True,https://i.scdn.co/image/ab67616d0000b273a840032f14ab22da396e43cb
+2023-11-10,9,MONACO,Bad Bunny,98,267194,album,22,2023-10-13,True,https://i.scdn.co/image/ab67616d0000b2737b1fc51ff3257b5286a1ecec
+2023-11-10,10,My Love Mine All Mine,Mitski,97,137773,album,11,2023-09-15,False,https://i.scdn.co/image/ab67616d0000b27334f21d3047d85440dfa37f10
+2023-11-10,11,Strangers,Kenya Grace,98,172964,single,1,2023-09-01,False,https://i.scdn.co/image/ab67616d0000b2734756c2e9ae436437cd75e9f3
+2023-11-10,12,HARLEY QUINN,Fuerza Regida,90,143327,album,30,2023-10-20,True,https://i.scdn.co/image/ab67616d0000b273ad57982065339f7dc2058efe
+2023-11-10,13,Water,Tyla,96,200255,single,1,2023-07-28,False,https://i.scdn.co/image/ab67616d0000b273d20231861e86a6f74ef2393e
+2023-11-10,14,QLONA,KAROL G,94,172797,album,9,2023-08-10,True,https://i.scdn.co/image/ab67616d0000b273d026bf9d7780f6a1267b4d03
+2023-11-10,15,Que Onda,Calle 24 & Chino Pacas & Fuerza Regida,94,191466,single,1,2023-08-30,True,https://i.scdn.co/image/ab67616d0000b273c069abd6ab0ed961aa7b2d39
+2023-11-10,16,Now That We Don't Talk (Taylor's Version) (From The Vault),Taylor Swift,92,146436,album,21,2023-10-26,False,https://i.scdn.co/image/ab67616d0000b273904445d70d04eb24d6bb79ac
+2023-11-10,17,3D (feat. Jack Harlow),Jung Kook & Jack Harlow,89,201812,album,7,2023-10-02,True,https://i.scdn.co/image/ab67616d0000b27399583bb32b47e87d55c6064b
+2023-11-10,18,Agora Hills,Doja Cat,82,265360,album,15,2023-09-20,True,https://i.scdn.co/image/ab67616d0000b273a840032f14ab22da396e43cb
+2023-11-10,19,LALA,Myke Towers,97,197920,album,23,2023-03-23,True,https://i.scdn.co/image/ab67616d0000b2730656d5ce813ca3cc4b677e05
+2023-11-10,20,I Wanna Be Yours,Arctic Monkeys,95,183956,album,12,2013-09-09,False,https://i.scdn.co/image/ab67616d0000b2734ae1c4c5c45aabe565499163
+2023-11-10,21,Según Quién,Maluma,89,142334,album,25,2023-08-25,True,https://i.scdn.co/image/ab67616d0000b273d688b951a19f48941682e026
+2023-11-10,22,"""Slut!"" (Taylor's Version) (From The Vault)",Taylor Swift,91,180381,album,21,2023-10-26,False,https://i.scdn.co/image/ab67616d0000b273904445d70d04eb24d6bb79ac
+2023-11-10,23,Lollipop,Darell,95,199946,album,18,2023-07-28,True,https://i.scdn.co/image/ab67616d0000b273992b4a535535ec4d0f109021
+2023-11-10,24,Daylight,David Kushner,95,212953,single,1,2023-04-14,False,https://i.scdn.co/image/ab67616d0000b27395ca6a9b4083a86c149934ae
+2023-11-10,25,As It Was,Harry Styles,95,167303,album,13,2022-05-20,False,https://i.scdn.co/image/ab67616d0000b2732e8ed79e177ff6011076f5f0
+2023-11-10,26,LADY GAGA,Peso Pluma,95,212878,album,17,2023-06-29,True,https://i.scdn.co/image/ab67616d0000b2732fb583ed96f8f35cbf2897ba
+2023-11-10,27,Prada,cassö & RAYE & D-Block Europe,94,132359,single,1,2023-08-11,True,https://i.scdn.co/image/ab67616d0000b273e4b7dccdfd54375ded9ccc5c
+2023-11-10,28,vampire,Olivia Rodrigo,95,219724,album,12,2023-09-08,True,https://i.scdn.co/image/ab67616d0000b273e85259a1cae29a8d91f2093d
+2023-11-10,29,Starboy,The Weeknd,94,230453,album,18,2016-11-25,True,https://i.scdn.co/image/ab67616d0000b2734718e2b124f79258be7bc452
+2023-11-10,30,Dance The Night - From Barbie The Album,Dua Lipa,94,176579,single,1,2023-05-25,False,https://i.scdn.co/image/ab67616d0000b2737dd3ba455ee3390cb55b0192
+2023-11-10,31,"What Was I Made For? [From The Motion Picture ""Barbie""]",Billie Eilish,95,222369,single,1,2023-07-13,False,https://i.scdn.co/image/ab67616d0000b273ed317ec13d3de9e01fb99c9e
+2023-11-10,32,IDGAF (feat. Yeat),Drake,94,260111,album,23,2023-10-06,True,https://i.scdn.co/image/ab67616d0000b2737d384516b23347e92a587ed1
+2023-11-10,33,I Remember Everything (feat. Kacey Musgraves),Zach Bryan,93,227195,album,16,2023-08-25,False,https://i.scdn.co/image/ab67616d0000b273e5a25ed08d1e7e0fbb440cef
+2023-11-10,34,Kill Bill,SZA,92,153946,album,23,2022-12-08,False,https://i.scdn.co/image/ab67616d0000b2730c471c36970b9406233842a5
+2023-11-10,35,fukumean,Gunna,95,125040,album,15,2023-06-16,True,https://i.scdn.co/image/ab67616d0000b273017d5e26552345c4b1575b6c
+2023-11-10,36,Stick Season,Noah Kahan,89,182346,album,14,2022-10-14,False,https://i.scdn.co/image/ab67616d0000b2736ee35072df1af802cca09918
+2023-11-10,37,Another Love,Tom Odell,92,244360,album,15,2013-06-24,True,https://i.scdn.co/image/ab67616d0000b2731917a0f3f4152622a040913f
+2023-11-10,38,The Night We Met,Lord Huron,83,208211,album,14,2015-04-07,False,https://i.scdn.co/image/ab67616d0000b2739d2efe43d5b7ebc7cb60ca81
+2023-11-10,39,Say Don't Go (Taylor's Version) (From The Vault),Taylor Swift,90,279833,album,21,2023-10-26,False,https://i.scdn.co/image/ab67616d0000b273904445d70d04eb24d6bb79ac
+2023-11-10,40,Columbia,Quevedo,94,186000,single,1,2023-07-07,False,https://i.scdn.co/image/ab67616d0000b273a00a817b017c6f6bf8460be9
+2023-11-10,41,Sweater Weather,The Neighbourhood,93,240400,album,11,2013-04-19,False,https://i.scdn.co/image/ab67616d0000b2738265a736a1eb838ad5a0b921
+2023-11-10,42,Die For You,The Weeknd,90,260253,album,18,2016-11-24,False,https://i.scdn.co/image/ab67616d0000b273a048415db06a5b6fa7ec4e1a
+2023-11-10,43,"One Of The Girls (with JENNIE, Lily Rose Depp)",The Weeknd & JENNIE & Lily-Rose Depp,90,244684,single,3,2023-06-23,False,https://i.scdn.co/image/ab67616d0000b273b0dd6a5cd1dec96c4119c262
+2023-11-10,44,LOU LOU,Gabito Ballesteros & Natanael Cano,89,188000,single,1,2023-10-19,True,https://i.scdn.co/image/ab67616d0000b27338c5b1d6170ff3120bbbaf42
+2023-11-10,45,Style (Taylor's Version),Taylor Swift,90,231000,album,21,2023-10-26,False,https://i.scdn.co/image/ab67616d0000b273904445d70d04eb24d6bb79ac
+2023-11-10,46,Anti-Hero,Taylor Swift,93,200690,album,13,2022-10-21,False,https://i.scdn.co/image/ab67616d0000b273bb54dde68cd23e2a268ae0f5
+2023-11-10,47,Classy 101,Feid & Young Miko,92,195986,single,1,2023-03-31,True,https://i.scdn.co/image/ab67616d0000b27329ebee2b5fb008871fcd201a
+2023-11-10,48,Flowers,Miley Cyrus,92,200600,album,14,2023-08-18,False,https://i.scdn.co/image/ab67616d0000b273cd222052a2594be29a6616b5
+2023-11-10,49,Lover,Taylor Swift,92,221306,album,18,2019-08-23,False,https://i.scdn.co/image/ab67616d0000b273e787cffec20aa2a396a61647
+2023-11-10,50,Snooze,SZA,92,201800,album,23,2022-12-09,True,https://i.scdn.co/image/ab67616d0000b27370dbc9f47669d120ad874ec1
