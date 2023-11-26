@@ -9599,3 +9599,53 @@ date,position,song,artist,popularity,duration_ms,album_type,total_tracks,release
 2023-11-25,48,"What Was I Made For? [From The Motion Picture ""Barbie""]",Billie Eilish,94,222369,single,1,2023-07-13,False,https://i.scdn.co/image/ab67616d0000b273ed317ec13d3de9e01fb99c9e
 2023-11-25,49,Iris,The Goo Goo Dolls,87,289533,album,13,1998-09-11,False,https://i.scdn.co/image/ab67616d0000b273eda9478c39a21e1cdc6609ca
 2023-11-25,50,Another Love,Tom Odell,92,244360,album,15,2013-06-24,True,https://i.scdn.co/image/ab67616d0000b2731917a0f3f4152622a040913f
+2023-11-26,1,Lovin On Me,Jack Harlow,93,138411,single,1,2023-11-10,True,https://i.scdn.co/image/ab67616d0000b273fcf4adae77baba5d0169e8e8
+2023-11-26,2,Last Christmas - Single Version,Wham!,80,265960,album,16,2023-07-07,False,https://i.scdn.co/image/ab67616d0000b2734b68569ae3fdd6fcd0f98615
+2023-11-26,3,All I Want for Christmas Is You,Mariah Carey,92,241106,album,10,1994-10-28,False,https://i.scdn.co/image/ab67616d0000b2734246e3158421f5abb75abc4f
+2023-11-26,4,Rockin' Around The Christmas Tree,Brenda Lee,88,126266,album,12,1964-10-19,False,https://i.scdn.co/image/ab67616d0000b2737845f74d6db14b400fa61cd3
+2023-11-26,5,Stick Season,Noah Kahan,91,182346,album,14,2022-10-14,False,https://i.scdn.co/image/ab67616d0000b2736ee35072df1af802cca09918
+2023-11-26,6,greedy,Tate McRae,100,131872,single,1,2023-09-15,True,https://i.scdn.co/image/ab67616d0000b27322fd802bc61db666c7c81aa8
+2023-11-26,7,Jingle Bell Rock,Bobby Helms,86,130973,single,2,1957-12-02,False,https://i.scdn.co/image/ab67616d0000b273fd56f3c7a294f5cfe51c7b17
+2023-11-26,8,Strangers,Kenya Grace,97,172964,single,1,2023-09-01,False,https://i.scdn.co/image/ab67616d0000b2734756c2e9ae436437cd75e9f3
+2023-11-26,9,It's Beginning to Look a Lot like Christmas,Michael Bublé,78,207199,album,21,2011-10-14,False,https://i.scdn.co/image/ab67616d0000b2732ead7786631d8dd3b59be4f0
+2023-11-26,10,Prada,cassö & RAYE & D-Block Europe,94,132359,single,1,2023-08-11,True,https://i.scdn.co/image/ab67616d0000b273e4b7dccdfd54375ded9ccc5c
+2023-11-26,11,Santa Tell Me,Ariana Grande,88,204093,single,1,2014-11-24,False,https://i.scdn.co/image/ab67616d0000b273a1db745e63940bc06985dea5
+2023-11-26,12,It's the Most Wonderful Time of the Year,Andy Williams,73,151000,album,12,1963,False,https://i.scdn.co/image/ab67616d0000b273585897779cf3591ba0f07650
+2023-11-26,13,Underneath the Tree,Kelly Clarkson,78,229640,album,14,2013-10-29,False,https://i.scdn.co/image/ab67616d0000b273f54a315f1d2445791fe601a7
+2023-11-26,14,Let It Snow! Let It Snow! Let It Snow!,Dean Martin,86,117146,album,12,1959-01-01,False,https://i.scdn.co/image/ab67616d0000b2736d88028a85c771f37374c8ea
+2023-11-26,15,Water,Tyla,95,200255,single,1,2023-07-28,False,https://i.scdn.co/image/ab67616d0000b273d20231861e86a6f74ef2393e
+2023-11-26,16,Holly Jolly Christmas,Michael Bublé,75,119786,album,16,2011-10-14,False,https://i.scdn.co/image/ab67616d0000b27395517befb15ad5d63af701ab
+2023-11-26,17,Paint The Town Red,Doja Cat,88,230480,album,15,2023-09-20,True,https://i.scdn.co/image/ab67616d0000b273a840032f14ab22da396e43cb
+2023-11-26,18,Merry Christmas Everyone,Shakin' Stevens,81,220160,album,13,1991-11-25,False,https://i.scdn.co/image/ab67616d0000b273d962f3b4235f8c6429a829fb
+2023-11-26,19,Cruel Summer,Taylor Swift,99,178426,album,18,2019-08-23,False,https://i.scdn.co/image/ab67616d0000b273e787cffec20aa2a396a61647
+2023-11-26,20,Is It Over Now? (Taylor's Version) (From The Vault),Taylor Swift,95,229477,album,21,2023-10-26,False,https://i.scdn.co/image/ab67616d0000b273904445d70d04eb24d6bb79ac
+2023-11-26,21,Sprinter,Dave & Central Cee,91,229133,single,1,2023-06-01,True,https://i.scdn.co/image/ab67616d0000b273e3a09a9ae3f1fa102c110e60
+2023-11-26,22,Fairytale of New York (feat. Kirsty MacColl),The Pogues,70,272466,album,19,1988-09-05,False,https://i.scdn.co/image/ab67616d0000b273d0ccf94a2d981db731f5dab8
+2023-11-26,23,My Love Mine All Mine,Mitski,97,137773,album,11,2023-09-15,False,https://i.scdn.co/image/ab67616d0000b27334f21d3047d85440dfa37f10
+2023-11-26,24,Sleigh Ride,The Ronettes,73,181266,album,15,2020-12-04,False,https://i.scdn.co/image/ab67616d0000b2731f0d5a8ff630fd5944c3936d
+2023-11-26,25,vampire,Olivia Rodrigo,94,219724,album,12,2023-09-08,True,https://i.scdn.co/image/ab67616d0000b273e85259a1cae29a8d91f2093d
+2023-11-26,26,Houdini,Dua Lipa,92,185917,single,1,2023-11-09,False,https://i.scdn.co/image/ab67616d0000b273001d5706fddc72561f6488af
+2023-11-26,27,Do They Know It's Christmas? - 1984 Version,Band Aid,78,222533,single,2,1984-11-25,False,https://i.scdn.co/image/ab67616d0000b273d549b09f0264901929eaa6e8
+2023-11-26,28,Snowman,Sia,87,165900,album,13,2018-11-01,False,https://i.scdn.co/image/ab67616d0000b273d1410c1372fab1e516328fa8
+2023-11-26,29,"Baddadan (feat. IRAH, Flowdan, Trigga & Takura)",Chase & Status & Bou & Flowdan,82,177291,single,1,2023-07-27,False,https://i.scdn.co/image/ab67616d0000b273adfadf345224340773549507
+2023-11-26,30,Happy Xmas (War Is Over) - Remastered 2010,John Lennon,82,214333,compilation,119,2010-10-05,False,https://i.scdn.co/image/ab67616d0000b27361a389971d7842d02b0623ab
+2023-11-26,31,Can’t Catch Me Now - from The Hunger Games: The Ballad of Songbirds & Snakes,Olivia Rodrigo & Rachel Zegler & Flatland Cavalry,77,205483,album,17,2023-11-17,False,https://i.scdn.co/image/ab67616d0000b27322ad9f1afdbeeceaf0c91686
+2023-11-26,32,Driving Home for Christmas,Chris Rea,66,239946,compilation,13,1988-10-17,False,https://i.scdn.co/image/ab67616d0000b273074c5d0ef113a4c2f64fedeb
+2023-11-26,33,Wonderful Christmastime - Edited Version / Remastered 2011,Paul McCartney,81,227653,album,19,1980-05-16,False,https://i.scdn.co/image/ab67616d0000b2733cef016d13d82873d45af84a
+2023-11-26,34,Dance The Night - From Barbie The Album,Dua Lipa,93,176579,single,1,2023-05-25,False,https://i.scdn.co/image/ab67616d0000b2737dd3ba455ee3390cb55b0192
+2023-11-26,35,Agora Hills,Doja Cat,84,265360,album,15,2023-09-20,True,https://i.scdn.co/image/ab67616d0000b273a840032f14ab22da396e43cb
+2023-11-26,36,Feliz Navidad,José Feliciano,79,182066,album,15,2002-09-24,False,https://i.scdn.co/image/ab67616d0000b273c8ac560f803bba4902f8bbc5
+2023-11-26,37,Mistletoe,Justin Bieber,84,182946,album,15,2011-01-01,False,https://i.scdn.co/image/ab67616d0000b273af0aff7f601df9ed6d2d531d
+2023-11-26,38,Rich Baby Daddy (feat. Sexyy Red & SZA),Drake,88,319191,album,23,2023-10-06,True,https://i.scdn.co/image/ab67616d0000b2737d384516b23347e92a587ed1
+2023-11-26,39,exes,Tate McRae,86,159400,single,2,2023-11-17,True,https://i.scdn.co/image/ab67616d0000b2733abcdf926da7799a87d36406
+2023-11-26,40,DNA (Loving You) [feat. Hannah Boleyn],Billy Gillies & Hannah Boleyn,77,164919,single,1,2023-07-28,False,https://i.scdn.co/image/ab67616d0000b27360c614f7030dd6078ee0d3f0
+2023-11-26,41,Mr. Brightside,The Killers,88,222973,album,12,2004,False,https://i.scdn.co/image/ab67616d0000b273ccdddd46119a4ff53eaf1f5d
+2023-11-26,42,I Wish It Could Be Christmas Everyday,Wizzard,69,278946,single,1,2007-11-19,False,https://i.scdn.co/image/ab67616d0000b2739c462c3958ef80ae2835540c
+2023-11-26,43,adore u,Fred again.. & Obongjayar,82,220653,single,1,2023-08-11,False,https://i.scdn.co/image/ab67616d0000b273f14e70dbc29485778e114039
+2023-11-26,44,Now That We Don't Talk (Taylor's Version) (From The Vault),Taylor Swift,92,146436,album,21,2023-10-26,False,https://i.scdn.co/image/ab67616d0000b273904445d70d04eb24d6bb79ac
+2023-11-26,45,The Night We Met,Lord Huron,82,208211,album,14,2015-04-07,False,https://i.scdn.co/image/ab67616d0000b2739d2efe43d5b7ebc7cb60ca81
+2023-11-26,46,Disconnect,Becky Hill & Chase & Status,79,164914,single,1,2023-07-14,True,https://i.scdn.co/image/ab67616d0000b27309dc775999d5a6d87d156c2f
+2023-11-26,47,Asking,Sonny Fodera & MK & Clementine Douglas,79,191590,single,1,2023-07-07,False,https://i.scdn.co/image/ab67616d0000b27357040b8ebd555f5d2ed076e6
+2023-11-26,48,fukumean,Gunna,93,125040,album,15,2023-06-16,True,https://i.scdn.co/image/ab67616d0000b273017d5e26552345c4b1575b6c
+2023-11-26,49,Step Into Christmas - Remastered 1995,Elton John,72,272333,album,14,1974-06-28,False,https://i.scdn.co/image/ab67616d0000b27368f5959744717483eed212b2
+2023-11-26,50,I Remember Everything (feat. Kacey Musgraves),Zach Bryan,93,227195,album,16,2023-08-25,False,https://i.scdn.co/image/ab67616d0000b273e5a25ed08d1e7e0fbb440cef
