@@ -9749,3 +9749,53 @@ date,position,song,artist,popularity,duration_ms,album_type,total_tracks,release
 2023-11-28,48,No Role Modelz,J. Cole,90,292799,album,13,2014-12-09,True,https://i.scdn.co/image/ab67616d0000b273c6e0948bbb0681ff29cdbae8
 2023-11-28,49,Surround Sound (feat. 21 Savage & Baby Tate),JID,87,229938,album,16,2022-10-31,True,https://i.scdn.co/image/ab67616d0000b273cae6e44dcc84e2035c3ad092
 2023-11-28,50,Deck The Halls,Nat King Cole,81,68760,album,19,1962,False,https://i.scdn.co/image/ab67616d0000b27330dc6027fd140c7ba68e900c
+2023-11-29,1,Lovin On Me,Jack Harlow,94,138411,single,1,2023-11-10,True,https://i.scdn.co/image/ab67616d0000b273fcf4adae77baba5d0169e8e8
+2023-11-29,2,Rockin' Around The Christmas Tree,Brenda Lee,91,126266,album,12,1964-10-19,False,https://i.scdn.co/image/ab67616d0000b2737845f74d6db14b400fa61cd3
+2023-11-29,3,All I Want for Christmas Is You,Mariah Carey,94,241106,album,10,1994-10-28,False,https://i.scdn.co/image/ab67616d0000b2734246e3158421f5abb75abc4f
+2023-11-29,4,My Love Mine All Mine,Mitski,98,137773,album,11,2023-09-15,False,https://i.scdn.co/image/ab67616d0000b27334f21d3047d85440dfa37f10
+2023-11-29,5,Jingle Bell Rock,Bobby Helms,87,130973,single,2,1957-12-02,False,https://i.scdn.co/image/ab67616d0000b273fd56f3c7a294f5cfe51c7b17
+2023-11-29,6,Last Christmas - Single Version,Wham!,82,265960,album,16,2023-07-07,False,https://i.scdn.co/image/ab67616d0000b2734b68569ae3fdd6fcd0f98615
+2023-11-29,7,Stick Season,Noah Kahan,91,182346,album,14,2022-10-14,False,https://i.scdn.co/image/ab67616d0000b2736ee35072df1af802cca09918
+2023-11-29,8,greedy,Tate McRae,100,131872,single,1,2023-09-15,True,https://i.scdn.co/image/ab67616d0000b27322fd802bc61db666c7c81aa8
+2023-11-29,9,It's the Most Wonderful Time of the Year,Andy Williams,75,151000,album,12,1963,False,https://i.scdn.co/image/ab67616d0000b273585897779cf3591ba0f07650
+2023-11-29,10,I Remember Everything (feat. Kacey Musgraves),Zach Bryan,93,227195,album,16,2023-08-25,False,https://i.scdn.co/image/ab67616d0000b273e5a25ed08d1e7e0fbb440cef
+2023-11-29,11,Agora Hills,Doja Cat,84,265360,album,15,2023-09-20,True,https://i.scdn.co/image/ab67616d0000b273a840032f14ab22da396e43cb
+2023-11-29,12,Is It Over Now? (Taylor's Version) (From The Vault),Taylor Swift,94,229477,album,21,2023-10-26,False,https://i.scdn.co/image/ab67616d0000b273904445d70d04eb24d6bb79ac
+2023-11-29,13,Let It Snow! Let It Snow! Let It Snow!,Dean Martin,88,117146,album,12,1959-01-01,False,https://i.scdn.co/image/ab67616d0000b2736d88028a85c771f37374c8ea
+2023-11-29,14,IDGAF (feat. Yeat),Drake,93,260111,album,23,2023-10-06,True,https://i.scdn.co/image/ab67616d0000b2737d384516b23347e92a587ed1
+2023-11-29,15,500lbs,Lil Tecca,84,144390,album,16,2023-09-22,True,https://i.scdn.co/image/ab67616d0000b273c4e6adea69105e6b6e214b96
+2023-11-29,16,A Holly Jolly Christmas,Burl Ives,85,135533,album,12,1965-10-01,False,https://i.scdn.co/image/ab67616d0000b273efe2a536761d4f8e8401ae62
+2023-11-29,17,It's Beginning to Look a Lot like Christmas,Michael Bublé,80,207199,album,21,2011-10-14,False,https://i.scdn.co/image/ab67616d0000b2732ead7786631d8dd3b59be4f0
+2023-11-29,18,Can’t Catch Me Now - from The Hunger Games: The Ballad of Songbirds & Snakes,Olivia Rodrigo & Rachel Zegler & Flatland Cavalry,80,205483,album,17,2023-11-17,False,https://i.scdn.co/image/ab67616d0000b27322ad9f1afdbeeceaf0c91686
+2023-11-29,19,Paint The Town Red,Doja Cat,88,230480,album,15,2023-09-20,True,https://i.scdn.co/image/ab67616d0000b273a840032f14ab22da396e43cb
+2023-11-29,20,First Person Shooter (feat. J. Cole),Drake,91,247444,album,23,2023-10-06,True,https://i.scdn.co/image/ab67616d0000b2737d384516b23347e92a587ed1
+2023-11-29,21,Cruel Summer,Taylor Swift,98,178426,album,18,2019-08-23,False,https://i.scdn.co/image/ab67616d0000b273e787cffec20aa2a396a61647
+2023-11-29,22,Santa Tell Me,Ariana Grande,89,204093,single,1,2014-11-24,False,https://i.scdn.co/image/ab67616d0000b273a1db745e63940bc06985dea5
+2023-11-29,23,Something in the Orange,Zach Bryan,90,228013,single,4,2022-04-22,False,https://i.scdn.co/image/ab67616d0000b273b2b6670e3aca9bcd55fbabbb
+2023-11-29,24,White Christmas - 1947 Version,Bing Crosby & Fred Astaire,84,177480,album,12,1942-01-01,False,https://i.scdn.co/image/ab67616d0000b2735e8ed9b5848e7139dc087c48
+2023-11-29,25,fukumean,Gunna,93,125040,album,15,2023-06-16,True,https://i.scdn.co/image/ab67616d0000b273017d5e26552345c4b1575b6c
+2023-11-29,26,The Christmas Song (Merry Christmas To You),Nat King Cole,84,192160,album,19,1962,False,https://i.scdn.co/image/ab67616d0000b27330dc6027fd140c7ba68e900c
+2023-11-29,27,Underneath the Tree,Kelly Clarkson,80,229640,album,14,2013-10-29,False,https://i.scdn.co/image/ab67616d0000b273f54a315f1d2445791fe601a7
+2023-11-29,28,Snooze,SZA,92,201800,album,23,2022-12-09,True,https://i.scdn.co/image/ab67616d0000b27370dbc9f47669d120ad874ec1
+2023-11-29,29,Holly Jolly Christmas,Michael Bublé,77,119786,album,16,2011-10-14,False,https://i.scdn.co/image/ab67616d0000b27395517befb15ad5d63af701ab
+2023-11-29,30,HARLEY QUINN,Fuerza Regida,94,143327,album,30,2023-10-20,True,https://i.scdn.co/image/ab67616d0000b273ad57982065339f7dc2058efe
+2023-11-29,31,Sleigh Ride,The Ronettes,76,181266,album,15,2020-12-04,False,https://i.scdn.co/image/ab67616d0000b2731f0d5a8ff630fd5944c3936d
+2023-11-29,32,I KNOW ?,Travis Scott,91,211582,album,19,2023-07-28,True,https://i.scdn.co/image/ab67616d0000b273881d8d8378cd01099babcd44
+2023-11-29,33,exes,Tate McRae,88,159400,single,2,2023-11-17,True,https://i.scdn.co/image/ab67616d0000b2733abcdf926da7799a87d36406
+2023-11-29,34,Feliz Navidad,José Feliciano,81,182066,album,15,2002-09-24,False,https://i.scdn.co/image/ab67616d0000b273c8ac560f803bba4902f8bbc5
+2023-11-29,35,It's Beginning to Look a Lot Like Christmas (with Mitchell Ayres & His Orchestra),Perry Como,83,155933,album,21,1999-08-20,False,https://i.scdn.co/image/ab67616d0000b273d5f598be32d3027b9578ecd6
+2023-11-29,36,MONACO,Bad Bunny,97,267194,album,22,2023-10-13,True,https://i.scdn.co/image/ab67616d0000b2737b1fc51ff3257b5286a1ecec
+2023-11-29,37,Now That We Don't Talk (Taylor's Version) (From The Vault),Taylor Swift,92,146436,album,21,2023-10-26,False,https://i.scdn.co/image/ab67616d0000b273904445d70d04eb24d6bb79ac
+2023-11-29,38,Jingle Bells - Remastered 1999,Frank Sinatra,81,120693,album,15,1957-09,False,https://i.scdn.co/image/ab67616d0000b27394fd2e614d0862bdd2592594
+2023-11-29,39,Last Night,Morgan Wallen,85,163854,album,36,2023-03-03,True,https://i.scdn.co/image/ab67616d0000b273705079df9a25a28b452c1fc9
+2023-11-29,40,Pink + White,Frank Ocean,91,184516,album,17,2016-08-20,False,https://i.scdn.co/image/ab67616d0000b273c5649add07ed3720be9d5526
+2023-11-29,41,Kill Bill,SZA,91,153946,album,23,2022-12-08,False,https://i.scdn.co/image/ab67616d0000b2730c471c36970b9406233842a5
+2023-11-29,42,No Role Modelz,J. Cole,90,292799,album,13,2014-12-09,True,https://i.scdn.co/image/ab67616d0000b273c6e0948bbb0681ff29cdbae8
+2023-11-29,43,Surround Sound (feat. 21 Savage & Baby Tate),JID,87,229938,album,16,2022-10-31,True,https://i.scdn.co/image/ab67616d0000b273cae6e44dcc84e2035c3ad092
+2023-11-29,44,See You Again (feat. Kali Uchis),"Tyler, The Creator",91,180386,album,14,2017-07-21,True,https://i.scdn.co/image/ab67616d0000b2738940ac99f49e44f59e6f7fb3
+2023-11-29,45,vampire,Olivia Rodrigo,94,219724,album,12,2023-09-08,True,https://i.scdn.co/image/ab67616d0000b273e85259a1cae29a8d91f2093d
+2023-11-29,46,Rich Baby Daddy (feat. Sexyy Red & SZA),Drake,88,319191,album,23,2023-10-06,True,https://i.scdn.co/image/ab67616d0000b2737d384516b23347e92a587ed1
+2023-11-29,47,Strangers,Kenya Grace,97,172964,single,1,2023-09-01,False,https://i.scdn.co/image/ab67616d0000b2734756c2e9ae436437cd75e9f3
+2023-11-29,48,Blue Christmas,Elvis Presley,82,129173,album,12,1957-10-15,False,https://i.scdn.co/image/ab67616d0000b273aa509be2dd24fb6c753cf292
+2023-11-29,49,Christmas (Baby Please Come Home),Darlene Love,77,166453,album,15,2020-12-04,False,https://i.scdn.co/image/ab67616d0000b2734bd42504ca3569f71af64fc8
+2023-11-29,50,Mistletoe,Justin Bieber,85,182946,album,15,2011-01-01,False,https://i.scdn.co/image/ab67616d0000b273af0aff7f601df9ed6d2d531d
