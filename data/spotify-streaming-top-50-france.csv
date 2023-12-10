@@ -10299,3 +10299,53 @@ date,position,song,artist,popularity,duration_ms,album_type,total_tracks,release
 2023-12-09,48,Another Love,Tom Odell,92,244360,album,15,2013-06-24,True,https://i.scdn.co/image/ab67616d0000b2731917a0f3f4152622a040913f
 2023-12-09,49,Dance The Night - From Barbie The Album,Dua Lipa,93,176579,single,1,2023-05-25,False,https://i.scdn.co/image/ab67616d0000b2737dd3ba455ee3390cb55b0192
 2023-12-09,50,INTERLUDE,Gazo & Tiakola,68,142466,album,12,2023-12-01,True,https://i.scdn.co/image/ab67616d0000b273fb0dab90ffa4f13cbd35d4cc
+2023-12-10,1,Petit génie,Jungeli & Imen Es & Alonzo,76,217259,single,1,2023-08-04,True,https://i.scdn.co/image/ab67616d0000b2737b6ae17633cbb6f9c1b5d4ac
+2023-12-10,2,FLASHBACK,Favé,76,176120,album,15,2023-10-13,True,https://i.scdn.co/image/ab67616d0000b273bed20ca2a508148c3f8cffd8
+2023-12-10,3,Aller sans retour,Zola & Koba LaD,62,176146,single,1,2023-12-08,True,https://i.scdn.co/image/ab67616d0000b273fb29333c25fde2d2ab940617
+2023-12-10,4,J'fais plaisir à la zone,Jul,60,183106,album,23,2023-12-08,True,https://i.scdn.co/image/ab67616d0000b2734967a6d7e47e5da99c4c2400
+2023-12-10,5,Postiché,Jul,58,276546,album,23,2023-12-08,True,https://i.scdn.co/image/ab67616d0000b2734967a6d7e47e5da99c4c2400
+2023-12-10,6,Si No Estás,iñigo quintero,98,184061,single,1,2022-09-23,False,https://i.scdn.co/image/ab67616d0000b2735cb9531348f45311cd6fb8df
+2023-12-10,7,NOTRE DAME,Gazo & Tiakola,75,216386,album,12,2023-12-01,True,https://i.scdn.co/image/ab67616d0000b273fb0dab90ffa4f13cbd35d4cc
+2023-12-10,8,LAISSE MOI,KeBlack,81,168620,single,1,2023-09-08,True,https://i.scdn.co/image/ab67616d0000b273ab5360bcfb07322f015687e1
+2023-12-10,9,I love you,Dadju & Tayc,62,238344,single,1,2023-12-08,False,https://i.scdn.co/image/ab67616d0000b27324805a68fdded5f9cec3f69c
+2023-12-10,10,Miné sur Paname,Jul,59,226800,album,23,2023-12-08,True,https://i.scdn.co/image/ab67616d0000b2734967a6d7e47e5da99c4c2400
+2023-12-10,11,Casanova,Soolking & Gazo,85,189090,single,1,2023-07-06,False,https://i.scdn.co/image/ab67616d0000b2735e90edde8fea572f0400c369
+2023-12-10,12,La fusion,Jul,59,219680,album,23,2023-12-08,True,https://i.scdn.co/image/ab67616d0000b2734967a6d7e47e5da99c4c2400
+2023-12-10,13,100K,Gazo & Tiakola,74,116906,album,12,2023-12-01,True,https://i.scdn.co/image/ab67616d0000b273fb0dab90ffa4f13cbd35d4cc
+2023-12-10,14,greedy,Tate McRae,100,131872,single,1,2023-09-15,True,https://i.scdn.co/image/ab67616d0000b27322fd802bc61db666c7c81aa8
+2023-12-10,15,Le rappeur à 3 lettres,Jul,58,231546,album,23,2023-12-08,True,https://i.scdn.co/image/ab67616d0000b2734967a6d7e47e5da99c4c2400
+2023-12-10,16,Saiyan,Heuss L'enfoiré,75,189840,album,14,2023-06-30,True,https://i.scdn.co/image/ab67616d0000b273e867057ecb11903ffe53224b
+2023-12-10,17,La máquina,Jul,58,213866,album,23,2023-12-08,True,https://i.scdn.co/image/ab67616d0000b2734967a6d7e47e5da99c4c2400
+2023-12-10,18,Bécane - A COLORS SHOW,Yamê,79,182440,single,1,2023-06-01,True,https://i.scdn.co/image/ab67616d0000b2737dfba3f3ae607f250cdd969c
+2023-12-10,19,Bolide allemand,SDM,79,176746,album,15,2022-12-02,True,https://i.scdn.co/image/ab67616d0000b273455e89dbf3ce2e6d337be1d0
+2023-12-10,20,Luffy,Jul,57,152880,album,23,2023-12-08,True,https://i.scdn.co/image/ab67616d0000b2734967a6d7e47e5da99c4c2400
+2023-12-10,21,Sensations,Jul,54,261320,album,23,2023-12-08,True,https://i.scdn.co/image/ab67616d0000b2734967a6d7e47e5da99c4c2400
+2023-12-10,22,CARTIER,Gazo & Tiakola,72,229093,album,12,2023-12-01,True,https://i.scdn.co/image/ab67616d0000b273fb0dab90ffa4f13cbd35d4cc
+2023-12-10,23,Dans ma mama,Jul,57,179920,album,23,2023-12-08,True,https://i.scdn.co/image/ab67616d0000b2734967a6d7e47e5da99c4c2400
+2023-12-10,24,Laboratoire,Werenoi,77,162840,album,19,2023-03-10,True,https://i.scdn.co/image/ab67616d0000b2739d74d3f0042968ea8f084acb
+2023-12-10,25,Y'a plus de raison,Jul,56,156253,album,23,2023-12-08,True,https://i.scdn.co/image/ab67616d0000b2734967a6d7e47e5da99c4c2400
+2023-12-10,26,Battitsu,Jul,56,150480,album,23,2023-12-08,True,https://i.scdn.co/image/ab67616d0000b2734967a6d7e47e5da99c4c2400
+2023-12-10,27,Meridian,Dave & Tiakola,79,255160,single,2,2023-08-25,True,https://i.scdn.co/image/ab67616d0000b2734272d95e66df0e8859cc4952
+2023-12-10,28,C'est pas facile,Jul,56,186306,album,23,2023-12-08,True,https://i.scdn.co/image/ab67616d0000b2734967a6d7e47e5da99c4c2400
+2023-12-10,29,Juste un bisou,Jul,55,225560,album,23,2023-12-08,True,https://i.scdn.co/image/ab67616d0000b2734967a6d7e47e5da99c4c2400
+2023-12-10,30,All I Want for Christmas Is You,Mariah Carey,98,241106,album,10,1994-10-28,False,https://i.scdn.co/image/ab67616d0000b2734246e3158421f5abb75abc4f
+2023-12-10,31,Strangers,Kenya Grace,97,172964,single,1,2023-09-01,False,https://i.scdn.co/image/ab67616d0000b2734756c2e9ae436437cd75e9f3
+2023-12-10,32,J'fais que danser,Jul,52,172653,album,23,2023-12-08,True,https://i.scdn.co/image/ab67616d0000b2734967a6d7e47e5da99c4c2400
+2023-12-10,33,J'suis pas devin,Jul,55,189266,album,23,2023-12-08,True,https://i.scdn.co/image/ab67616d0000b2734967a6d7e47e5da99c4c2400
+2023-12-10,34,Houdini,Dua Lipa,93,185917,single,1,2023-11-09,False,https://i.scdn.co/image/ab67616d0000b273001d5706fddc72561f6488af
+2023-12-10,35,Meuda,Tiakola,77,152546,album,16,2022-05-27,True,https://i.scdn.co/image/ab67616d0000b2731bbc72ff946f55d4d3188062
+2023-12-10,36,Overdrive (feat. Norma Jean Martine),Ofenbach & Norma Jean Martine,83,155905,single,1,2023-10-06,False,https://i.scdn.co/image/ab67616d0000b273249f764814d57dc5dfc462c7
+2023-12-10,37,Paint The Town Red,Doja Cat,88,230480,album,15,2023-09-20,True,https://i.scdn.co/image/ab67616d0000b273a840032f14ab22da396e43cb
+2023-12-10,38,Vois sur ton chemin - Techno Mix,BENNETT,90,178156,single,1,2023-08-04,False,https://i.scdn.co/image/ab67616d0000b2731b96e645016c4d431842aa93
+2023-12-10,39,Gimme Love,Sia,82,177921,single,1,2023-09-13,False,https://i.scdn.co/image/ab67616d0000b2730df5de7712f0db14d84a4f7e
+2023-12-10,40,Tattoo,Loreen,88,183374,single,1,2023-02-25,False,https://i.scdn.co/image/ab67616d0000b2732b0ba87db609976eee193bd6
+2023-12-10,41,Ailleurs,Josman,74,165506,album,13,2023-10-28,True,https://i.scdn.co/image/ab67616d0000b2735a7c027718559ea175420718
+2023-12-10,42,Gaza,Un jour de paix & PNL,55,273278,single,1,2023-12-09,True,https://i.scdn.co/image/ab67616d0000b27395d0751a0577dcbe2b962a45
+2023-12-10,43,La route est longue,Jul,55,213253,album,23,2023-12-08,True,https://i.scdn.co/image/ab67616d0000b2734967a6d7e47e5da99c4c2400
+2023-12-10,44,24/34,Gazo & Tiakola,71,227480,album,12,2023-12-01,True,https://i.scdn.co/image/ab67616d0000b273fb0dab90ffa4f13cbd35d4cc
+2023-12-10,45,Au-dessus de l'Atlas,Jul,54,204160,album,23,2023-12-08,True,https://i.scdn.co/image/ab67616d0000b2734967a6d7e47e5da99c4c2400
+2023-12-10,46,Beuh d'Hollande,Jul,54,169413,album,23,2023-12-08,True,https://i.scdn.co/image/ab67616d0000b2734967a6d7e47e5da99c4c2400
+2023-12-10,47,1 2 3 4,Zokush,68,180793,album,16,2023-06-22,True,https://i.scdn.co/image/ab67616d0000b2739711fe75facefc7a93d4738c
+2023-12-10,48,MAMI WATA,Gazo & Tiakola,70,233240,album,12,2023-12-01,True,https://i.scdn.co/image/ab67616d0000b273fb0dab90ffa4f13cbd35d4cc
+2023-12-10,49,SEYA,GIMS,72,188484,album,21,2023-10-05,False,https://i.scdn.co/image/ab67616d0000b2738c127b14ce91c9e0f45cda94
+2023-12-10,50,Last Christmas - Single Version,Wham!,87,265960,album,16,2023-07-07,False,https://i.scdn.co/image/ab67616d0000b2734b68569ae3fdd6fcd0f98615

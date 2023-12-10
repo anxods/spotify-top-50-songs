@@ -10299,3 +10299,53 @@ date,position,song,artist,popularity,duration_ms,album_type,total_tracks,release
 2023-12-09,48,Mistletoe,Justin Bieber,90,182946,album,15,2011-01-01,False,https://i.scdn.co/image/ab67616d0000b273af0aff7f601df9ed6d2d531d
 2023-12-09,49,Little Saint Nick - 1991 Remix,The Beach Boys,82,118840,album,12,1964-11-09,False,https://i.scdn.co/image/ab67616d0000b27308c270b3ef1602ff84ed2c05
 2023-12-09,50,MONACO,Bad Bunny,96,267194,album,22,2023-10-13,True,https://i.scdn.co/image/ab67616d0000b2737b1fc51ff3257b5286a1ecec
+2023-12-10,1,Rockin' Around The Christmas Tree,Brenda Lee,96,126266,album,12,1964-10-19,False,https://i.scdn.co/image/ab67616d0000b2737845f74d6db14b400fa61cd3
+2023-12-10,2,Lovin On Me,Jack Harlow,96,138411,single,1,2023-11-10,True,https://i.scdn.co/image/ab67616d0000b273fcf4adae77baba5d0169e8e8
+2023-12-10,3,All I Want for Christmas Is You,Mariah Carey,98,241106,album,10,1994-10-28,False,https://i.scdn.co/image/ab67616d0000b2734246e3158421f5abb75abc4f
+2023-12-10,4,Jingle Bell Rock,Bobby Helms,92,130973,single,2,1957-12-02,False,https://i.scdn.co/image/ab67616d0000b273fd56f3c7a294f5cfe51c7b17
+2023-12-10,5,Last Christmas - Single Version,Wham!,87,265960,album,16,2023-07-07,False,https://i.scdn.co/image/ab67616d0000b2734b68569ae3fdd6fcd0f98615
+2023-12-10,6,greedy,Tate McRae,100,131872,single,1,2023-09-15,True,https://i.scdn.co/image/ab67616d0000b27322fd802bc61db666c7c81aa8
+2023-12-10,7,It's the Most Wonderful Time of the Year,Andy Williams,78,151000,album,12,1963,False,https://i.scdn.co/image/ab67616d0000b273585897779cf3591ba0f07650
+2023-12-10,8,My Love Mine All Mine,Mitski,98,137773,album,11,2023-09-15,False,https://i.scdn.co/image/ab67616d0000b27334f21d3047d85440dfa37f10
+2023-12-10,9,Stick Season,Noah Kahan,93,182346,album,14,2022-10-14,False,https://i.scdn.co/image/ab67616d0000b2736ee35072df1af802cca09918
+2023-12-10,10,Needle (feat. Drake),Nicki Minaj,73,235689,album,22,2023-12-08,True,https://i.scdn.co/image/ab67616d0000b273651e1dbc0b5218f2306181a1
+2023-12-10,11,Let It Snow! Let It Snow! Let It Snow!,Dean Martin,93,117146,album,12,1959-01-01,False,https://i.scdn.co/image/ab67616d0000b2736d88028a85c771f37374c8ea
+2023-12-10,12,I Remember Everything (feat. Kacey Musgraves),Zach Bryan,93,227195,album,16,2023-08-25,False,https://i.scdn.co/image/ab67616d0000b273e5a25ed08d1e7e0fbb440cef
+2023-12-10,13,Santa Tell Me,Ariana Grande,94,204093,single,1,2014-11-24,False,https://i.scdn.co/image/ab67616d0000b273a1db745e63940bc06985dea5
+2023-12-10,14,It's Beginning to Look a Lot like Christmas,Michael Bublé,85,207199,album,21,2011-10-14,False,https://i.scdn.co/image/ab67616d0000b2732ead7786631d8dd3b59be4f0
+2023-12-10,15,A Holly Jolly Christmas,Burl Ives,89,135533,album,12,1965-10-01,False,https://i.scdn.co/image/ab67616d0000b273efe2a536761d4f8e8401ae62
+2023-12-10,16,Underneath the Tree,Kelly Clarkson,84,229640,album,14,2013-10-29,False,https://i.scdn.co/image/ab67616d0000b273f54a315f1d2445791fe601a7
+2023-12-10,17,Surround Sound (feat. 21 Savage & Baby Tate),JID,90,229938,album,16,2022-10-31,True,https://i.scdn.co/image/ab67616d0000b273cae6e44dcc84e2035c3ad092
+2023-12-10,18,Are You Gone Already,Nicki Minaj,72,270860,album,22,2023-12-08,False,https://i.scdn.co/image/ab67616d0000b273651e1dbc0b5218f2306181a1
+2023-12-10,19,Barbie Dangerous,Nicki Minaj,71,132799,album,22,2023-12-08,True,https://i.scdn.co/image/ab67616d0000b273651e1dbc0b5218f2306181a1
+2023-12-10,20,Agora Hills,Doja Cat,84,265360,album,15,2023-09-20,True,https://i.scdn.co/image/ab67616d0000b273a840032f14ab22da396e43cb
+2023-12-10,21,exes,Tate McRae,65,159400,album,14,2023-12-08,True,https://i.scdn.co/image/ab67616d0000b27377eb7a5b9367de79c3b92a49
+2023-12-10,22,The Christmas Song (Merry Christmas To You),Nat King Cole,89,192160,album,19,1962,False,https://i.scdn.co/image/ab67616d0000b27330dc6027fd140c7ba68e900c
+2023-12-10,23,Sleigh Ride,The Ronettes,81,181266,album,15,2020-12-04,False,https://i.scdn.co/image/ab67616d0000b2731f0d5a8ff630fd5944c3936d
+2023-12-10,24,Everybody (feat. Lil Uzi Vert),Nicki Minaj,70,180869,album,22,2023-12-08,True,https://i.scdn.co/image/ab67616d0000b273651e1dbc0b5218f2306181a1
+2023-12-10,25,IDGAF (feat. Yeat),Drake,93,260111,album,23,2023-10-06,True,https://i.scdn.co/image/ab67616d0000b2737d384516b23347e92a587ed1
+2023-12-10,26,Cruel Summer,Taylor Swift,99,178426,album,18,2019-08-23,False,https://i.scdn.co/image/ab67616d0000b273e787cffec20aa2a396a61647
+2023-12-10,27,FTCU,Nicki Minaj,71,172137,album,22,2023-12-08,True,https://i.scdn.co/image/ab67616d0000b273651e1dbc0b5218f2306181a1
+2023-12-10,28,Feliz Navidad,José Feliciano,86,182066,album,15,2002-09-24,False,https://i.scdn.co/image/ab67616d0000b273c8ac560f803bba4902f8bbc5
+2023-12-10,29,White Christmas - 1947 Version,Bing Crosby & Fred Astaire,88,177480,album,12,1942-01-01,False,https://i.scdn.co/image/ab67616d0000b2735e8ed9b5848e7139dc087c48
+2023-12-10,30,fukumean,Gunna,93,125040,album,15,2023-06-16,True,https://i.scdn.co/image/ab67616d0000b273017d5e26552345c4b1575b6c
+2023-12-10,31,Holly Jolly Christmas,Michael Bublé,81,119786,album,16,2011-10-14,False,https://i.scdn.co/image/ab67616d0000b27395517befb15ad5d63af701ab
+2023-12-10,32,You’re Losing Me (From The Vault),Taylor Swift,92,277831,single,1,2023-11-29,False,https://i.scdn.co/image/ab67616d0000b2734fe1868aa6838eb595f3673a
+2023-12-10,33,500lbs,Lil Tecca,85,144390,album,16,2023-09-22,True,https://i.scdn.co/image/ab67616d0000b273c4e6adea69105e6b6e214b96
+2023-12-10,34,run for the hills,Tate McRae,72,143940,album,14,2023-12-08,True,https://i.scdn.co/image/ab67616d0000b27377eb7a5b9367de79c3b92a49
+2023-12-10,35,Something in the Orange,Zach Bryan,90,228013,single,4,2022-04-22,False,https://i.scdn.co/image/ab67616d0000b273b2b6670e3aca9bcd55fbabbb
+2023-12-10,36,Snooze,SZA,92,201800,album,23,2022-12-09,True,https://i.scdn.co/image/ab67616d0000b27370dbc9f47669d120ad874ec1
+2023-12-10,37,Last Night,Morgan Wallen,86,163854,album,36,2023-03-03,True,https://i.scdn.co/image/ab67616d0000b273705079df9a25a28b452c1fc9
+2023-12-10,38,Is It Over Now? (Taylor's Version) (From The Vault),Taylor Swift,94,229477,album,21,2023-10-26,False,https://i.scdn.co/image/ab67616d0000b273904445d70d04eb24d6bb79ac
+2023-12-10,39,Paint The Town Red,Doja Cat,88,230480,album,15,2023-09-20,True,https://i.scdn.co/image/ab67616d0000b273a840032f14ab22da396e43cb
+2023-12-10,40,First Person Shooter (feat. J. Cole),Drake,91,247444,album,23,2023-10-06,True,https://i.scdn.co/image/ab67616d0000b2737d384516b23347e92a587ed1
+2023-12-10,41,It's Beginning to Look a Lot Like Christmas (with Mitchell Ayres & His Orchestra),Perry Como,88,155933,album,21,1999-08-20,False,https://i.scdn.co/image/ab67616d0000b273d5f598be32d3027b9578ecd6
+2023-12-10,42,Let Me Calm Down (feat. J. Cole),Nicki Minaj,70,244446,album,22,2023-12-08,True,https://i.scdn.co/image/ab67616d0000b273651e1dbc0b5218f2306181a1
+2023-12-10,43,Beep Beep,Nicki Minaj,70,95421,album,22,2023-12-08,True,https://i.scdn.co/image/ab67616d0000b273651e1dbc0b5218f2306181a1
+2023-12-10,44,Santa Baby (with Henri René & His Orchestra),Eartha Kitt,77,206066,album,14,2002,False,https://i.scdn.co/image/ab67616d0000b273cfbcba7cc35a40e08e5aff67
+2023-12-10,45,Jingle Bells - Remastered 1999,Frank Sinatra,86,120693,album,15,1957-09,False,https://i.scdn.co/image/ab67616d0000b27394fd2e614d0862bdd2592594
+2023-12-10,46,Kill Bill,SZA,92,153946,album,23,2022-12-08,False,https://i.scdn.co/image/ab67616d0000b2730c471c36970b9406233842a5
+2023-12-10,47,I KNOW ?,Travis Scott,91,211582,album,19,2023-07-28,True,https://i.scdn.co/image/ab67616d0000b273881d8d8378cd01099babcd44
+2023-12-10,48,Fallin 4 U,Nicki Minaj,69,230629,album,22,2023-12-08,True,https://i.scdn.co/image/ab67616d0000b273651e1dbc0b5218f2306181a1
+2023-12-10,49,Big Difference,Nicki Minaj,69,191174,album,22,2023-12-08,True,https://i.scdn.co/image/ab67616d0000b273651e1dbc0b5218f2306181a1
+2023-12-10,50,Christmas (Baby Please Come Home),Darlene Love,82,166453,album,15,2020-12-04,False,https://i.scdn.co/image/ab67616d0000b2734bd42504ca3569f71af64fc8
