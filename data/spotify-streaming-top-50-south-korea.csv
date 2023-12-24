@@ -10999,3 +10999,53 @@ date,position,song,artist,popularity,duration_ms,album_type,total_tracks,release
 2023-12-23,48,My Love Mine All Mine,Mitski,97,137773,album,11,2023-09-15,False,https://i.scdn.co/image/ab67616d0000b27334f21d3047d85440dfa37f10
 2023-12-23,49,Love Letter,Lim Young Woong,58,215040,album,12,2022-05-02,False,https://i.scdn.co/image/ab67616d0000b2738f116e476da669a9a3e7dcaa
 2023-12-23,50,OMG,NewJeans,86,212253,single,2,2023-01-02,False,https://i.scdn.co/image/ab67616d0000b273d70036292d54f29e8b68ec01
+2023-12-24,1,Like Crazy,Jimin,92,212241,single,6,2023-03-24,False,https://i.scdn.co/image/ab67616d0000b2732b46078245d0120690eb560d
+2023-12-24,2,Closer Than This,Jimin,79,223302,single,1,2023-12-22,False,https://i.scdn.co/image/ab67616d0000b273e3dbc03f538633dbb40adf37
+2023-12-24,3,Seven (feat. Latto) (Explicit Ver.),Jung Kook,89,183550,album,11,2023-11-03,True,https://i.scdn.co/image/ab67616d0000b273741fd4807f442af3f7359316
+2023-12-24,4,3D (feat. Jack Harlow),Jung Kook & Jack Harlow,85,201812,album,7,2023-10-02,True,https://i.scdn.co/image/ab67616d0000b27399583bb32b47e87d55c6064b
+2023-12-24,5,Like Crazy (English Version),Jimin,83,212253,single,6,2023-03-24,False,https://i.scdn.co/image/ab67616d0000b2732b46078245d0120690eb560d
+2023-12-24,6,Standing Next to You,Jung Kook,96,206019,album,11,2023-11-03,False,https://i.scdn.co/image/ab67616d0000b273741fd4807f442af3f7359316
+2023-12-24,7,Set Me Free Pt.2,Jimin,80,200929,single,1,2023-03-17,True,https://i.scdn.co/image/ab67616d0000b2734f4ec2c2a865569bd4a067a4
+2023-12-24,8,Do or Die,Lim Young Woong,72,205440,single,1,2023-10-09,False,https://i.scdn.co/image/ab67616d0000b273831b4a8eb3bd16788dca633a
+2023-12-24,9,Grain of Sand,Lim Young Woong,70,220309,single,1,2023-06-05,False,https://i.scdn.co/image/ab67616d0000b273111a6e9b713b646443c5c222
+2023-12-24,10,London Boy,Lim Young Woong,68,244500,single,2,2022-11-15,False,https://i.scdn.co/image/ab67616d0000b2732d2009b6cad53ddacad11334
+2023-12-24,11,Perfect Night,LE SSERAFIM,89,159080,single,1,2023-10-27,False,https://i.scdn.co/image/ab67616d0000b2735e352f6eccf8cb96d0b247cc
+2023-12-24,12,Polaroid,Lim Young Woong,65,206400,single,2,2022-11-15,False,https://i.scdn.co/image/ab67616d0000b2732d2009b6cad53ddacad11334
+2023-12-24,13,If We Ever Meet Again,Lim Young Woong,64,274386,album,12,2022-05-02,False,https://i.scdn.co/image/ab67616d0000b2738f116e476da669a9a3e7dcaa
+2023-12-24,14,Santa Tell Me,Ariana Grande,96,204093,single,1,2014-11-24,False,https://i.scdn.co/image/ab67616d0000b273a1db745e63940bc06985dea5
+2023-12-24,15,Face-off,Jimin,80,229627,single,6,2023-03-24,True,https://i.scdn.co/image/ab67616d0000b2732b46078245d0120690eb560d
+2023-12-24,16,Love Me Again,V,89,182293,single,2,2023-08-11,False,https://i.scdn.co/image/ab67616d0000b2732f1a5b69c2bd76474bca8035
+2023-12-24,17,All I Want for Christmas Is You,Mariah Carey,100,241106,album,10,1994-10-28,False,https://i.scdn.co/image/ab67616d0000b2734246e3158421f5abb75abc4f
+2023-12-24,18,Alone,Jimin,79,211250,single,6,2023-03-24,False,https://i.scdn.co/image/ab67616d0000b2732b46078245d0120690eb560d
+2023-12-24,19,Yes or No,Jung Kook,88,147557,album,11,2023-11-03,False,https://i.scdn.co/image/ab67616d0000b273741fd4807f442af3f7359316
+2023-12-24,20,Standing Next to You (Usher Remix),Jung Kook & USHER,81,214760,single,1,2023-12-01,False,https://i.scdn.co/image/ab67616d0000b273c9912de0a8a9a44b450318e4
+2023-12-24,21,Drama,aespa,87,214973,album,7,2023-11-10,False,https://i.scdn.co/image/ab67616d0000b273c54e39f2ae0dd10731f93c08
+2023-12-24,22,Rainbow,Lim Young Woong,61,196400,album,12,2022-05-02,False,https://i.scdn.co/image/ab67616d0000b2738f116e476da669a9a3e7dcaa
+2023-12-24,23,Last Christmas - Single Version,Wham!,89,265960,album,16,2023-07-07,False,https://i.scdn.co/image/ab67616d0000b2734b68569ae3fdd6fcd0f98615
+2023-12-24,24,Snowman,Sia,94,165900,album,13,2018-11-01,False,https://i.scdn.co/image/ab67616d0000b273d1410c1372fab1e516328fa8
+2023-12-24,25,The First Snow,EXO,72,207667,single,6,2013-12-09,False,https://i.scdn.co/image/ab67616d0000b273e444ada7c81e08734f0e20b9
+2023-12-24,26,Christmas Love,Jimin,71,197930,single,1,2020-12-24,False,https://i.scdn.co/image/ab67616d0000b2736102fbfee73db153a32d02ab
+2023-12-24,27,"Our Blues, Our Life",Lim Young Woong,61,207386,album,12,2022-05-02,False,https://i.scdn.co/image/ab67616d0000b2738f116e476da669a9a3e7dcaa
+2023-12-24,28,Interlude : Dive,Jimin,76,130996,single,6,2023-03-24,False,https://i.scdn.co/image/ab67616d0000b2732b46078245d0120690eb560d
+2023-12-24,29,A bientot,Lim Young Woong,60,256372,album,12,2022-05-02,False,https://i.scdn.co/image/ab67616d0000b2738f116e476da669a9a3e7dcaa
+2023-12-24,30,Super Shy,NewJeans,89,154666,single,2,2023-07-07,False,https://i.scdn.co/image/ab67616d0000b2733d98a0ae7c78a3a9babaf8af
+2023-12-24,31,To. X,TAEYEON,75,170386,single,6,2023-11-27,False,https://i.scdn.co/image/ab67616d0000b273ed4dcfaf5f63938ecd6c4d59
+2023-12-24,32,Ditto,NewJeans,84,185506,single,1,2022-12-19,False,https://i.scdn.co/image/ab67616d0000b273edf5b257be1d6593e81bb45f
+2023-12-24,33,Slow Dancing,V,91,187026,single,6,2023-09-08,False,https://i.scdn.co/image/ab67616d0000b2738e504c5aedaae49a73ed4963
+2023-12-24,34,"Angel Pt. 1 (feat. Jimin of BTS, JVKE & Muni Long) - Trailer Version",Fast & Furious: The Fast Saga & Jimin & BTS,67,62789,single,1,2023-05-09,False,https://i.scdn.co/image/ab67616d0000b273146ea147ce8c185e71b3b84e
+2023-12-24,35,Rainy Days,V,82,179560,single,2,2023-08-11,False,https://i.scdn.co/image/ab67616d0000b2732f1a5b69c2bd76474bca8035
+2023-12-24,36,I Love You,Lim Young Woong,59,239026,album,12,2022-05-02,False,https://i.scdn.co/image/ab67616d0000b2738f116e476da669a9a3e7dcaa
+2023-12-24,37,HERO,Lim Young Woong,58,216586,single,2,2020-11-04,False,https://i.scdn.co/image/ab67616d0000b27320b05d0ab75d4c27f1e4bbd6
+2023-12-24,38,Rockin' Around The Christmas Tree,Brenda Lee,98,126266,album,12,1964-10-19,False,https://i.scdn.co/image/ab67616d0000b2737845f74d6db14b400fa61cd3
+2023-12-24,39,Underneath the Tree,Kelly Clarkson,86,229640,album,14,2013-10-29,False,https://i.scdn.co/image/ab67616d0000b273f54a315f1d2445791fe601a7
+2023-12-24,40,A Psalm of Life,Lim Young Woong,59,233360,album,12,2022-05-02,False,https://i.scdn.co/image/ab67616d0000b2738f116e476da669a9a3e7dcaa
+2023-12-24,41,Lovely Touch,Lim Young Woong,59,195173,album,12,2022-05-02,False,https://i.scdn.co/image/ab67616d0000b2738f116e476da669a9a3e7dcaa
+2023-12-24,42,GODS,League of Legends & NewJeans,85,220878,single,1,2023-10-04,False,https://i.scdn.co/image/ab67616d0000b273e4179b3fb74beaf0cdfa7a13
+2023-12-24,43,Love Always Run Away,Lim Young Woong,60,242760,single,2,2021-10-11,False,https://i.scdn.co/image/ab67616d0000b273e56f69fd58795fbbcbc919f2
+2023-12-24,44,Father,Lim Young Woong,58,238106,album,12,2022-05-02,False,https://i.scdn.co/image/ab67616d0000b2738f116e476da669a9a3e7dcaa
+2023-12-24,45,ETA,NewJeans,83,151373,single,6,2023-07-21,False,https://i.scdn.co/image/ab67616d0000b2730744690248ef3ba7b776ea7b
+2023-12-24,46,OMG,NewJeans,85,212253,single,2,2023-01-02,False,https://i.scdn.co/image/ab67616d0000b273d70036292d54f29e8b68ec01
+2023-12-24,47,Love Letter,Lim Young Woong,58,215040,album,12,2022-05-02,False,https://i.scdn.co/image/ab67616d0000b2738f116e476da669a9a3e7dcaa
+2023-12-24,48,It's Beginning to Look a Lot like Christmas,Michael Bublé,87,207199,album,21,2011-10-14,False,https://i.scdn.co/image/ab67616d0000b2732ead7786631d8dd3b59be4f0
+2023-12-24,49,Hate You,Jung Kook,85,154236,album,11,2023-11-03,False,https://i.scdn.co/image/ab67616d0000b273741fd4807f442af3f7359316
+2023-12-24,50,Get A Guitar,RIIZE,66,160371,single,2,2023-09-04,False,https://i.scdn.co/image/ab67616d0000b2738773ae7641a2ee7d8b9e532e
