@@ -11099,3 +11099,53 @@ date,position,song,artist,popularity,duration_ms,album_type,total_tracks,release
 2023-12-25,48,Stop The Cavalry,Jona Lewie,76,176360,album,20,1982,False,https://i.scdn.co/image/ab67616d0000b273323201d90d2cfe54ad0ffe87
 2023-12-25,49,My Only Wish (This Year),Britney Spears,88,255400,single,1,2000-11-14,False,https://i.scdn.co/image/ab67616d0000b27316ed688a08ecd351560f4566
 2023-12-25,50,Please Come Home for Christmas - 2013 Remaster,Eagles,88,177440,single,2,1978-11-27,False,https://i.scdn.co/image/ab67616d0000b2736d4362a2b2e39422000f8ed3
+2023-12-26,1,Last Christmas - Single Version,Wham!,89,265960,album,16,2023-07-07,False,https://i.scdn.co/image/ab67616d0000b2734b68569ae3fdd6fcd0f98615
+2023-12-26,2,Rockin' Around The Christmas Tree,Brenda Lee,98,126266,album,12,1964-10-19,False,https://i.scdn.co/image/ab67616d0000b2737845f74d6db14b400fa61cd3
+2023-12-26,3,All I Want for Christmas Is You,Mariah Carey,100,241106,album,10,1994-10-28,False,https://i.scdn.co/image/ab67616d0000b2734246e3158421f5abb75abc4f
+2023-12-26,4,Let It Snow! Let It Snow! Let It Snow!,Dean Martin,95,117146,album,12,1959-01-01,False,https://i.scdn.co/image/ab67616d0000b2736d88028a85c771f37374c8ea
+2023-12-26,5,It's Beginning to Look a Lot like Christmas,Michael Bublé,87,207199,album,21,2011-10-14,False,https://i.scdn.co/image/ab67616d0000b2732ead7786631d8dd3b59be4f0
+2023-12-26,6,Jingle Bell Rock,Bobby Helms,94,130973,single,2,1957-12-02,False,https://i.scdn.co/image/ab67616d0000b273fd56f3c7a294f5cfe51c7b17
+2023-12-26,7,It's the Most Wonderful Time of the Year,Andy Williams,79,151000,album,12,1963,False,https://i.scdn.co/image/ab67616d0000b273585897779cf3591ba0f07650
+2023-12-26,8,Santa Tell Me,Ariana Grande,96,204093,single,1,2014-11-24,False,https://i.scdn.co/image/ab67616d0000b273a1db745e63940bc06985dea5
+2023-12-26,9,Sleigh Ride,The Ronettes,84,181266,album,15,2020-12-04,False,https://i.scdn.co/image/ab67616d0000b2731f0d5a8ff630fd5944c3936d
+2023-12-26,10,Fairytale of New York (feat. Kirsty MacColl),The Pogues,82,272466,album,19,1988-09-05,False,https://i.scdn.co/image/ab67616d0000b273d0ccf94a2d981db731f5dab8
+2023-12-26,11,Do They Know It's Christmas? - 1984 Version,Band Aid,89,222533,single,2,1984-11-25,False,https://i.scdn.co/image/ab67616d0000b273d549b09f0264901929eaa6e8
+2023-12-26,12,Underneath the Tree,Kelly Clarkson,86,229640,album,14,2013-10-29,False,https://i.scdn.co/image/ab67616d0000b273f54a315f1d2445791fe601a7
+2023-12-26,13,Happy Xmas (War Is Over) - Remastered 2010,John Lennon,92,214333,compilation,119,2010-10-05,False,https://i.scdn.co/image/ab67616d0000b27361a389971d7842d02b0623ab
+2023-12-26,14,Step Into Christmas - Remastered 1995,Elton John,85,272333,album,14,1974-06-28,False,https://i.scdn.co/image/ab67616d0000b27368f5959744717483eed212b2
+2023-12-26,15,Driving Home for Christmas,Chris Rea,75,239946,compilation,13,1988-10-17,False,https://i.scdn.co/image/ab67616d0000b273074c5d0ef113a4c2f64fedeb
+2023-12-26,16,Merry Christmas Everyone,Shakin' Stevens,91,220160,album,13,1991-11-25,False,https://i.scdn.co/image/ab67616d0000b273d962f3b4235f8c6429a829fb
+2023-12-26,17,Feliz Navidad,José Feliciano,88,182066,album,15,2002-09-24,False,https://i.scdn.co/image/ab67616d0000b273c8ac560f803bba4902f8bbc5
+2023-12-26,18,Christmas (Baby Please Come Home),Darlene Love,85,166453,album,15,2020-12-04,False,https://i.scdn.co/image/ab67616d0000b2734bd42504ca3569f71af64fc8
+2023-12-26,19,Wonderful Christmastime - Edited Version / Remastered 2011,Paul McCartney,91,227653,album,19,1980-05-16,False,https://i.scdn.co/image/ab67616d0000b2733cef016d13d82873d45af84a
+2023-12-26,20,The Christmas Song (Merry Christmas To You),Nat King Cole,75,190973,album,36,1961-09-25,False,https://i.scdn.co/image/ab67616d0000b273deac5adf07affb5fec422701
+2023-12-26,21,I Wish It Could Be Christmas Everyday,Wizzard,82,278946,single,1,2007-11-19,False,https://i.scdn.co/image/ab67616d0000b2739c462c3958ef80ae2835540c
+2023-12-26,22,Holly Jolly Christmas,Michael Bublé,83,119786,album,16,2011-10-14,False,https://i.scdn.co/image/ab67616d0000b27395517befb15ad5d63af701ab
+2023-12-26,23,Merry Christmas,Ed Sheeran & Elton John,89,208546,single,1,2021-12-03,False,https://i.scdn.co/image/ab67616d0000b273b629026e4cf6254a90dfc414
+2023-12-26,24,Snowman,Sia,94,165900,album,13,2018-11-01,False,https://i.scdn.co/image/ab67616d0000b273d1410c1372fab1e516328fa8
+2023-12-26,25,Santa Claus Is Coming To Town,The Jackson 5,87,144013,album,11,1970-10-15,False,https://i.scdn.co/image/ab67616d0000b27308a0fe33e91b991d2c9c9cde
+2023-12-26,26,Mistletoe,Justin Bieber,92,182946,album,15,2011-01-01,False,https://i.scdn.co/image/ab67616d0000b273af0aff7f601df9ed6d2d531d
+2023-12-26,27,White Christmas - 1947 Version,Bing Crosby & Fred Astaire,90,177480,album,12,1942-01-01,False,https://i.scdn.co/image/ab67616d0000b2735e8ed9b5848e7139dc087c48
+2023-12-26,28,A Holly Jolly Christmas,Burl Ives,91,135533,album,12,1965-10-01,False,https://i.scdn.co/image/ab67616d0000b273efe2a536761d4f8e8401ae62
+2023-12-26,29,Christmas Lights,Coldplay,86,242495,single,1,2010-12-01,False,https://i.scdn.co/image/ab67616d0000b2735f30d36db3dd22681531d1da
+2023-12-26,30,One More Sleep,Leona Lewis,84,239586,album,10,2013-12-02,False,https://i.scdn.co/image/ab67616d0000b273b9eeb2705c983089c2412a80
+2023-12-26,31,Let It Snow! Let It Snow! Let It Snow! (with The B. Swanson Quartet),Frank Sinatra,91,155453,album,14,1994-11-08,False,https://i.scdn.co/image/ab67616d0000b273df1066335619efa75889bcfc
+2023-12-26,32,DJ Play A Christmas Song,Cher,83,209106,album,13,2023-10-20,False,https://i.scdn.co/image/ab67616d0000b273975b86124c181e9477f0d154
+2023-12-26,33,Merry Xmas Everybody,Slade,82,223720,single,1,1973-11-07,False,https://i.scdn.co/image/ab67616d0000b2739603b249275507cc454d7d23
+2023-12-26,34,Blue Christmas,Elvis Presley,89,129173,album,12,1957-10-15,False,https://i.scdn.co/image/ab67616d0000b273aa509be2dd24fb6c753cf292
+2023-12-26,35,Little Saint Nick - 1991 Remix,The Beach Boys,85,118840,album,12,1964-11-09,False,https://i.scdn.co/image/ab67616d0000b27308c270b3ef1602ff84ed2c05
+2023-12-26,36,Winter Wonderland - Spotify Singles Holiday,Laufey,87,132800,single,1,2023-11-14,False,https://i.scdn.co/image/ab67616d0000b273d16831527ee5c1edd9327b78
+2023-12-26,37,"Santa, Can’t You Hear Me",Kelly Clarkson,87,242644,album,15,2021-10-15,False,https://i.scdn.co/image/ab67616d0000b2731fa667a7a53c7072fed91a17
+2023-12-26,38,2000 Miles - 2007 Remaster,Pretenders,79,220426,album,17,1984,False,https://i.scdn.co/image/ab67616d0000b2735436a01d3b621036889cffe6
+2023-12-26,39,Run Rudolph Run,Chuck Berry,89,165733,album,20,1986-01-01,False,https://i.scdn.co/image/ab67616d0000b27339807cff601735a3dec9e24c
+2023-12-26,40,"Santa Claus Is Comin' to Town - Live at C.W. Post College, Greenvale, NY - December 1975",Bruce Springsteen,86,267600,single,1,1981,False,https://i.scdn.co/image/ab67616d0000b2736a68798b2ac41fde44823eb5
+2023-12-26,41,It's Beginning to Look a Lot Like Christmas (with Mitchell Ayres & His Orchestra),Perry Como,90,155933,album,21,1999-08-20,False,https://i.scdn.co/image/ab67616d0000b273d5f598be32d3027b9578ecd6
+2023-12-26,42,This Christmas,Donny Hathaway,74,231173,album,11,1971,False,https://i.scdn.co/image/ab67616d0000b273e0ebc1dc512103af0b79055a
+2023-12-26,43,Santa Baby (with Henri René & His Orchestra),Eartha Kitt,79,206066,album,14,2002,False,https://i.scdn.co/image/ab67616d0000b273cfbcba7cc35a40e08e5aff67
+2023-12-26,44,Jingle Bells - Remastered 1999,Frank Sinatra,88,120693,album,15,1957-09,False,https://i.scdn.co/image/ab67616d0000b27394fd2e614d0862bdd2592594
+2023-12-26,45,Lonely This Christmas,Mud,78,213160,album,23,2005-12-20,False,https://i.scdn.co/image/ab67616d0000b27379fb80e5cd7fbc8be0f08b9a
+2023-12-26,46,Please Come Home for Christmas - 2013 Remaster,Eagles,88,177440,single,2,1978-11-27,False,https://i.scdn.co/image/ab67616d0000b2736d4362a2b2e39422000f8ed3
+2023-12-26,47,What Christmas Means To Me,Stevie Wonder,80,147800,compilation,14,2004-09-21,False,https://i.scdn.co/image/ab67616d0000b273a4f396e8c04c487a735ccabe
+2023-12-26,48,My Only Wish (This Year),Britney Spears,88,255400,single,1,2000-11-14,False,https://i.scdn.co/image/ab67616d0000b27316ed688a08ecd351560f4566
+2023-12-26,49,Deck The Hall,Nat King Cole,88,68760,album,19,1962,False,https://i.scdn.co/image/ab67616d0000b27330dc6027fd140c7ba68e900c
+2023-12-26,50,Stop The Cavalry,Jona Lewie,76,176360,album,20,1982,False,https://i.scdn.co/image/ab67616d0000b273323201d90d2cfe54ad0ffe87
