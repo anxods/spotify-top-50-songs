@@ -11249,3 +11249,53 @@ date,position,song,artist,popularity,duration_ms,album_type,total_tracks,release
 2023-12-28,48,Corazón Roto pt. 3,Brray & Anuel AA & Chencho Corleone,81,348400,single,1,2023-09-08,True,https://i.scdn.co/image/ab67616d0000b2732cfe06902d86d09df823726e
 2023-12-28,49,EL TONTO,Lola Indigo,72,187986,album,11,2023-04-13,False,https://i.scdn.co/image/ab67616d0000b273daab364ac14d96679b5639aa
 2023-12-28,50,CHULA,JC Reyes,69,152842,single,1,2023-11-08,False,https://i.scdn.co/image/ab67616d0000b2730fe0f5a379fbecfcb36ed935
+2023-12-29,1,Manos Rotas,DELLAFUENTE & Morad,81,168594,single,1,2023-11-16,False,https://i.scdn.co/image/ab67616d0000b2731a176de75067ededc26ad96d
+2023-12-29,2,Casanova,Soolking & Lola Indigo & Rvfv,79,243806,single,1,2023-12-07,False,https://i.scdn.co/image/ab67616d0000b2732adf0524e6e63e64f4691695
+2023-12-29,3,LA FALDA,Myke Towers,84,174229,album,23,2023-11-23,True,https://i.scdn.co/image/ab67616d0000b273c75c054b6b209b0b91d818d8
+2023-12-29,4,LUNA,Feid,89,196800,album,10,2023-12-01,False,https://i.scdn.co/image/ab67616d0000b273f1aad814a40ec7419c234242
+2023-12-29,5,No Te Quieren Conmigo,Gaby Music & Lunay & Luar La L,74,252040,single,1,2023-12-15,False,https://i.scdn.co/image/ab67616d0000b2732a34291b34be349de3e1fa3b
+2023-12-29,6,Columbia,Quevedo,90,186000,single,1,2023-07-07,False,https://i.scdn.co/image/ab67616d0000b273a00a817b017c6f6bf8460be9
+2023-12-29,7,DILUVIO,Rauw Alejandro,88,197052,album,14,2023-07-07,True,https://i.scdn.co/image/ab67616d0000b273f79b1ab5cd74db6a2d7c1fda
+2023-12-29,8,Si No Estás,iñigo quintero,94,184061,single,1,2022-09-23,False,https://i.scdn.co/image/ab67616d0000b2735cb9531348f45311cd6fb8df
+2023-12-29,9,PERRO NEGRO,Bad Bunny,93,162767,album,22,2023-10-13,True,https://i.scdn.co/image/ab67616d0000b2737b1fc51ff3257b5286a1ecec
+2023-12-29,10,COSAS QUE NO TE DIJE,Saiko,80,224725,single,1,2021-09-17,False,https://i.scdn.co/image/ab67616d0000b273fb045f7dda9773e266437bc6
+2023-12-29,11,NO PIENSO LLAMAR,Soge Culebra,70,198352,album,13,2023-10-13,False,https://i.scdn.co/image/ab67616d0000b273890db83272f7dff65eb2e41d
+2023-12-29,12,MODELITO,Mora,82,190496,album,14,2022-11-03,True,https://i.scdn.co/image/ab67616d0000b273076ef0fed51ff7a4911459e9
+2023-12-29,13,REINA,Mora,83,211879,album,15,2023-08-28,True,https://i.scdn.co/image/ab67616d0000b2734cc96ed1e38fa517608c2fb0
+2023-12-29,14,OA,Anuel AA & Quevedo & Maluma,84,235200,single,1,2023-10-13,True,https://i.scdn.co/image/ab67616d0000b27331e30ddd08dde773cd4cbbbe
+2023-12-29,15,Narcotics (with Bryant Myers),Dei V & Bryant Myers,81,173991,single,1,2023-09-14,True,https://i.scdn.co/image/ab67616d0000b2735b8ec2b9361e0bbf841860cf
+2023-12-29,16,QLONA,KAROL G,90,172797,album,9,2023-08-10,True,https://i.scdn.co/image/ab67616d0000b273d026bf9d7780f6a1267b4d03
+2023-12-29,17,A 300,JC Reyes & Pedro Calderon,75,169208,single,1,2023-02-17,False,https://i.scdn.co/image/ab67616d0000b2738274465afec06d55b3493a59
+2023-12-29,18,POLARIS - Remix,Saiko & Feid & Quevedo,81,288000,single,1,2023-06-08,True,https://i.scdn.co/image/ab67616d0000b2738f4a278cd5b5b2f65a0f87fd
+2023-12-29,19,Buenas,Quevedo & Saiko,79,192954,single,1,2023-09-22,False,https://i.scdn.co/image/ab67616d0000b27347dde0f7071eb50a15c74470
+2023-12-29,20,LA CAPI,Myke Towers,73,202360,album,23,2023-11-23,True,https://i.scdn.co/image/ab67616d0000b273c75c054b6b209b0b91d818d8
+2023-12-29,21,LALA,Myke Towers,91,197920,album,23,2023-03-23,True,https://i.scdn.co/image/ab67616d0000b2730656d5ce813ca3cc4b677e05
+2023-12-29,22,Quien Es Dei V?,Dei V,78,162244,single,1,2023-03-17,True,https://i.scdn.co/image/ab67616d0000b27348093fb42a734d7e0845ade5
+2023-12-29,23,SEYA,GIMS,71,188484,album,21,2023-10-05,False,https://i.scdn.co/image/ab67616d0000b2738c127b14ce91c9e0f45cda94
+2023-12-29,24,Holanda,Jhayco,85,231693,single,1,2023-07-28,True,https://i.scdn.co/image/ab67616d0000b273cd2ceb6adaa32ecc83cec5c3
+2023-12-29,25,lady madrizZz,céro,76,131020,single,1,2023-09-01,False,https://i.scdn.co/image/ab67616d0000b273037c26b65099737b1a7c440c
+2023-12-29,26,Extasisssssss,Saiko,56,116666,album,7,2023-12-22,False,https://i.scdn.co/image/ab67616d0000b273d1f9e542dc5acb2c1399e58e
+2023-12-29,27,Madrid City,Ana Mena,75,172727,single,1,2023-09-29,False,https://i.scdn.co/image/ab67616d0000b2739c3dc8b4e881fd2607687a8b
+2023-12-29,28,BABY HELLO,Rauw Alejandro,75,222461,album,14,2023-07-07,True,https://i.scdn.co/image/ab67616d0000b273f79b1ab5cd74db6a2d7c1fda
+2023-12-29,29,El Mambo,Kiko Rivera,76,129845,single,1,2023-07-13,False,https://i.scdn.co/image/ab67616d0000b2739550e7d371ec97215fee49f3
+2023-12-29,30,Xxx_Rosario_xxX,Saiko,66,188936,album,7,2023-12-22,True,https://i.scdn.co/image/ab67616d0000b273d1f9e542dc5acb2c1399e58e
+2023-12-29,31,SEDA,Bad Bunny,82,190476,album,22,2023-10-13,True,https://i.scdn.co/image/ab67616d0000b2737b1fc51ff3257b5286a1ecec
+2023-12-29,32,TQMQA,Eladio Carrion,75,169911,single,1,2023-12-14,False,https://i.scdn.co/image/ab67616d0000b273555742588f8a2cc4a0e21d9f
+2023-12-29,33,No Estuviste En Lo Malo - REMIX,Morad & Beny Jr & DELLAFUENTE,74,268320,single,1,2023-10-04,False,https://i.scdn.co/image/ab67616d0000b27318015bf511642e06641d0a8e
+2023-12-29,34,CORLEONE,Saiko,56,192000,album,7,2023-12-22,False,https://i.scdn.co/image/ab67616d0000b273d1f9e542dc5acb2c1399e58e
+2023-12-29,35,Los del Espacio,LIT killah,83,338000,single,1,2023-06-01,False,https://i.scdn.co/image/ab67616d0000b27352a52eac3761e2133bd0f57a
+2023-12-29,36,La Bachata,Manuel Turizo,83,162637,album,15,2023-03-17,False,https://i.scdn.co/image/ab67616d0000b2734dd99565ae6453deab7c26e1
+2023-12-29,37,VAGABUNDO,Sebastian Yatra & Manuel Turizo & Beéle,82,215600,single,1,2023-05-12,False,https://i.scdn.co/image/ab67616d0000b2732d6016751b8ea5e66e83cd04
+2023-12-29,38,Arena y Sal,Omar Montes & Saiko & Tunvao,74,174415,single,1,2023-05-18,False,https://i.scdn.co/image/ab67616d0000b273e78ae3c73af7c17be0c05cb2
+2023-12-29,39,El Cielo,Sky Rompiendo & Feid & Myke Towers,83,191320,single,1,2023-06-02,True,https://i.scdn.co/image/ab67616d0000b27306eccb4893fa58ae311c45ea
+2023-12-29,40,DONDE SE APRENDE A QUERER?,Mora,81,144427,album,15,2023-08-28,False,https://i.scdn.co/image/ab67616d0000b2734cc96ed1e38fa517608c2fb0
+2023-12-29,41,LUCES DE TECNO,Feid,78,164293,album,16,2023-09-29,False,https://i.scdn.co/image/ab67616d0000b2731e76d5d8c654a8f5e640392b
+2023-12-29,42,La_Original.mp3,Emilia,80,140625,album,13,2023-11-03,False,https://i.scdn.co/image/ab67616d0000b273bfb94590c914538b193f6931
+2023-12-29,43,Como Camarón,Estopa,72,202026,album,12,1999-10-18,False,https://i.scdn.co/image/ab67616d0000b2731a311570340a4f6530da158b
+2023-12-29,44,El Merengue,Marshmello,74,189668,album,11,2023-11-03,False,https://i.scdn.co/image/ab67616d0000b2736a84be92318cebb5ac7fbc47
+2023-12-29,45,MONACO,Bad Bunny,92,267194,album,22,2023-10-13,True,https://i.scdn.co/image/ab67616d0000b2737b1fc51ff3257b5286a1ecec
+2023-12-29,46,Lollipop,Darell,88,199946,album,18,2023-07-28,True,https://i.scdn.co/image/ab67616d0000b273992b4a535535ec4d0f109021
+2023-12-29,47,EL CONDENAO,Lola Indigo,62,144829,album,7,2023-12-14,False,https://i.scdn.co/image/ab67616d0000b273e5d4842267050704b1c82928
+2023-12-29,48,Corazón Roto pt. 3,Brray & Anuel AA & Chencho Corleone,81,348400,single,1,2023-09-08,True,https://i.scdn.co/image/ab67616d0000b2732cfe06902d86d09df823726e
+2023-12-29,49,EL TONTO,Lola Indigo,72,187986,album,11,2023-04-13,False,https://i.scdn.co/image/ab67616d0000b273daab364ac14d96679b5639aa
+2023-12-29,50,CHULA,JC Reyes,70,152842,single,1,2023-11-08,False,https://i.scdn.co/image/ab67616d0000b2730fe0f5a379fbecfcb36ed935
