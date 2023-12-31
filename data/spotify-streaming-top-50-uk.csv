@@ -11349,3 +11349,53 @@ date,position,song,artist,popularity,duration_ms,album_type,total_tracks,release
 2023-12-30,48,(It Goes Like) Nanana - Edit,Peggy Gou,86,231545,single,1,2023-06-15,False,https://i.scdn.co/image/ab67616d0000b27388d71aadd009fe1a83df88f2
 2023-12-30,49,Everybody Wants To Rule The World,Tears For Fears,87,251488,album,59,1985-02-25,False,https://i.scdn.co/image/ab67616d0000b27322463d6939fec9e17b2a6235
 2023-12-30,50,Riptide,Vance Joy,80,204280,album,15,2014-09-09,False,https://i.scdn.co/image/ab67616d0000b273a9929deb093a6617d2493b03
+2023-12-31,1,Stick Season,Noah Kahan,92,182346,album,14,2022-10-14,False,https://i.scdn.co/image/ab67616d0000b2736ee35072df1af802cca09918
+2023-12-31,2,Lovin On Me,Jack Harlow,95,138411,single,1,2023-11-10,True,https://i.scdn.co/image/ab67616d0000b273fcf4adae77baba5d0169e8e8
+2023-12-31,3,greedy,Tate McRae,97,131872,single,1,2023-09-15,True,https://i.scdn.co/image/ab67616d0000b27322fd802bc61db666c7c81aa8
+2023-12-31,4,Strangers,Kenya Grace,94,172964,single,1,2023-09-01,False,https://i.scdn.co/image/ab67616d0000b2734756c2e9ae436437cd75e9f3
+2023-12-31,5,Prada,cassö & RAYE & D-Block Europe,91,132359,single,1,2023-08-11,True,https://i.scdn.co/image/ab67616d0000b273e4b7dccdfd54375ded9ccc5c
+2023-12-31,6,Cruel Summer,Taylor Swift,96,178426,album,18,2019-08-23,False,https://i.scdn.co/image/ab67616d0000b273e787cffec20aa2a396a61647
+2023-12-31,7,Sprinter,Dave & Central Cee,88,229133,single,1,2023-06-01,True,https://i.scdn.co/image/ab67616d0000b273e3a09a9ae3f1fa102c110e60
+2023-12-31,8,vampire,Olivia Rodrigo,92,219724,album,12,2023-09-08,True,https://i.scdn.co/image/ab67616d0000b273e85259a1cae29a8d91f2093d
+2023-12-31,9,Water,Tyla,93,200255,single,1,2023-07-28,False,https://i.scdn.co/image/ab67616d0000b273d20231861e86a6f74ef2393e
+2023-12-31,10,Popular (with Playboi Carti & Madonna) - Music from the HBO Original Series,The Weeknd & Madonna,90,215466,single,1,2023-06-02,True,https://i.scdn.co/image/ab67616d0000b2734c8f092adc59b4bf4212389d
+2023-12-31,11,Paint The Town Red,Doja Cat,86,230480,album,15,2023-09-20,True,https://i.scdn.co/image/ab67616d0000b273a840032f14ab22da396e43cb
+2023-12-31,12,Murder On The Dancefloor,Sophie Ellis-Bextor,71,230013,album,15,2002-06-06,False,https://i.scdn.co/image/ab67616d0000b273b736151ed1c04f2d41d5f69e
+2023-12-31,13,My Love Mine All Mine,Mitski,96,137773,album,11,2023-09-15,False,https://i.scdn.co/image/ab67616d0000b27334f21d3047d85440dfa37f10
+2023-12-31,14,Rich Baby Daddy (feat. Sexyy Red & SZA),Drake,87,319191,album,23,2023-10-06,True,https://i.scdn.co/image/ab67616d0000b2737d384516b23347e92a587ed1
+2023-12-31,15,Mr. Brightside,The Killers,86,222973,album,12,2004,False,https://i.scdn.co/image/ab67616d0000b273ccdddd46119a4ff53eaf1f5d
+2023-12-31,16,"Baddadan (feat. IRAH, Flowdan, Trigga & Takura)",Chase & Status & Bou & Flowdan,79,177291,single,1,2023-07-27,False,https://i.scdn.co/image/ab67616d0000b273adfadf345224340773549507
+2023-12-31,17,Dance The Night - From Barbie The Album,Dua Lipa,90,176579,single,1,2023-05-25,False,https://i.scdn.co/image/ab67616d0000b2737dd3ba455ee3390cb55b0192
+2023-12-31,18,Is It Over Now? (Taylor's Version) (From The Vault),Taylor Swift,91,229477,album,21,2023-10-26,False,https://i.scdn.co/image/ab67616d0000b273904445d70d04eb24d6bb79ac
+2023-12-31,19,"What Was I Made For? [From The Motion Picture ""Barbie""]",Billie Eilish,91,222369,single,1,2023-07-13,False,https://i.scdn.co/image/ab67616d0000b273ed317ec13d3de9e01fb99c9e
+2023-12-31,20,Houdini,Dua Lipa,91,185917,single,1,2023-11-09,False,https://i.scdn.co/image/ab67616d0000b273001d5706fddc72561f6488af
+2023-12-31,21,leavemealone,Fred again..,68,222784,album,9,2022-01-18,True,https://i.scdn.co/image/ab67616d0000b2730920dda3769771de5ffd4578
+2023-12-31,22,Daylight,David Kushner,92,212953,single,1,2023-04-14,False,https://i.scdn.co/image/ab67616d0000b27395ca6a9b4083a86c149934ae
+2023-12-31,23,The Night We Met,Lord Huron,80,208211,album,14,2015-04-07,False,https://i.scdn.co/image/ab67616d0000b2739d2efe43d5b7ebc7cb60ca81
+2023-12-31,24,Runaway,Kanye West,86,547733,album,13,2010-11-22,True,https://i.scdn.co/image/ab67616d0000b273d9194aa18fa4c9362b47464f
+2023-12-31,25,I Remember Everything (feat. Kacey Musgraves),Zach Bryan,90,227195,album,16,2023-08-25,False,https://i.scdn.co/image/ab67616d0000b273e5a25ed08d1e7e0fbb440cef
+2023-12-31,26,"One Of The Girls (with JENNIE, Lily Rose Depp)",The Weeknd & JENNIE & Lily-Rose Depp,93,244684,single,3,2023-06-23,False,https://i.scdn.co/image/ab67616d0000b273b0dd6a5cd1dec96c4119c262
+2023-12-31,27,Heartless,Kanye West,87,211000,album,12,2008-11-24,False,https://i.scdn.co/image/ab67616d0000b273346d77e155d854735410ed18
+2023-12-31,28,exes,Tate McRae,81,159400,album,14,2023-12-08,True,https://i.scdn.co/image/ab67616d0000b27377eb7a5b9367de79c3b92a49
+2023-12-31,29,I Wanna Be Yours,Arctic Monkeys,93,183956,album,12,2013-09-09,False,https://i.scdn.co/image/ab67616d0000b2734ae1c4c5c45aabe565499163
+2023-12-31,30,Take Me to Church,Hozier,78,241693,album,15,2014-09-19,False,https://i.scdn.co/image/ab67616d0000b2734ca68d59a4a29c856a4a39c2
+2023-12-31,31,Anti-Hero,Taylor Swift,90,200690,album,13,2022-10-21,False,https://i.scdn.co/image/ab67616d0000b273bb54dde68cd23e2a268ae0f5
+2023-12-31,32,Disconnect,Becky Hill & Chase & Status,76,164914,single,1,2023-07-14,True,https://i.scdn.co/image/ab67616d0000b27309dc775999d5a6d87d156c2f
+2023-12-31,33,Flowers,Miley Cyrus,91,200600,album,14,2023-08-18,False,https://i.scdn.co/image/ab67616d0000b273cd222052a2594be29a6616b5
+2023-12-31,34,Ain't No Mountain High Enough,Marvin Gaye & Tammi Terrell,85,151666,album,12,1967-08-29,False,https://i.scdn.co/image/ab67616d0000b2739173e50e99bdea2400222f02
+2023-12-31,35,Can’t Catch Me Now - from The Hunger Games: The Ballad of Songbirds & Snakes,Olivia Rodrigo & Rachel Zegler & Flatland Cavalry,83,205483,album,17,2023-11-17,False,https://i.scdn.co/image/ab67616d0000b27322ad9f1afdbeeceaf0c91686
+2023-12-31,36,adore u,Fred again.. & Obongjayar,79,220653,single,1,2023-08-11,False,https://i.scdn.co/image/ab67616d0000b273f14e70dbc29485778e114039
+2023-12-31,37,Iris,The Goo Goo Dolls,86,289533,album,13,1998-09-11,False,https://i.scdn.co/image/ab67616d0000b273eda9478c39a21e1cdc6609ca
+2023-12-31,38,One Dance,Drake,87,173986,album,20,2016-05-06,False,https://i.scdn.co/image/ab67616d0000b2739416ed64daf84936d89e671c
+2023-12-31,39,DNA (Loving You) [feat. Hannah Boleyn],Billy Gillies & Hannah Boleyn,76,164919,single,1,2023-07-28,False,https://i.scdn.co/image/ab67616d0000b27360c614f7030dd6078ee0d3f0
+2023-12-31,40,Surround Sound (feat. 21 Savage & Baby Tate),JID,90,229938,album,16,2022-10-31,True,https://i.scdn.co/image/ab67616d0000b273cae6e44dcc84e2035c3ad092
+2023-12-31,41,No Role Modelz,J. Cole,88,292799,album,13,2014-12-09,True,https://i.scdn.co/image/ab67616d0000b273c6e0948bbb0681ff29cdbae8
+2023-12-31,42,fukumean,Gunna,90,125040,album,15,2023-06-16,True,https://i.scdn.co/image/ab67616d0000b273017d5e26552345c4b1575b6c
+2023-12-31,43,Someone You Loved,Lewis Capaldi,88,182160,album,12,2019-05-17,False,https://i.scdn.co/image/ab67616d0000b273fc2101e6889d6ce9025f85f2
+2023-12-31,44,Agora Hills,Doja Cat,83,265360,album,15,2023-09-20,True,https://i.scdn.co/image/ab67616d0000b273a840032f14ab22da396e43cb
+2023-12-31,45,(It Goes Like) Nanana - Edit,Peggy Gou,86,231545,single,1,2023-06-15,False,https://i.scdn.co/image/ab67616d0000b27388d71aadd009fe1a83df88f2
+2023-12-31,46,On My Love,Zara Larsson & David Guetta,69,222911,single,4,2023-09-12,False,https://i.scdn.co/image/ab67616d0000b27320e6d104acd0787e0d9d0de7
+2023-12-31,47,Everybody Wants To Rule The World,Tears For Fears,87,251488,album,59,1985-02-25,False,https://i.scdn.co/image/ab67616d0000b27322463d6939fec9e17b2a6235
+2023-12-31,48,As It Was,Harry Styles,92,167303,album,13,2022-05-20,False,https://i.scdn.co/image/ab67616d0000b2732e8ed79e177ff6011076f5f0
+2023-12-31,49,Father Stretch My Hands Pt. 1,Kanye West,87,135920,album,20,2016-06-10,True,https://i.scdn.co/image/ab67616d0000b2732a7db835b912dc5014bd37f4
+2023-12-31,50,Lose Control,Teddy Swims,84,210688,album,10,2023-09-15,False,https://i.scdn.co/image/ab67616d0000b2731a0323cc23419360a34a3ace
