@@ -11449,3 +11449,53 @@ date,position,song,artist,popularity,duration_ms,album_type,total_tracks,release
 2024-01-01,48,M.A.I,Milo j,78,184027,album,9,2023-11-30,False,https://i.scdn.co/image/ab67616d0000b2732df1e804c441e13d7a50f372
 2024-01-01,49,Pobre Corazón - En Vivo,Ke Personajes & Onda Sabanera,78,198930,single,1,2023-03-02,False,https://i.scdn.co/image/ab67616d0000b27370bfe435a7dc698bbf0883cf
 2024-01-01,50,Mentirosa Remix,Rafaga & Maria Becerra,71,179405,single,1,2023-12-01,False,https://i.scdn.co/image/ab67616d0000b27376539ae11943059841d482f4
+2024-01-02,1,La Morocha,Luck Ra & BM,83,134144,single,1,2023-07-07,False,https://i.scdn.co/image/ab67616d0000b2733cd645cc0b41595ccdfd0a73
+2024-01-02,2,QUE ME FALTE TODO,Luck Ra & Abel Pintos,80,165918,single,1,2023-10-26,False,https://i.scdn.co/image/ab67616d0000b2736d603f143510920defc4f1f6
+2024-01-02,3,La_Original.mp3,Emilia,81,140625,album,13,2023-11-03,False,https://i.scdn.co/image/ab67616d0000b273bfb94590c914538b193f6931
+2024-01-02,4,Inocente,Roze Oficial & Peipper,77,171500,single,1,2023-12-01,False,https://i.scdn.co/image/ab67616d0000b273035116612c8da778cf7e640c
+2024-01-02,5,Exclusive.mp3,Emilia,83,120600,album,13,2023-11-03,False,https://i.scdn.co/image/ab67616d0000b273bfb94590c914538b193f6931
+2024-01-02,6,Linda - Remix,Marka Akme & DJ Tao & Lauty Gram,81,234105,single,1,2023-09-27,False,https://i.scdn.co/image/ab67616d0000b2736af4cc0ffa8a33766a117b6c
+2024-01-02,7,Ni Una Ni Dos,BM,81,158535,single,1,2023-06-28,True,https://i.scdn.co/image/ab67616d0000b2732e719c605f8d5be0633611a6
+2024-01-02,8,Ahi Ahi,El negro tecla,79,176796,single,1,2021-12-08,True,https://i.scdn.co/image/ab67616d0000b273c2c777da04a1d948214bc217
+2024-01-02,9,Besos con Fernet,Rusherking & Marama,78,147375,single,1,2023-11-07,False,https://i.scdn.co/image/ab67616d0000b273c5ea12e29ea71c1882c1e04c
+2024-01-02,10,Una Foto,Mesita,80,122500,single,1,2023-08-15,False,https://i.scdn.co/image/ab67616d0000b273494f7079a2a76c23f1d76bda
+2024-01-02,11,Un Finde | CROSSOVER #2,Big One & FMK & Ke Personajes,84,162500,single,1,2023-04-04,False,https://i.scdn.co/image/ab67616d0000b273fc9ce77ab8fcd9eadda3acd3
+2024-01-02,12,ROZE | DJ TAO Turreo Sessions #22,DJ Tao & Roze Oficial,74,155291,single,1,2023-11-23,False,https://i.scdn.co/image/ab67616d0000b27388c038e58c002d2f65f547c9
+2024-01-02,13,Mentiras | CROSSOVER #3,Big One & Ulises Bueno & Rusherking,79,168000,single,1,2023-07-25,False,https://i.scdn.co/image/ab67616d0000b273df0218a20c298edf6219817f
+2024-01-02,14,SINVERGÜENZA - con Angela Torres,Emanero & Karina & j mena,74,217490,single,4,2023-12-05,False,https://i.scdn.co/image/ab67616d0000b273b4e55d59b1a03ac8098db59d
+2024-01-02,15,El Amor De Mi Vida,Los Ángeles Azules & Maria Becerra,59,184586,single,1,2023-08-18,False,https://i.scdn.co/image/ab67616d0000b2730fbfe75fb58c2e07def46917
+2024-01-02,16,OJITOS ROJOS,Grupo Frontera,79,221601,album,12,2023-08-25,False,https://i.scdn.co/image/ab67616d0000b27382ce4c7bbf861185252e82ae
+2024-01-02,17,GTA.mp3,Emilia,75,151653,album,13,2023-11-03,False,https://i.scdn.co/image/ab67616d0000b273bfb94590c914538b193f6931
+2024-01-02,18,Ya No Vuelvas (Versión Cuarteto),Luck Ra & La K'onga & Ke Personajes,80,204000,single,1,2022-12-01,False,https://i.scdn.co/image/ab67616d0000b273b061c89b210b4e16bd808976
+2024-01-02,19,El Super Junte Rkt,Gusty dj & Salastkbron & Callejero Fino,74,383369,single,1,2023-11-30,True,https://i.scdn.co/image/ab67616d0000b273870d75a7e4c3eb0d478a68e5
+2024-01-02,20,Bad Boy,Sayian Jimmy,74,159101,album,12,2023-11-10,True,https://i.scdn.co/image/ab67616d0000b2738acad4462746db0a81f4631c
+2024-01-02,21,Le Gustan lo' Flaites,El Joan & Celso El Potente,76,183328,single,1,2023-03-17,True,https://i.scdn.co/image/ab67616d0000b273d76d74ac828b5eb2d5314ecf
+2024-01-02,22,FLECHAZO EN EL CENTRO,YSY A & Bhavi,80,185241,album,10,2023-09-06,False,https://i.scdn.co/image/ab67616d0000b273bdc75873468f700e068377e8
+2024-01-02,23,Lollipop,Darell,89,199946,album,18,2023-07-28,True,https://i.scdn.co/image/ab67616d0000b273992b4a535535ec4d0f109021
+2024-01-02,24,Los del Espacio,LIT killah,84,338000,single,1,2023-06-01,False,https://i.scdn.co/image/ab67616d0000b27352a52eac3761e2133bd0f57a
+2024-01-02,25,ANDO,Jere Klein,78,172774,album,10,2023-12-01,True,https://i.scdn.co/image/ab67616d0000b273c9af3d78758eaf8d896fd37c
+2024-01-02,26,Bronceado - Remix,Marama & MYA & Robleis,73,156631,single,1,2023-12-13,False,https://i.scdn.co/image/ab67616d0000b2739e9845cffd293789ba65654c
+2024-01-02,27,CORAZÓN VACÍO,Maria Becerra,82,160535,single,1,2023-06-22,False,https://i.scdn.co/image/ab67616d0000b273a3cbe5aa0bcf10eb02a8c960
+2024-01-02,28,ATORRANTE - con Los Palmeras,Emanero & Ulises Bueno & Migrantes,75,252347,single,2,2023-07-08,False,https://i.scdn.co/image/ab67616d0000b2738dd33c4b040cc8f2cae4a6dc
+2024-01-02,29,Lágrimas | CROSSOVER #4,Big One & TINI & BM,76,167419,single,4,2023-10-10,False,https://i.scdn.co/image/ab67616d0000b273b8dce066af158bd7d10ac955
+2024-01-02,30,DIME SI ERES FELIZ VOL.2,BM & Hernan y La Champion's Liga,76,171667,single,1,2023-08-30,False,https://i.scdn.co/image/ab67616d0000b27398d84f8b8648b8c14dceed60
+2024-01-02,31,Luck Ra | Mission 15,Alan Gomez & Luck Ra,76,133284,single,1,2023-05-17,True,https://i.scdn.co/image/ab67616d0000b2731ff540ce0b6ebd31b8c6a462
+2024-01-02,32,Piscina,Maria Becerra & Chencho Corleone & Ovy On The Drums,81,225661,single,1,2023-11-08,True,https://i.scdn.co/image/ab67616d0000b273406c651ce622e53f8fa1c179
+2024-01-02,33,Entre Beso y Beso,Ke Personajes,76,153488,single,1,2023-08-30,False,https://i.scdn.co/image/ab67616d0000b27313f83e5d895072a156b6a8ad
+2024-01-02,34,Salgo a Bailar,FMK & Emilia,76,157830,single,1,2023-07-14,False,https://i.scdn.co/image/ab67616d0000b2733c70172e31f35f084e1a8fae
+2024-01-02,35,Columbia,Quevedo,91,186000,single,1,2023-07-07,False,https://i.scdn.co/image/ab67616d0000b273a00a817b017c6f6bf8460be9
+2024-01-02,36,LUNA,Feid,91,196800,album,10,2023-12-01,False,https://i.scdn.co/image/ab67616d0000b273f1aad814a40ec7419c234242
+2024-01-02,37,PERRO NEGRO,Bad Bunny,94,162767,album,22,2023-10-13,True,https://i.scdn.co/image/ab67616d0000b2737b1fc51ff3257b5286a1ecec
+2024-01-02,38,Quiero Creer,Luck Ra & La T y La M & Rusherking,74,145054,single,1,2023-02-03,False,https://i.scdn.co/image/ab67616d0000b273751e3fea2ebed09f118eb99b
+2024-01-02,39,QLONA,KAROL G,92,172797,album,9,2023-08-10,True,https://i.scdn.co/image/ab67616d0000b273d026bf9d7780f6a1267b4d03
+2024-01-02,40,Me Escapé,DobleP & Lauty Gram & Gusty dj,75,176181,single,1,2023-09-07,True,https://i.scdn.co/image/ab67616d0000b273885110c9aa1af1dd21d042e4
+2024-01-02,41,UNA BALA,Milo j,83,182500,album,9,2023-11-30,False,https://i.scdn.co/image/ab67616d0000b2732df1e804c441e13d7a50f372
+2024-01-02,42,IConic.mp3,Emilia,76,181043,album,13,2023-11-03,False,https://i.scdn.co/image/ab67616d0000b273bfb94590c914538b193f6931
+2024-01-02,43,LALA,Myke Towers,92,197920,album,23,2023-03-23,True,https://i.scdn.co/image/ab67616d0000b2730656d5ce813ca3cc4b677e05
+2024-01-02,44,ADIÓS,Maria Becerra,78,160856,album,12,2022-12-08,True,https://i.scdn.co/image/ab67616d0000b27377ec4341ebb8a0dbfe2df739
+2024-01-02,45,Si No Estás,iñigo quintero,95,184061,single,1,2022-09-23,False,https://i.scdn.co/image/ab67616d0000b2735cb9531348f45311cd6fb8df
+2024-01-02,46,En La Intimidad | CROSSOVER #1,Big One & Emilia & Callejero Fino,77,165854,single,1,2023-02-01,False,https://i.scdn.co/image/ab67616d0000b273bfc03d005bbc2f7e7abc889b
+2024-01-02,47,No_Se_Ve.mp3,Emilia,74,203636,album,13,2023-11-03,False,https://i.scdn.co/image/ab67616d0000b273bfb94590c914538b193f6931
+2024-01-02,48,M.A.I,Milo j,78,184027,album,9,2023-11-30,False,https://i.scdn.co/image/ab67616d0000b2732df1e804c441e13d7a50f372
+2024-01-02,49,Pobre Corazón - En Vivo,Ke Personajes & Onda Sabanera,78,198930,single,1,2023-03-02,False,https://i.scdn.co/image/ab67616d0000b27370bfe435a7dc698bbf0883cf
+2024-01-02,50,Mentirosa Remix,Rafaga & Maria Becerra,72,179405,single,1,2023-12-01,False,https://i.scdn.co/image/ab67616d0000b27376539ae11943059841d482f4
