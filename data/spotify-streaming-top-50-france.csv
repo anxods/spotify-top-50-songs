@@ -11499,3 +11499,53 @@ date,position,song,artist,popularity,duration_ms,album_type,total_tracks,release
 2024-01-02,48,Calm Down (with Selena Gomez),Rema,80,239317,album,22,2023-04-27,False,https://i.scdn.co/image/ab67616d0000b273963265801aa5c9740ad159b7
 2024-01-02,49,DESPECHÁ,ROSALÍA,78,156787,album,24,2022-09-09,True,https://i.scdn.co/image/ab67616d0000b273efc0ef9dd996312ebaf0bf52
 2024-01-02,50,Substitution (feat. Julian Perretta),Purple Disco Machine & Kungs & Julian Perretta,78,181477,single,2,2023-03-30,False,https://i.scdn.co/image/ab67616d0000b273a8bcf8fac8520ac2cbf72ea7
+2024-01-03,1,Petit génie,Jungeli & Imen Es & Alonzo,82,217259,single,1,2023-08-04,True,https://i.scdn.co/image/ab67616d0000b2737b6ae17633cbb6f9c1b5d4ac
+2024-01-03,2,FLASHBACK,Favé,77,176120,album,15,2023-10-13,True,https://i.scdn.co/image/ab67616d0000b273bed20ca2a508148c3f8cffd8
+2024-01-03,3,Casanova,Soolking & Gazo,83,189090,single,1,2023-07-06,False,https://i.scdn.co/image/ab67616d0000b2735e90edde8fea572f0400c369
+2024-01-03,4,LAISSE MOI,KeBlack,79,168620,single,1,2023-09-08,True,https://i.scdn.co/image/ab67616d0000b273ab5360bcfb07322f015687e1
+2024-01-03,5,Si No Estás,iñigo quintero,95,184061,single,1,2022-09-23,False,https://i.scdn.co/image/ab67616d0000b2735cb9531348f45311cd6fb8df
+2024-01-03,6,Saiyan,Heuss L'enfoiré,74,189840,album,14,2023-06-30,True,https://i.scdn.co/image/ab67616d0000b273e867057ecb11903ffe53224b
+2024-01-03,7,J'fais plaisir à la zone,Jul,75,183106,album,23,2023-12-08,True,https://i.scdn.co/image/ab67616d0000b2734967a6d7e47e5da99c4c2400
+2024-01-03,8,Bolide allemand,SDM,78,176746,album,15,2022-12-02,True,https://i.scdn.co/image/ab67616d0000b273455e89dbf3ce2e6d337be1d0
+2024-01-03,9,greedy,Tate McRae,98,131872,single,1,2023-09-15,True,https://i.scdn.co/image/ab67616d0000b27322fd802bc61db666c7c81aa8
+2024-01-03,10,Bécane - A COLORS SHOW,Yamê,84,182440,single,1,2023-06-01,True,https://i.scdn.co/image/ab67616d0000b2737dfba3f3ae607f250cdd969c
+2024-01-03,11,NOTRE DAME,Gazo & Tiakola,77,216386,album,12,2023-12-01,True,https://i.scdn.co/image/ab67616d0000b2737dfe25eb478d69089abbaec1
+2024-01-03,12,Laboratoire,Werenoi,76,162840,album,19,2023-03-10,True,https://i.scdn.co/image/ab67616d0000b2739d74d3f0042968ea8f084acb
+2024-01-03,13,I love you,Dadju & Tayc,76,238344,single,1,2023-12-08,False,https://i.scdn.co/image/ab67616d0000b27324805a68fdded5f9cec3f69c
+2024-01-03,14,Meuda,Tiakola,76,152546,album,16,2022-05-27,True,https://i.scdn.co/image/ab67616d0000b2731bbc72ff946f55d4d3188062
+2024-01-03,15,Overdrive (feat. Norma Jean Martine),Ofenbach & Norma Jean Martine,84,155905,single,1,2023-10-06,False,https://i.scdn.co/image/ab67616d0000b273249f764814d57dc5dfc462c7
+2024-01-03,16,Vois sur ton chemin - Techno Mix,BENNETT,89,178156,single,1,2023-08-04,False,https://i.scdn.co/image/ab67616d0000b2731b96e645016c4d431842aa93
+2024-01-03,17,Popcorn Salé,SANTA,74,238653,single,1,2022-03-25,False,https://i.scdn.co/image/ab67616d0000b273215b11af12f1cd353e81837d
+2024-01-03,18,Houdini,Dua Lipa,91,185917,single,1,2023-11-09,False,https://i.scdn.co/image/ab67616d0000b273001d5706fddc72561f6488af
+2024-01-03,19,Can't Hold Us (feat. Ray Dalton),Macklemore & Ryan Lewis & Macklemore & Ryan Lewis,86,258431,album,15,2012-10-09,False,https://i.scdn.co/image/ab67616d0000b2732a6b364528b128a4a17d100d
+2024-01-03,20,J't'emmène au vent,Louise Attaque,70,184173,album,14,1997-04-22,False,https://i.scdn.co/image/ab67616d0000b2730197f123ed91c8f333920ff1
+2024-01-03,21,Lose Control,Teddy Swims,85,210688,album,10,2023-09-15,False,https://i.scdn.co/image/ab67616d0000b2731a0323cc23419360a34a3ace
+2024-01-03,22,Partenaire Particulier,Partenaire Particulier,67,246440,album,16,2009-03-06,False,https://i.scdn.co/image/ab67616d0000b273bd656516296878641c69a7d3
+2024-01-03,23,Beuh d'Hollande,Jul,73,169413,album,23,2023-12-08,True,https://i.scdn.co/image/ab67616d0000b2734967a6d7e47e5da99c4c2400
+2024-01-03,24,Paint The Town Red,Doja Cat,87,230480,album,15,2023-09-20,True,https://i.scdn.co/image/ab67616d0000b273a840032f14ab22da396e43cb
+2024-01-03,25,Strangers,Kenya Grace,94,172964,single,1,2023-09-01,False,https://i.scdn.co/image/ab67616d0000b2734756c2e9ae436437cd75e9f3
+2024-01-03,26,Citadelle,Merveille,67,165728,single,1,2023-12-22,False,https://i.scdn.co/image/ab67616d0000b27336209a878e7013179a1a7b8e
+2024-01-03,27,Sans Coeur,Shay & Niska,73,176000,single,1,2023-11-10,True,https://i.scdn.co/image/ab67616d0000b273d99a8b4601f24196f1301d5f
+2024-01-03,28,Tattoo,Loreen,86,183374,single,1,2023-02-25,False,https://i.scdn.co/image/ab67616d0000b2732b0ba87db609976eee193bd6
+2024-01-03,29,J'irai où tu iras (with Jean-Jacques Goldman),Céline Dion,61,205800,album,12,1995-03-27,False,https://i.scdn.co/image/ab67616d0000b273a33e2b9d221b420f2ab1d29f
+2024-01-03,30,100K,Gazo & Tiakola,75,116906,album,12,2023-12-01,True,https://i.scdn.co/image/ab67616d0000b2737dfe25eb478d69089abbaec1
+2024-01-03,31,Dance The Night - From Barbie The Album,Dua Lipa,91,176579,single,1,2023-05-25,False,https://i.scdn.co/image/ab67616d0000b2737dd3ba455ee3390cb55b0192
+2024-01-03,32,Meridian,Dave & Tiakola,77,255160,single,2,2023-08-25,True,https://i.scdn.co/image/ab67616d0000b2734272d95e66df0e8859cc4952
+2024-01-03,33,"Freed From Desire - prod. Molella, Phil Jay",Gala,79,213394,album,10,1997-11-17,False,https://i.scdn.co/image/ab67616d0000b273e3a26492e5b3a5f37021bd2d
+2024-01-03,34,SEYA,GIMS,72,188484,album,21,2023-10-05,False,https://i.scdn.co/image/ab67616d0000b2738c127b14ce91c9e0f45cda94
+2024-01-03,35,Chemin d'or,Werenoi,73,212093,album,19,2023-03-10,True,https://i.scdn.co/image/ab67616d0000b2739d74d3f0042968ea8f084acb
+2024-01-03,36,Daylight,David Kushner,93,212953,single,1,2023-04-14,False,https://i.scdn.co/image/ab67616d0000b27395ca6a9b4083a86c149934ae
+2024-01-03,37,Flowers,Miley Cyrus,92,200600,album,14,2023-08-18,False,https://i.scdn.co/image/ab67616d0000b273cd222052a2594be29a6616b5
+2024-01-03,38,Gimme Love,Sia,81,177921,single,1,2023-09-13,False,https://i.scdn.co/image/ab67616d0000b2730df5de7712f0db14d84a4f7e
+2024-01-03,39,I'm Good (Blue),David Guetta & Bebe Rexha,91,175238,single,2,2022-08-26,True,https://i.scdn.co/image/ab67616d0000b273933c036cd61cd40d3f17a9c4
+2024-01-03,40,1 2 3 4,Zokush,68,180793,album,16,2023-06-22,True,https://i.scdn.co/image/ab67616d0000b2739711fe75facefc7a93d4738c
+2024-01-03,41,Périph,PLK,71,168849,single,1,2023-12-14,False,https://i.scdn.co/image/ab67616d0000b27315042e5bdc1292bb08385778
+2024-01-03,42,T'aimerais (feat. Ziak),Kerchak & Ziak,70,153253,single,1,2023-12-15,True,https://i.scdn.co/image/ab67616d0000b27344723956c478e856571822b9
+2024-01-03,43,Postiché,Jul,71,276546,album,23,2023-12-08,True,https://i.scdn.co/image/ab67616d0000b2734967a6d7e47e5da99c4c2400
+2024-01-03,44,Ailleurs,Josman,74,165506,album,13,2023-10-28,True,https://i.scdn.co/image/ab67616d0000b2735a7c027718559ea175420718
+2024-01-03,45,Nouvelles,PLK,73,179653,single,10,2023-04-13,True,https://i.scdn.co/image/ab67616d0000b273390bfa914f9f7b04582aba5d
+2024-01-03,46,CARTIER,Gazo & Tiakola,73,229093,album,12,2023-12-01,True,https://i.scdn.co/image/ab67616d0000b2737dfe25eb478d69089abbaec1
+2024-01-03,47,Water,Tyla,93,200255,single,1,2023-07-28,False,https://i.scdn.co/image/ab67616d0000b273d20231861e86a6f74ef2393e
+2024-01-03,48,Sweet Dreams (Are Made of This) - Remastered,Eurythmics & Annie Lennox & Dave Stewart,84,216933,album,16,1983-01-04,False,https://i.scdn.co/image/ab67616d0000b273b3994c94dfb241923664bb4d
+2024-01-03,49,Demain,PLK,72,183013,single,10,2023-04-13,True,https://i.scdn.co/image/ab67616d0000b273390bfa914f9f7b04582aba5d
+2024-01-03,50,L'aventurier,Indochine,67,231960,album,7,1982,False,https://i.scdn.co/image/ab67616d0000b273f80fe67d0f4293be5b8f5251
