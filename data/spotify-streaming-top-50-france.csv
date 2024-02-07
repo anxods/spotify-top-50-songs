@@ -13249,3 +13249,53 @@ date,position,song,artist,popularity,duration_ms,album_type,total_tracks,release
 2024-02-06,48,Périph,PLK,67,168866,album,11,2024-01-18,True,https://i.scdn.co/image/ab67616d0000b2735f47f03829e4df052424712c
 2024-02-06,49,Cruel Summer,Taylor Swift,99,178426,album,18,2019-08-23,False,https://i.scdn.co/image/ab67616d0000b273e787cffec20aa2a396a61647
 2024-02-06,50,Aucune attache,KeBlack,61,161977,single,1,2024-02-02,False,https://i.scdn.co/image/ab67616d0000b2734554f6ef4b73557ab553bc21
+2024-02-07,1,Petit génie,Jungeli & Imen Es & Alonzo,84,217259,single,1,2023-08-04,True,https://i.scdn.co/image/ab67616d0000b2737b6ae17633cbb6f9c1b5d4ac
+2024-02-07,2,I love you,Dadju & Tayc,81,238344,single,1,2023-12-08,False,https://i.scdn.co/image/ab67616d0000b27324805a68fdded5f9cec3f69c
+2024-02-07,3,Si No Estás,iñigo quintero,95,184061,single,1,2022-09-23,False,https://i.scdn.co/image/ab67616d0000b2735cb9531348f45311cd6fb8df
+2024-02-07,4,Temps en temps,Zola & Koba LaD,70,153653,album,11,2024-01-26,True,https://i.scdn.co/image/ab67616d0000b273daa83e0ba4c6f8d7fa0fc7a5
+2024-02-07,5,FLASHBACK,Favé,79,176120,album,15,2023-10-13,True,https://i.scdn.co/image/ab67616d0000b273bed20ca2a508148c3f8cffd8
+2024-02-07,6,Faut pas,PLK,66,138933,album,31,2024-02-01,True,https://i.scdn.co/image/ab67616d0000b273478b7d68b5755066144886e5
+2024-02-07,7,Ça mène à rien,PLK,75,198773,album,11,2024-01-18,True,https://i.scdn.co/image/ab67616d0000b2735f47f03829e4df052424712c
+2024-02-07,8,Lose Control,Teddy Swims,92,210688,album,10,2023-09-15,False,https://i.scdn.co/image/ab67616d0000b2731a0323cc23419360a34a3ace
+2024-02-07,9,greedy,Tate McRae,100,131872,single,1,2023-09-15,True,https://i.scdn.co/image/ab67616d0000b27322fd802bc61db666c7c81aa8
+2024-02-07,10,Tu connais,Werenoi,71,169000,album,7,2023-09-21,True,https://i.scdn.co/image/ab67616d0000b2737fed909b45d0c711e00ef715
+2024-02-07,11,LAISSE MOI,KeBlack,80,168620,single,1,2023-09-08,True,https://i.scdn.co/image/ab67616d0000b273ab5360bcfb07322f015687e1
+2024-02-07,12,Panama,Kaaris,78,225733,album,17,2023-12-14,True,https://i.scdn.co/image/ab67616d0000b273320e2cbe61937f598b904ec4
+2024-02-07,13,Casanova,Soolking & Gazo,84,189090,single,1,2023-07-06,False,https://i.scdn.co/image/ab67616d0000b2735e90edde8fea572f0400c369
+2024-02-07,14,Houdini,Dua Lipa,94,185917,single,1,2023-11-09,False,https://i.scdn.co/image/ab67616d0000b273001d5706fddc72561f6488af
+2024-02-07,15,6G,Booba,68,172137,single,1,2024-02-01,True,https://i.scdn.co/image/ab67616d0000b273956abe346ceee4468c35bf60
+2024-02-07,16,MAMI WATA,Gazo & Tiakola,76,233240,album,12,2023-12-01,True,https://i.scdn.co/image/ab67616d0000b2737dfe25eb478d69089abbaec1
+2024-02-07,17,Hypé,Aya Nakamura,74,157053,single,1,2024-01-26,False,https://i.scdn.co/image/ab67616d0000b27343d8582d51465d891d6b78ff
+2024-02-07,18,Chemin d'or,Werenoi,77,212093,album,19,2023-03-10,True,https://i.scdn.co/image/ab67616d0000b2739d74d3f0042968ea8f084acb
+2024-02-07,19,NOTRE DAME,Gazo & Tiakola,79,216386,album,12,2023-12-01,True,https://i.scdn.co/image/ab67616d0000b2737dfe25eb478d69089abbaec1
+2024-02-07,20,Laboratoire,Werenoi,78,162840,album,19,2023-03-10,True,https://i.scdn.co/image/ab67616d0000b2739d74d3f0042968ea8f084acb
+2024-02-07,21,J'fais plaisir à la zone,Jul,77,183106,album,23,2023-12-08,True,https://i.scdn.co/image/ab67616d0000b2734967a6d7e47e5da99c4c2400
+2024-02-07,22,Saiyan,Heuss L'enfoiré,75,189840,album,14,2023-06-30,True,https://i.scdn.co/image/ab67616d0000b273e867057ecb11903ffe53224b
+2024-02-07,23,Overdrive (feat. Norma Jean Martine),Ofenbach & Norma Jean Martine,88,155905,single,1,2023-10-06,False,https://i.scdn.co/image/ab67616d0000b273249f764814d57dc5dfc462c7
+2024-02-07,24,Popcorn Salé,SANTA,77,238653,single,1,2022-03-25,False,https://i.scdn.co/image/ab67616d0000b273215b11af12f1cd353e81837d
+2024-02-07,25,Il pleut à Paris,PLK,72,147373,album,11,2024-01-18,True,https://i.scdn.co/image/ab67616d0000b2735f47f03829e4df052424712c
+2024-02-07,26,En mieux,PLK,68,180933,album,21,2024-01-25,True,https://i.scdn.co/image/ab67616d0000b273f23b69bf947e64f8b8e5f303
+2024-02-07,27,La Cour des Miracles,S.Pri Noir,60,190813,album,16,2024-02-02,True,https://i.scdn.co/image/ab67616d0000b2735b5c30a675f20f8f889b02a3
+2024-02-07,28,Under Armour,Zkr,61,193880,album,18,2024-02-02,True,https://i.scdn.co/image/ab67616d0000b273d41c7f573210ae93a3e6e43c
+2024-02-07,29,3 MAI 2025,Ninho,68,166143,single,1,2024-01-31,True,https://i.scdn.co/image/ab67616d0000b27308d10b7e41341b3fe4effaca
+2024-02-07,30,Praise Jah In The Moonlight,YG Marley,88,263040,single,1,2023-12-27,True,https://i.scdn.co/image/ab67616d0000b273672db804db16b0dd95ecf572
+2024-02-07,31,La League,Werenoi,76,173427,single,1,2021-03-03,True,https://i.scdn.co/image/ab67616d0000b27348a9bc2fa970c5dd0484d642
+2024-02-07,32,Strangers,Kenya Grace,96,172964,single,1,2023-09-01,False,https://i.scdn.co/image/ab67616d0000b2734756c2e9ae436437cd75e9f3
+2024-02-07,33,Bolide allemand,SDM,79,176746,album,15,2022-12-02,True,https://i.scdn.co/image/ab67616d0000b273455e89dbf3ce2e6d337be1d0
+2024-02-07,34,Murder On The Dancefloor,Sophie Ellis-Bextor,94,230013,album,15,2002-06-06,False,https://i.scdn.co/image/ab67616d0000b273b736151ed1c04f2d41d5f69e
+2024-02-07,35,Mignon tout plein,PLK,70,144933,album,21,2024-01-25,True,https://i.scdn.co/image/ab67616d0000b273f23b69bf947e64f8b8e5f303
+2024-02-07,36,Gimme Love,Sia,83,177921,single,1,2023-09-13,False,https://i.scdn.co/image/ab67616d0000b2730df5de7712f0db14d84a4f7e
+2024-02-07,37,SEYA,GIMS,62,188484,album,22,2022-12-02,False,https://i.scdn.co/image/ab67616d0000b273e2c2b5235ed7d615ed6cb70a
+2024-02-07,38,Citadelle,Merveille,77,165728,single,1,2023-12-22,False,https://i.scdn.co/image/ab67616d0000b27336209a878e7013179a1a7b8e
+2024-02-07,39,Aucune attache,KeBlack,63,161977,single,1,2024-02-02,False,https://i.scdn.co/image/ab67616d0000b2734554f6ef4b73557ab553bc21
+2024-02-07,40,Périph,PLK,67,168866,album,11,2024-01-18,True,https://i.scdn.co/image/ab67616d0000b2735f47f03829e4df052424712c
+2024-02-07,41,Beautiful Things,Benson Boone,94,180304,single,1,2024-01-18,False,https://i.scdn.co/image/ab67616d0000b273f2a919d3fa0f2b2593c92d19
+2024-02-07,42,CARTIER,Gazo & Tiakola,76,229093,album,12,2023-12-01,True,https://i.scdn.co/image/ab67616d0000b2737dfe25eb478d69089abbaec1
+2024-02-07,43,Parapluie,Jeck,74,176125,single,1,2023-08-25,False,https://i.scdn.co/image/ab67616d0000b27375c37bf1155cbeec4cee9a65
+2024-02-07,44,Bécane - A COLORS SHOW,Yamê,87,182440,single,1,2023-06-01,True,https://i.scdn.co/image/ab67616d0000b2737dfba3f3ae607f250cdd969c
+2024-02-07,45,Avec classe (feat. Aya Nakamura & Trinix),Corneille & Aya Nakamura & Trinix,64,186071,single,1,2024-02-02,False,https://i.scdn.co/image/ab67616d0000b273bc74132d7dc7929e022a7d4f
+2024-02-07,46,Cruel Summer,Taylor Swift,99,178426,album,18,2019-08-23,False,https://i.scdn.co/image/ab67616d0000b273e787cffec20aa2a396a61647
+2024-02-07,47,When We Were Young (The Logical Song),David Guetta & Kim Petras,87,147432,single,2,2023-11-10,False,https://i.scdn.co/image/ab67616d0000b273c8e153557024fd571a5a83d6
+2024-02-07,48,Chouchou,PLK,62,172080,album,31,2024-02-01,True,https://i.scdn.co/image/ab67616d0000b273478b7d68b5755066144886e5
+2024-02-07,49,Solitaire,Werenoi,75,146440,album,14,2022-10-28,True,https://i.scdn.co/image/ab67616d0000b27311b232781481f23f659ba798
+2024-02-07,50,"yes, and?",Ariana Grande,97,214994,single,1,2024-01-12,True,https://i.scdn.co/image/ab67616d0000b2736b0b6e20fdb1ee07de7e92d6
