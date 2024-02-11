@@ -13449,3 +13449,53 @@ date,position,song,artist,popularity,duration_ms,album_type,total_tracks,release
 2024-02-10,48,VDLC,Sfera Ebbasta,77,198260,album,12,2023-11-17,True,https://i.scdn.co/image/ab67616d0000b2733c0eada9fb45ba9d43116f1d
 2024-02-10,49,2minuti,Calcutta ,76,214291,album,11,2023-10-20,False,https://i.scdn.co/image/ab67616d0000b2738acaa7da2fb43a4038d962c6
 2024-02-10,50,Cadillac (feat. Artie 5ive),Boro,63,155526,album,15,2024-01-18,True,https://i.scdn.co/image/ab67616d0000b2731e6eb8c549a0e29c37704804
+2024-02-11,1,"I P’ ME, TU P’ TE",Geolier,81,187881,single,1,2024-02-07,False,https://i.scdn.co/image/ab67616d0000b2736160e0b4c4bb1bd00add6c60
+2024-02-11,2,TUTA GOLD,Mahmood,80,178467,single,1,2024-02-07,False,https://i.scdn.co/image/ab67616d0000b27322aa3408a990edf3bdabd676
+2024-02-11,3,Sinceramente,Annalisa,22,215714,album,13,2023-09-29,False,https://i.scdn.co/image/ab67616d0000b27396face79e18d6dc76951678d
+2024-02-11,4,La noia,Angelina Mango,78,189124,single,1,2024-02-07,False,https://i.scdn.co/image/ab67616d0000b2734048a22d11b5873fe7c56dc4
+2024-02-11,5,Tu No,Irama,77,215608,single,1,2024-02-07,False,https://i.scdn.co/image/ab67616d0000b273b746477be227e64ad02c894b
+2024-02-11,6,Casa Mia,Ghali,75,210541,single,1,2024-02-07,False,https://i.scdn.co/image/ab67616d0000b273933392412e7443f3a4cb2775
+2024-02-11,7,Tutto Qui,Gazzelle,76,211783,single,1,2024-02-07,False,https://i.scdn.co/image/ab67616d0000b2736050d18ee430aeb069589a27
+2024-02-11,8,UN RAGAZZO UNA RAGAZZA,The Kolors,75,217031,single,1,2024-02-07,False,https://i.scdn.co/image/ab67616d0000b2730f678541a1b613a82476db58
+2024-02-11,9,CLICK BOOM!,Rose Villain,73,225561,single,1,2024-02-07,False,https://i.scdn.co/image/ab67616d0000b273eaab7c686146f0d53f233139
+2024-02-11,10,FRAGILI,Il Tre,15,189193,album,13,2023-09-15,False,https://i.scdn.co/image/ab67616d0000b27348c1b2ca5d9fe727b8b0c778
+2024-02-11,11,Onda Alta,Dargen D'Amico,48,214556,album,13,2024-02-02,True,https://i.scdn.co/image/ab67616d0000b27310e29a478b208591af7bf65e
+2024-02-11,12,APNEA,Emma,50,180923,album,10,2023-10-12,False,https://i.scdn.co/image/ab67616d0000b2732ce7ce07b8f04f471ff5c34f
+2024-02-11,13,Pazza,Loredana Bertè,14,168166,album,52,2024-02-06,False,https://i.scdn.co/image/ab67616d0000b27352544f0ea37aeacc394451b1
+2024-02-11,14,DUE ALTALENE,Mr.Rain,74,197142,single,1,2024-02-07,False,https://i.scdn.co/image/ab67616d0000b2734428a259fc2fcc5e105deafa
+2024-02-11,15,AUTODISTRUTTIVO,LA SAD,73,189494,single,1,2024-02-07,False,https://i.scdn.co/image/ab67616d0000b2734630d4228903642e74d901ee
+2024-02-11,16,Vai!,Alfa,73,156923,single,1,2024-02-07,False,https://i.scdn.co/image/ab67616d0000b273aa93c622eb3c16e46bceeb88
+2024-02-11,17,DIAMANTI GREZZI,CLARA,72,192120,single,1,2024-02-07,False,https://i.scdn.co/image/ab67616d0000b273775c7d60cf2c38c3fd137a02
+2024-02-11,18,Fino a qui,Alessandra Amoroso,73,232309,single,1,2024-02-07,False,https://i.scdn.co/image/ab67616d0000b2732b928b0cd38a8e48db4ef39d
+2024-02-11,19,GOVERNO PUNK,bnkr44,70,205312,single,1,2024-02-07,False,https://i.scdn.co/image/ab67616d0000b273bde089de4e4adb5c72d72947
+2024-02-11,20,Ti muovi,Diodato,71,186387,single,1,2024-02-07,False,https://i.scdn.co/image/ab67616d0000b273ee9f72a6ae4afb26123dfd28
+2024-02-11,21,Ricominciamo tutto,Negramaro,71,232800,single,1,2024-02-07,True,https://i.scdn.co/image/ab67616d0000b2732aede93810d7ee920c897305
+2024-02-11,22,finiscimi,sangiovanni,70,191629,single,1,2024-02-07,True,https://i.scdn.co/image/ab67616d0000b273212603ba74a0d7c2e2e232b4
+2024-02-11,23,Ma non tutta la vita,Ricchi E Poveri,69,190800,single,1,2024-02-07,False,https://i.scdn.co/image/ab67616d0000b2732b1a77d72d25eddcb2fe5999
+2024-02-11,24,l'amore in bocca,SANTI FRANCESI,69,172050,single,1,2024-02-07,False,https://i.scdn.co/image/ab67616d0000b273adc7dafdbf6d12d80bdd0e93
+2024-02-11,25,IL CIELO NON CI VUOLE,Fred De Palma,70,172727,single,1,2024-02-07,False,https://i.scdn.co/image/ab67616d0000b273bf7a4650d78eade432ca1ddc
+2024-02-11,26,Capolavoro,Il Volo,70,198421,single,1,2024-02-07,False,https://i.scdn.co/image/ab67616d0000b27312c2812e7f956d7488f70336
+2024-02-11,27,Mariposa,Fiorella Mannoia,69,177947,single,1,2024-02-07,False,https://i.scdn.co/image/ab67616d0000b27300ecc02d7761e670b735f2a1
+2024-02-11,28,La rabbia non ti basta,BigMama,69,189406,single,1,2024-02-07,False,https://i.scdn.co/image/ab67616d0000b273c14ef4540d1f6c6d14df07c2
+2024-02-11,29,SPETTACOLARE,Maninni,12,173974,album,9,2024-02-09,False,https://i.scdn.co/image/ab67616d0000b27342e10bb591aba4f0ecb7f2c1
+2024-02-11,30,Calcolatrici,Sfera Ebbasta,81,205524,album,12,2023-11-17,True,https://i.scdn.co/image/ab67616d0000b2733c0eada9fb45ba9d43116f1d
+2024-02-11,31,Pazzo di te,Renga Nek & Francesco Renga & Nek,7,177692,album,12,2023-09-08,False,https://i.scdn.co/image/ab67616d0000b273f898c8f6f220601d15fb4b4f
+2024-02-11,32,COME VUOI,Geolier,77,172615,album,18,2023-01-06,True,https://i.scdn.co/image/ab67616d0000b273a43bc8d38cdecdb7a71b34a6
+2024-02-11,33,Petit Fou Fou (feat. ANNA),Rhove & ANNA,78,113737,single,1,2023-12-14,False,https://i.scdn.co/image/ab67616d0000b2738c38271d64795fa363a316b1
+2024-02-11,34,15 Piani,Sfera Ebbasta,80,206896,album,12,2023-11-17,True,https://i.scdn.co/image/ab67616d0000b2733c0eada9fb45ba9d43116f1d
+2024-02-11,35,TUNNEL,Simba La Rue,77,144864,album,16,2024-01-05,True,https://i.scdn.co/image/ab67616d0000b2734bdb43ea178af0eb7172c3fa
+2024-02-11,36,"EVERYDAY (feat. Shiva, ANNA, Geolier)",Takagi & Ketra & Shiva & ANNA,79,190188,single,1,2023-10-13,False,https://i.scdn.co/image/ab67616d0000b273051b11234993ada0abf29f23
+2024-02-11,37,Moneylove (feat. Emis Killa),Massimo Pericolo,79,172538,album,16,2023-12-01,False,https://i.scdn.co/image/ab67616d0000b2735f6fb9109b83fb4f425b3eaf
+2024-02-11,38,Anche Stasera,Sfera Ebbasta,78,217500,album,12,2023-11-17,True,https://i.scdn.co/image/ab67616d0000b2733c0eada9fb45ba9d43116f1d
+2024-02-11,39,MOON (feat. Capo Plaza & Tony Boy),AVA & Capo Plaza & Tony Boy,75,186126,single,1,2024-01-25,True,https://i.scdn.co/image/ab67616d0000b2736016f069970dc30604d3ccfd
+2024-02-11,40,Kiss You (F**k You) [feat. Geolier],Yung Snapp,76,207400,album,13,2023-09-01,True,https://i.scdn.co/image/ab67616d0000b27384b6c5945855de62c43edfea
+2024-02-11,41,BOULEVARD,Artie 5ive & Rondodasosa,74,160258,album,17,2023-12-08,True,https://i.scdn.co/image/ab67616d0000b2737edeea8e2bc619349426ad5f
+2024-02-11,42,Baby Mama,Don Pero,75,151160,single,1,2022-10-27,True,https://i.scdn.co/image/ab67616d0000b2731f5185de4c80542dc1d79e8e
+2024-02-11,43,ROSSOFUOCO,Mida,77,162684,single,1,2023-11-07,False,https://i.scdn.co/image/ab67616d0000b273b2c9fe05d87c743d734c53f1
+2024-02-11,44,IL MALE CHE MI FAI (feat. Marracash),Geolier,74,167339,album,24,2023-04-07,False,https://i.scdn.co/image/ab67616d0000b273afd999e92d692ad962b9c556
+2024-02-11,45,Fantasmi (feat. Geolier),Rose Villain,72,133266,album,14,2023-01-20,False,https://i.scdn.co/image/ab67616d0000b273888812bbfaa3731daaecee44
+2024-02-11,46,Che t'o dico a fa',Angelina Mango,72,187742,single,1,2023-10-06,False,https://i.scdn.co/image/ab67616d0000b2730cc84c5ed4cc5e28041d3cbc
+2024-02-11,47,Paradiso Artificiale (feat. Baby Gang & Kid Yugi),Tedua,75,162411,album,16,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b273e8a27e7c2f439b53567c7496
+2024-02-11,48,Milly (feat. Sfera Ebbasta),Club Dogo,77,185041,album,11,2024-01-12,True,https://i.scdn.co/image/ab67616d0000b2733e0cbdae59528c0c60903e90
+2024-02-11,49,Nato Per Questo (feat. Marracash),Club Dogo,77,226732,album,11,2024-01-12,True,https://i.scdn.co/image/ab67616d0000b2733e0cbdae59528c0c60903e90
+2024-02-11,50,VDLC,Sfera Ebbasta,77,198260,album,12,2023-11-17,True,https://i.scdn.co/image/ab67616d0000b2733c0eada9fb45ba9d43116f1d
