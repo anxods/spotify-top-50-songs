@@ -14049,3 +14049,53 @@ date,position,song,artist,popularity,duration_ms,album_type,total_tracks,release
 2024-02-22,48,Lovers Rock,TV Girl,91,213920,album,12,2014-06-05,False,https://i.scdn.co/image/ab67616d0000b273e1bc1af856b42dd7fdba9f84
 2024-02-22,49,Paint The Town Red,Doja Cat,87,230480,album,15,2023-09-20,True,https://i.scdn.co/image/ab67616d0000b273a840032f14ab22da396e43cb
 2024-02-22,50,Heading South,Zach Bryan,88,171692,single,1,2019-09-30,True,https://i.scdn.co/image/ab67616d0000b273f9017bcd001d030d46850226
+2024-02-23,1,CARNIVAL,¥$ & Kanye West & Ty Dolla $ign,88,264324,album,16,2024-02-09,True,https://i.scdn.co/image/ab67616d0000b2730a31b4026a452ae8c3f97a76
+2024-02-23,2,TEXAS HOLD 'EM,Beyoncé,77,235636,single,3,2024-02-10,True,https://i.scdn.co/image/ab67616d0000b2736c1836a40380c147eab9c98f
+2024-02-23,3,Beautiful Things,Benson Boone,98,180304,single,1,2024-01-18,False,https://i.scdn.co/image/ab67616d0000b273f2a919d3fa0f2b2593c92d19
+2024-02-23,4,Stick Season,Noah Kahan,98,182346,album,14,2022-10-14,False,https://i.scdn.co/image/ab67616d0000b2736ee35072df1af802cca09918
+2024-02-23,5,redrum,21 Savage,97,270697,album,15,2024-01-12,True,https://i.scdn.co/image/ab67616d0000b273bbdceba2bf1867d4966d0347
+2024-02-23,6,I Remember Everything (feat. Kacey Musgraves),Zach Bryan,94,227195,album,16,2023-08-25,False,https://i.scdn.co/image/ab67616d0000b273e5a25ed08d1e7e0fbb440cef
+2024-02-23,7,End of Beginning,Djo,84,159245,album,13,2022-09-16,False,https://i.scdn.co/image/ab67616d0000b273fddfffec51b4580acae727c1
+2024-02-23,8,Lovin On Me,Jack Harlow,99,138411,single,1,2023-11-10,True,https://i.scdn.co/image/ab67616d0000b273fcf4adae77baba5d0169e8e8
+2024-02-23,9,Lose Control,Teddy Swims,94,210688,album,10,2023-09-15,False,https://i.scdn.co/image/ab67616d0000b2731a0323cc23419360a34a3ace
+2024-02-23,10,Never Lose Me,Flo Milli,93,125901,single,1,2023-11-30,True,https://i.scdn.co/image/ab67616d0000b2736a17369515a43d96fb18d193
+2024-02-23,11,La Diabla,Xavi,99,172264,single,1,2023-11-30,False,https://i.scdn.co/image/ab67616d0000b2731501c770de50a22b25d67611
+2024-02-23,12,My Love Mine All Mine,Mitski,99,137773,album,11,2023-09-15,False,https://i.scdn.co/image/ab67616d0000b27334f21d3047d85440dfa37f10
+2024-02-23,13,Cruel Summer,Taylor Swift,99,178426,album,18,2019-08-23,False,https://i.scdn.co/image/ab67616d0000b273e787cffec20aa2a396a61647
+2024-02-23,14,greedy,Tate McRae,100,131872,single,1,2023-09-15,True,https://i.scdn.co/image/ab67616d0000b27322fd802bc61db666c7c81aa8
+2024-02-23,15,Breathe,Yeat,78,170847,album,22,2024-02-16,True,https://i.scdn.co/image/ab67616d0000b2739567b80f50a5b9f0178ae993
+2024-02-23,16,ONE CALL,Rich Amiri,86,121399,album,14,2023-11-17,True,https://i.scdn.co/image/ab67616d0000b2732c2ada65af543cc22f7676d2
+2024-02-23,17,500lbs,Lil Tecca,88,144390,album,16,2023-09-22,True,https://i.scdn.co/image/ab67616d0000b273c4e6adea69105e6b6e214b96
+2024-02-23,18,Snooze,SZA,94,201800,album,23,2022-12-09,True,https://i.scdn.co/image/ab67616d0000b27370dbc9f47669d120ad874ec1
+2024-02-23,19,BURN,¥$ & Kanye West & Ty Dolla $ign,84,111458,album,16,2024-02-09,True,https://i.scdn.co/image/ab67616d0000b2730a31b4026a452ae8c3f97a76
+2024-02-23,20,Something in the Orange,Zach Bryan,91,228013,single,4,2022-04-22,False,https://i.scdn.co/image/ab67616d0000b273b2b6670e3aca9bcd55fbabbb
+2024-02-23,21,Last Night,Morgan Wallen,87,163854,album,36,2023-03-03,True,https://i.scdn.co/image/ab67616d0000b273705079df9a25a28b452c1fc9
+2024-02-23,22,Whatever She Wants,Bryson Tiller,79,161342,single,1,2024-02-13,True,https://i.scdn.co/image/ab67616d0000b2731aba7b448d35bd576ceac182
+2024-02-23,23,Praise Jah In The Moonlight,YG Marley,94,263040,single,1,2023-12-27,True,https://i.scdn.co/image/ab67616d0000b273672db804db16b0dd95ecf572
+2024-02-23,24,Feather,Sabrina Carpenter,93,185552,album,17,2023-03-17,True,https://i.scdn.co/image/ab67616d0000b2730f45623be014a592a5815827
+2024-02-23,25,Rich Baby Daddy (feat. Sexyy Red & SZA),Drake,93,319191,album,23,2023-10-06,True,https://i.scdn.co/image/ab67616d0000b2737d384516b23347e92a587ed1
+2024-02-23,26,La Víctima,Xavi,96,156345,single,1,2023-08-17,True,https://i.scdn.co/image/ab67616d0000b2730e8dc9720dd03d86627fa54b
+2024-02-23,27,Surround Sound (feat. 21 Savage & Baby Tate),JID,94,229938,album,16,2022-10-31,True,https://i.scdn.co/image/ab67616d0000b273cae6e44dcc84e2035c3ad092
+2024-02-23,28,FE!N (feat. Playboi Carti),Travis Scott,93,191700,album,19,2023-07-28,True,https://i.scdn.co/image/ab67616d0000b273881d8d8378cd01099babcd44
+2024-02-23,29,"One Of The Girls (with JENNIE, Lily Rose Depp)",The Weeknd,80,244684,album,36,2024-02-09,False,https://i.scdn.co/image/ab67616d0000b273c87bfeef81a210ddb7f717b5
+2024-02-23,30,Father Stretch My Hands Pt. 1,Kanye West,91,135920,album,20,2016-06-10,True,https://i.scdn.co/image/ab67616d0000b2732a7db835b912dc5014bd37f4
+2024-02-23,31,I KNOW ?,Travis Scott,93,211582,album,19,2023-07-28,True,https://i.scdn.co/image/ab67616d0000b273881d8d8378cd01099babcd44
+2024-02-23,32,Training Season,Dua Lipa,87,209487,single,4,2024-02-15,False,https://i.scdn.co/image/ab67616d0000b273790260cc86fd7b2678bb204d
+2024-02-23,33,Home,Good Neighbours,87,157485,single,1,2024-01-17,False,https://i.scdn.co/image/ab67616d0000b27343a1532b43f112f4b1e639c3
+2024-02-23,34,vampire,Olivia Rodrigo,95,219724,album,12,2023-09-08,True,https://i.scdn.co/image/ab67616d0000b273e85259a1cae29a8d91f2093d
+2024-02-23,35,Thinkin’ Bout Me,Morgan Wallen,88,177387,album,36,2023-03-03,False,https://i.scdn.co/image/ab67616d0000b273705079df9a25a28b452c1fc9
+2024-02-23,36,IDGAF (feat. Yeat),Drake,92,260111,album,23,2023-10-06,True,https://i.scdn.co/image/ab67616d0000b2737d384516b23347e92a587ed1
+2024-02-23,37,Bandit,Don Toliver,87,147746,single,1,2024-02-01,True,https://i.scdn.co/image/ab67616d0000b273a149905378aeccdfcc04aa80
+2024-02-23,38,FUK SUMN,¥$ & Kanye West & Ty Dolla $ign,83,209577,album,16,2024-02-09,True,https://i.scdn.co/image/ab67616d0000b2730a31b4026a452ae8c3f97a76
+2024-02-23,39,No Role Modelz,J. Cole,91,292799,album,13,2014-12-09,True,https://i.scdn.co/image/ab67616d0000b273c6e0948bbb0681ff29cdbae8
+2024-02-23,40,Heartless,Kanye West,91,211000,album,12,2008-11-24,False,https://i.scdn.co/image/ab67616d0000b273346d77e155d854735410ed18
+2024-02-23,41,Agora Hills,Doja Cat,85,265360,album,15,2023-09-20,True,https://i.scdn.co/image/ab67616d0000b273a840032f14ab22da396e43cb
+2024-02-23,42,You Proof,Morgan Wallen,85,157477,album,36,2023-03-03,False,https://i.scdn.co/image/ab67616d0000b273705079df9a25a28b452c1fc9
+2024-02-23,43,act ii: date @ 8,4batz,89,113684,single,1,2023-12-15,True,https://i.scdn.co/image/ab67616d0000b273aa22e6a9258dcc425a4a5019
+2024-02-23,44,Heading South,Zach Bryan,88,171692,single,1,2019-09-30,True,https://i.scdn.co/image/ab67616d0000b273f9017bcd001d030d46850226
+2024-02-23,45,Fast Car,Luke Combs,89,265493,album,18,2023-03-24,False,https://i.scdn.co/image/ab67616d0000b273ca650d3a95022e0490434ba1
+2024-02-23,46,Pink + White,Frank Ocean,92,184516,album,17,2016-08-20,False,https://i.scdn.co/image/ab67616d0000b273c5649add07ed3720be9d5526
+2024-02-23,47,Popular (with Playboi Carti & Madonna),The Weeknd,81,215466,album,36,2024-02-09,True,https://i.scdn.co/image/ab67616d0000b273c87bfeef81a210ddb7f717b5
+2024-02-23,48,First Person Shooter (feat. J. Cole),Drake,89,247444,album,23,2023-10-06,True,https://i.scdn.co/image/ab67616d0000b2737d384516b23347e92a587ed1
+2024-02-23,49,Paint The Town Red,Doja Cat,87,230480,album,15,2023-09-20,True,https://i.scdn.co/image/ab67616d0000b273a840032f14ab22da396e43cb
+2024-02-23,50,Lovers Rock,TV Girl,91,213920,album,12,2014-06-05,False,https://i.scdn.co/image/ab67616d0000b273e1bc1af856b42dd7fdba9f84
