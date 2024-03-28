@@ -15649,3 +15649,53 @@ date,position,song,artist,popularity,duration_ms,album_type,total_tracks,release
 2024-03-27,48,the boy is mine,Ariana Grande,89,173639,album,13,2024-03-08,True,https://i.scdn.co/image/ab67616d0000b2738b58d20f1b77295730db15b4
 2024-03-27,49,Viva La Vida,Coldplay,88,242373,album,10,2008-05-26,False,https://i.scdn.co/image/ab67616d0000b273e21cc1db05580b6f2d2a3b6e
 2024-03-27,50,Feather,Sabrina Carpenter,91,185552,album,17,2023-03-17,True,https://i.scdn.co/image/ab67616d0000b2730f45623be014a592a5815827
+2024-03-28,1,Beautiful Things,Benson Boone,100,180304,single,1,2024-01-18,False,https://i.scdn.co/image/ab67616d0000b273f2a919d3fa0f2b2593c92d19
+2024-03-28,2,End of Beginning,Djo,98,159245,album,13,2022-09-16,False,https://i.scdn.co/image/ab67616d0000b273fddfffec51b4580acae727c1
+2024-03-28,3,Stick Season,Noah Kahan,95,182346,album,14,2022-10-14,False,https://i.scdn.co/image/ab67616d0000b2736ee35072df1af802cca09918
+2024-03-28,4,we can't be friends (wait for your love),Ariana Grande,94,228639,album,13,2024-03-08,False,https://i.scdn.co/image/ab67616d0000b2738b58d20f1b77295730db15b4
+2024-03-28,5,Lose Control,Teddy Swims,93,210688,album,10,2023-09-15,False,https://i.scdn.co/image/ab67616d0000b2731a0323cc23419360a34a3ace
+2024-03-28,6,Like That,Future & Metro Boomin,89,267706,album,17,2024-03-22,True,https://i.scdn.co/image/ab67616d0000b273a46b07c291e6dfdee13b3ee8
+2024-03-28,7,TEXAS HOLD 'EM,Beyoncé,86,235636,single,3,2024-02-10,True,https://i.scdn.co/image/ab67616d0000b2736c1836a40380c147eab9c98f
+2024-03-28,8,Too Sweet,Hozier,84,251424,single,4,2024-03-22,False,https://i.scdn.co/image/ab67616d0000b273a5aab55aa65e5f6bd19564a2
+2024-03-28,9,greedy,Tate McRae,97,131872,single,1,2023-09-15,True,https://i.scdn.co/image/ab67616d0000b27322fd802bc61db666c7c81aa8
+2024-03-28,10,Scared To Start,Michael Marcagi,90,159636,single,1,2024-01-12,False,https://i.scdn.co/image/ab67616d0000b27351ef67c49732e45cd2b26fbe
+2024-03-28,11,i like the way you kiss me,Artemas,85,142514,single,1,2024-03-19,False,https://i.scdn.co/image/ab67616d0000b273e67611dbbf69a90d0b6cb738
+2024-03-28,12,CARNIVAL,¥$ & Kanye West & Ty Dolla $ign,97,264324,album,16,2024-02-09,True,https://i.scdn.co/image/ab67616d0000b2730a31b4026a452ae8c3f97a76
+2024-03-28,13,Prada,cassö & RAYE & D-Block Europe,90,132359,single,1,2023-08-11,True,https://i.scdn.co/image/ab67616d0000b273e4b7dccdfd54375ded9ccc5c
+2024-03-28,14,obsessed,Olivia Rodrigo,84,170541,album,17,2024-03-22,True,https://i.scdn.co/image/ab67616d0000b2734063d624ebf8ff67bc3701ee
+2024-03-28,15,Cruel Summer,Taylor Swift,97,178426,album,18,2019-08-23,False,https://i.scdn.co/image/ab67616d0000b273e787cffec20aa2a396a61647
+2024-03-28,16,Lovin On Me,Jack Harlow,94,138411,single,1,2023-11-10,True,https://i.scdn.co/image/ab67616d0000b273fcf4adae77baba5d0169e8e8
+2024-03-28,17,Unwritten,Natasha Bedingfield,92,259333,album,14,2004-08-30,False,https://i.scdn.co/image/ab67616d0000b273b337e1ca6629a53c66a3b0d4
+2024-03-28,18,Training Season,Dua Lipa,91,209487,single,4,2024-02-15,False,https://i.scdn.co/image/ab67616d0000b273790260cc86fd7b2678bb204d
+2024-03-28,19,Whatever She Wants,Bryson Tiller,90,161342,single,1,2024-02-13,True,https://i.scdn.co/image/ab67616d0000b2731aba7b448d35bd576ceac182
+2024-03-28,20,Austin,Dasha,66,171782,album,8,2024-02-16,True,https://i.scdn.co/image/ab67616d0000b273b345fdf20256c09c8c6f20c4
+2024-03-28,21,Alibi (feat. Rudimental),Ella Henderson & Rudimental,81,184852,single,1,2024-01-12,False,https://i.scdn.co/image/ab67616d0000b2739e3b2d14dee8000a862c941e
+2024-03-28,22,"yes, and?",Ariana Grande,86,214994,album,13,2024-03-08,True,https://i.scdn.co/image/ab67616d0000b2738b58d20f1b77295730db15b4
+2024-03-28,23,Praise Jah In The Moonlight,YG Marley,92,263040,single,1,2023-12-27,True,https://i.scdn.co/image/ab67616d0000b273a330a92ad6f386a3b1b2b9a2
+2024-03-28,24,Murder On The Dancefloor,Sophie Ellis-Bextor,90,230013,album,15,2002-06-06,False,https://i.scdn.co/image/ab67616d0000b273b736151ed1c04f2d41d5f69e
+2024-03-28,25,Water,Tyla,92,200255,single,1,2023-07-28,False,https://i.scdn.co/image/ab67616d0000b273d20231861e86a6f74ef2393e
+2024-03-28,26,Houdini,Dua Lipa,92,185917,single,1,2023-11-09,False,https://i.scdn.co/image/ab67616d0000b273001d5706fddc72561f6488af
+2024-03-28,27,Home,Good Neighbours,89,157485,single,1,2024-01-17,False,https://i.scdn.co/image/ab67616d0000b27343a1532b43f112f4b1e639c3
+2024-03-28,28,Evergreen,Richy Mitch & The Coal Miners,89,87000,album,14,2017-05-17,False,https://i.scdn.co/image/ab67616d0000b2731cc17bae5ee17cce117e198a
+2024-03-28,29,vampire,Olivia Rodrigo,91,219724,album,12,2023-09-08,True,https://i.scdn.co/image/ab67616d0000b273e85259a1cae29a8d91f2093d
+2024-03-28,30,Whatever,Kygo & Ava Max,89,178273,single,1,2024-01-19,False,https://i.scdn.co/image/ab67616d0000b2734d914470ab899815f103f5cc
+2024-03-28,31,Type Shit,Future & Metro Boomin,86,228266,album,17,2024-03-22,True,https://i.scdn.co/image/ab67616d0000b273a46b07c291e6dfdee13b3ee8
+2024-03-28,32,I Remember Everything (feat. Kacey Musgraves),Zach Bryan,91,227195,album,16,2023-08-25,False,https://i.scdn.co/image/ab67616d0000b273e5a25ed08d1e7e0fbb440cef
+2024-03-28,33,Mr. Brightside,The Killers,87,222973,album,12,2004,False,https://i.scdn.co/image/ab67616d0000b273ccdddd46119a4ff53eaf1f5d
+2024-03-28,34,Saturn,SZA,92,186191,single,5,2024-02-22,False,https://i.scdn.co/image/ab67616d0000b273d70916ee9e40c90380ba5f07
+2024-03-28,35,Cinderella,Future & Metro Boomin,85,169840,album,17,2024-03-22,True,https://i.scdn.co/image/ab67616d0000b273a46b07c291e6dfdee13b3ee8
+2024-03-28,36,My Love Mine All Mine,Mitski,95,137773,album,11,2023-09-15,False,https://i.scdn.co/image/ab67616d0000b27334f21d3047d85440dfa37f10
+2024-03-28,37,The Night We Met,Lord Huron,80,208211,album,14,2015-04-07,False,https://i.scdn.co/image/ab67616d0000b2739d2efe43d5b7ebc7cb60ca81
+2024-03-28,38,redrum,21 Savage,94,270697,album,15,2024-01-12,True,https://i.scdn.co/image/ab67616d0000b273bbdceba2bf1867d4966d0347
+2024-03-28,39,Strangers,Kenya Grace,56,172964,album,9,2024-03-21,False,https://i.scdn.co/image/ab67616d0000b273c8c83584db97f61b0ee3b5d6
+2024-03-28,40,bye,Ariana Grande,88,164927,album,13,2024-03-08,False,https://i.scdn.co/image/ab67616d0000b2738b58d20f1b77295730db15b4
+2024-03-28,41,Back On 74,Jungle,83,209482,album,14,2023-08-11,False,https://i.scdn.co/image/ab67616d0000b27377619f14cb03e11baf5761d1
+2024-03-28,42,Iris,The Goo Goo Dolls,87,289533,album,13,1998-09-11,False,https://i.scdn.co/image/ab67616d0000b273eda9478c39a21e1cdc6609ca
+2024-03-28,43,so american,Olivia Rodrigo,80,169717,album,17,2024-03-22,True,https://i.scdn.co/image/ab67616d0000b2734063d624ebf8ff67bc3701ee
+2024-03-28,44,Viva La Vida,Coldplay,88,242373,album,10,2008-05-26,False,https://i.scdn.co/image/ab67616d0000b273e21cc1db05580b6f2d2a3b6e
+2024-03-28,45,One Dance,Drake,89,173986,album,20,2016-05-06,False,https://i.scdn.co/image/ab67616d0000b2739416ed64daf84936d89e671c
+2024-03-28,46,Feather,Sabrina Carpenter,91,185552,album,17,2023-03-17,True,https://i.scdn.co/image/ab67616d0000b2730f45623be014a592a5815827
+2024-03-28,47,FE!N (feat. Playboi Carti),Travis Scott,92,191700,album,19,2023-07-28,True,https://i.scdn.co/image/ab67616d0000b273881d8d8378cd01099babcd44
+2024-03-28,48,leavemealone,Fred again..,75,222784,album,11,2022-01-18,True,https://i.scdn.co/image/ab67616d0000b273caa718aa1278c4016a17bc05
+2024-03-28,49,the boy is mine,Ariana Grande,89,173639,album,13,2024-03-08,True,https://i.scdn.co/image/ab67616d0000b2738b58d20f1b77295730db15b4
+2024-03-28,50,Birds In The Sky,NewEra,71,133548,single,1,2023-12-08,False,https://i.scdn.co/image/ab67616d0000b273308a348db7c25d07b1654abb
