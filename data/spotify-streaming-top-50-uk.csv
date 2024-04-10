@@ -16299,3 +16299,53 @@ date,position,song,artist,popularity,duration_ms,album_type,total_tracks,release
 2024-04-09,48,Feather,Sabrina Carpenter,90,185552,album,17,2023-03-17,True,https://i.scdn.co/image/ab67616d0000b2730f45623be014a592a5815827
 2024-04-09,49,BODYGUARD,Beyoncé,84,240254,album,27,2024-03-29,True,https://i.scdn.co/image/ab67616d0000b2731572698fff8a1db257a53599
 2024-04-09,50,"What Was I Made For? [From The Motion Picture ""Barbie""]",Billie Eilish,91,222369,single,1,2023-07-13,False,https://i.scdn.co/image/ab67616d0000b273ed317ec13d3de9e01fb99c9e
+2024-04-10,1,Too Sweet,Hozier,82,251424,album,20,2024-03-22,False,https://i.scdn.co/image/ab67616d0000b2732e8b4358d044b75807e30bf0
+2024-04-10,2,i like the way you kiss me,Artemas,95,142514,single,1,2024-03-19,False,https://i.scdn.co/image/ab67616d0000b273e67611dbbf69a90d0b6cb738
+2024-04-10,3,Stick Season,Noah Kahan,94,182346,album,14,2022-10-14,False,https://i.scdn.co/image/ab67616d0000b2736ee35072df1af802cca09918
+2024-04-10,4,Beautiful Things,Benson Boone,74,180304,album,15,2024-04-05,False,https://i.scdn.co/image/ab67616d0000b273cc04ff3e70e146ba9abacf40
+2024-04-10,5,End of Beginning,Djo,98,159245,album,13,2022-09-16,False,https://i.scdn.co/image/ab67616d0000b273fddfffec51b4580acae727c1
+2024-04-10,6,Lose Control,Teddy Swims,93,210688,album,10,2023-09-15,False,https://i.scdn.co/image/ab67616d0000b2731a0323cc23419360a34a3ace
+2024-04-10,7,TEXAS HOLD 'EM,Beyoncé,85,233456,album,27,2024-03-29,True,https://i.scdn.co/image/ab67616d0000b2731572698fff8a1db257a53599
+2024-04-10,8,we can't be friends (wait for your love),Ariana Grande,95,228639,album,13,2024-03-08,False,https://i.scdn.co/image/ab67616d0000b2738b58d20f1b77295730db15b4
+2024-04-10,9,Austin,Dasha,86,171782,album,8,2024-02-16,True,https://i.scdn.co/image/ab67616d0000b273b345fdf20256c09c8c6f20c4
+2024-04-10,10,Scared To Start,Michael Marcagi,91,159636,single,1,2024-01-12,False,https://i.scdn.co/image/ab67616d0000b27351ef67c49732e45cd2b26fbe
+2024-04-10,11,greedy,Tate McRae,96,131872,single,1,2023-09-15,True,https://i.scdn.co/image/ab67616d0000b27322fd802bc61db666c7c81aa8
+2024-04-10,12,Like That,Future & Metro Boomin,95,267706,album,17,2024-03-22,True,https://i.scdn.co/image/ab67616d0000b273a46b07c291e6dfdee13b3ee8
+2024-04-10,13,Prada,cassö & RAYE & D-Block Europe,89,132359,single,1,2023-08-11,True,https://i.scdn.co/image/ab67616d0000b273e4b7dccdfd54375ded9ccc5c
+2024-04-10,14,Belong Together,Mark Ambor,86,148317,single,1,2024-02-16,False,https://i.scdn.co/image/ab67616d0000b273ed71b8008aaa879622f8c3b5
+2024-04-10,15,CARNIVAL,¥$ & Kanye West & Ty Dolla $ign,96,264324,album,16,2024-02-09,True,https://i.scdn.co/image/ab67616d0000b2730a31b4026a452ae8c3f97a76
+2024-04-10,16,Cruel Summer,Taylor Swift,96,178426,album,18,2019-08-23,False,https://i.scdn.co/image/ab67616d0000b273e787cffec20aa2a396a61647
+2024-04-10,17,Unwritten,Natasha Bedingfield,92,259333,album,14,2004-08-30,False,https://i.scdn.co/image/ab67616d0000b273b337e1ca6629a53c66a3b0d4
+2024-04-10,18,Alibi (feat. Rudimental),Ella Henderson & Rudimental,82,184852,single,1,2024-01-12,False,https://i.scdn.co/image/ab67616d0000b2739e3b2d14dee8000a862c941e
+2024-04-10,19,Home,Good Neighbours,89,157485,single,1,2024-01-17,False,https://i.scdn.co/image/ab67616d0000b27343a1532b43f112f4b1e639c3
+2024-04-10,20,Training Season,Dua Lipa,91,209487,single,4,2024-02-15,False,https://i.scdn.co/image/ab67616d0000b273790260cc86fd7b2678bb204d
+2024-04-10,21,Lovin On Me,Jack Harlow,93,138411,single,1,2023-11-10,True,https://i.scdn.co/image/ab67616d0000b273fcf4adae77baba5d0169e8e8
+2024-04-10,22,obsessed,Olivia Rodrigo,88,170541,album,17,2024-03-22,True,https://i.scdn.co/image/ab67616d0000b2734063d624ebf8ff67bc3701ee
+2024-04-10,23,Back On 74,Jungle,85,209482,album,14,2023-08-11,False,https://i.scdn.co/image/ab67616d0000b27377619f14cb03e11baf5761d1
+2024-04-10,24,Saturn,SZA,92,186191,single,5,2024-02-22,False,https://i.scdn.co/image/ab67616d0000b273d70916ee9e40c90380ba5f07
+2024-04-10,25,Houdini,Dua Lipa,92,185917,single,1,2023-11-09,False,https://i.scdn.co/image/ab67616d0000b273001d5706fddc72561f6488af
+2024-04-10,26,Whatever She Wants [BONUS],Bryson Tiller,62,161342,album,19,2024-04-05,True,https://i.scdn.co/image/ab67616d0000b2735b7314bd0c9cab582954878a
+2024-04-10,27,Water,Tyla,91,200255,single,1,2023-07-28,False,https://i.scdn.co/image/ab67616d0000b273d20231861e86a6f74ef2393e
+2024-04-10,28,Evergreen,Richy Mitch & The Coal Miners,89,87000,album,14,2017-05-17,False,https://i.scdn.co/image/ab67616d0000b2731cc17bae5ee17cce117e198a
+2024-04-10,29,Praise Jah In The Moonlight,YG Marley,91,263040,single,1,2023-12-27,True,https://i.scdn.co/image/ab67616d0000b273a330a92ad6f386a3b1b2b9a2
+2024-04-10,30,Slow It Down,Benson Boone,74,161831,album,15,2024-04-05,False,https://i.scdn.co/image/ab67616d0000b273cc04ff3e70e146ba9abacf40
+2024-04-10,31,Mr. Brightside,The Killers,87,222973,album,12,2004,False,https://i.scdn.co/image/ab67616d0000b273ccdddd46119a4ff53eaf1f5d
+2024-04-10,32,Murder On The Dancefloor,Sophie Ellis-Bextor,89,230013,album,15,2002-06-06,False,https://i.scdn.co/image/ab67616d0000b273b736151ed1c04f2d41d5f69e
+2024-04-10,33,Whatever,Kygo & Ava Max,89,178273,single,1,2024-01-19,False,https://i.scdn.co/image/ab67616d0000b2734d914470ab899815f103f5cc
+2024-04-10,34,JOLENE,Beyoncé,71,189638,album,27,2024-03-27,False,https://i.scdn.co/image/ab67616d0000b2734903a9678d5664b9cd9a3fd8
+2024-04-10,35,The Night We Met,Lord Huron,80,208211,album,14,2015-04-07,False,https://i.scdn.co/image/ab67616d0000b2739d2efe43d5b7ebc7cb60ca81
+2024-04-10,36,I Remember Everything (feat. Kacey Musgraves),Zach Bryan,91,227195,album,16,2023-08-25,False,https://i.scdn.co/image/ab67616d0000b273e5a25ed08d1e7e0fbb440cef
+2024-04-10,37,Another Love,Tom Odell,89,244360,album,15,2013-06-24,True,https://i.scdn.co/image/ab67616d0000b2731917a0f3f4152622a040913f
+2024-04-10,38,II MOST WANTED,Beyoncé,73,208521,album,27,2024-03-27,False,https://i.scdn.co/image/ab67616d0000b2734903a9678d5664b9cd9a3fd8
+2024-04-10,39,if u think i'm pretty,Artemas,84,128205,album,13,2024-02-09,True,https://i.scdn.co/image/ab67616d0000b273fabe0943f6dd962a792b42a1
+2024-04-10,40,"yes, and?",Ariana Grande,85,214994,album,13,2024-03-08,True,https://i.scdn.co/image/ab67616d0000b2738b58d20f1b77295730db15b4
+2024-04-10,41,FE!N (feat. Playboi Carti),Travis Scott,92,191700,album,19,2023-07-28,True,https://i.scdn.co/image/ab67616d0000b273881d8d8378cd01099babcd44
+2024-04-10,42,vampire,Olivia Rodrigo,90,219724,album,12,2023-09-08,True,https://i.scdn.co/image/ab67616d0000b273e85259a1cae29a8d91f2093d
+2024-04-10,43,H.Y.B. (feat. Bas & Central Cee),J. Cole,78,234586,album,12,2024-04-05,True,https://i.scdn.co/image/ab67616d0000b273b5e99d6177971707e6cd04f5
+2024-04-10,44,Take Me to Church,Hozier,79,241693,album,15,2014-09-19,False,https://i.scdn.co/image/ab67616d0000b2734ca68d59a4a29c856a4a39c2
+2024-04-10,45,Happier (feat. Clementine Douglas),The Blessed Madonna & Clementine Douglas,74,170358,single,1,2024-02-02,False,https://i.scdn.co/image/ab67616d0000b2735d564f7de772a0675ab893be
+2024-04-10,46,Feather,Sabrina Carpenter,90,185552,album,17,2023-03-17,True,https://i.scdn.co/image/ab67616d0000b2730f45623be014a592a5815827
+2024-04-10,47,My Love Mine All Mine,Mitski,94,137773,album,11,2023-09-15,False,https://i.scdn.co/image/ab67616d0000b27334f21d3047d85440dfa37f10
+2024-04-10,48,redrum,21 Savage,93,270697,album,15,2024-01-12,True,https://i.scdn.co/image/ab67616d0000b273bbdceba2bf1867d4966d0347
+2024-04-10,49,Ain't No Sunshine,Bill Withers,86,125093,album,12,1971-05-01,False,https://i.scdn.co/image/ab67616d0000b273e1e350d06ffebd2e19e047ce
+2024-04-10,50,"What Was I Made For? [From The Motion Picture ""Barbie""]",Billie Eilish,91,222369,single,1,2023-07-13,False,https://i.scdn.co/image/ab67616d0000b273ed317ec13d3de9e01fb99c9e
