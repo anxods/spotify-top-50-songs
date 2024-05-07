@@ -17649,3 +17649,53 @@ date,position,song,artist,popularity,duration_ms,album_type,total_tracks,release
 2024-05-06,48,Houdini,Dua Lipa,69,185917,album,11,2024-05-03,False,https://i.scdn.co/image/ab67616d0000b273361debc2873b3aa493304b6d
 2024-05-06,49,Home,Good Neighbours,88,157485,single,1,2024-01-17,False,https://i.scdn.co/image/ab67616d0000b27343a1532b43f112f4b1e639c3
 2024-05-06,50,Murder On The Dancefloor,Sophie Ellis-Bextor,87,230013,album,15,2002-06-06,False,https://i.scdn.co/image/ab67616d0000b273b736151ed1c04f2d41d5f69e
+2024-05-07,1,Espresso,Sabrina Carpenter,97,175459,single,1,2024-04-12,True,https://i.scdn.co/image/ab67616d0000b273659cd4673230913b3918e0d5
+2024-05-07,2,Too Sweet,Hozier,90,251424,album,20,2024-03-22,False,https://i.scdn.co/image/ab67616d0000b2733e1b212546dac35443735241
+2024-05-07,3,Not Like Us,Kendrick Lamar,79,274192,single,1,2024-05-04,True,https://i.scdn.co/image/ab67616d0000b2731ea0c62b2339cbf493a999ad
+2024-05-07,4,A Bar Song (Tipsy),Shaboozey,92,171291,single,1,2024-04-12,True,https://i.scdn.co/image/ab67616d0000b27380d86d636244b72a3a1eede2
+2024-05-07,5,i like the way you kiss me,Artemas,100,142514,single,1,2024-03-19,False,https://i.scdn.co/image/ab67616d0000b273e67611dbbf69a90d0b6cb738
+2024-05-07,6,Beautiful Things,Benson Boone,89,180304,album,15,2024-04-05,False,https://i.scdn.co/image/ab67616d0000b273cc04ff3e70e146ba9abacf40
+2024-05-07,7,Fortnight (feat. Post Malone),Taylor Swift,95,228965,album,16,2024-04-18,False,https://i.scdn.co/image/ab67616d0000b2735076e4160d018e378f488c33
+2024-05-07,8,Stick Season,Noah Kahan,94,182346,album,14,2022-10-14,False,https://i.scdn.co/image/ab67616d0000b2736ee35072df1af802cca09918
+2024-05-07,9,euphoria,Kendrick Lamar,90,383639,single,1,2024-04-30,True,https://i.scdn.co/image/ab67616d0000b2737587213b1be294ac4000f648
+2024-05-07,10,MILLION DOLLAR BABY,Tommy Richman,88,155151,single,2,2024-04-26,False,https://i.scdn.co/image/ab67616d0000b273ce31aff39a003828576d3930
+2024-05-07,11,Lose Control,Teddy Swims,93,210688,album,10,2023-09-15,False,https://i.scdn.co/image/ab67616d0000b2731a0323cc23419360a34a3ace
+2024-05-07,12,Austin,Dasha,91,171782,album,8,2024-02-16,True,https://i.scdn.co/image/ab67616d0000b2734ccf88b66e04cfd247f287eb
+2024-05-07,13,I Can Do It With a Broken Heart,Taylor Swift,89,218004,album,16,2024-04-18,True,https://i.scdn.co/image/ab67616d0000b2735076e4160d018e378f488c33
+2024-05-07,14,Belong Together,Mark Ambor,92,148317,single,1,2024-02-16,False,https://i.scdn.co/image/ab67616d0000b273ed71b8008aaa879622f8c3b5
+2024-05-07,15,Family Matters,Drake,79,456933,single,1,2024-05-03,True,https://i.scdn.co/image/ab67616d0000b273a0ac23f4b446a7264e67bf0e
+2024-05-07,16,End of Beginning,Djo,98,159245,album,13,2022-09-16,False,https://i.scdn.co/image/ab67616d0000b273fddfffec51b4580acae727c1
+2024-05-07,17,meet the grahams,Kendrick Lamar,72,392138,single,1,2024-05-03,True,https://i.scdn.co/image/ab67616d0000b273ba8b74f6b8523c328be1bdd2
+2024-05-07,18,Scared To Start,Michael Marcagi,91,159636,single,1,2024-01-12,False,https://i.scdn.co/image/ab67616d0000b27351ef67c49732e45cd2b26fbe
+2024-05-07,19,Tell Ur Girlfriend,Lay Bankz,91,124444,single,1,2024-02-07,True,https://i.scdn.co/image/ab67616d0000b273a8dbff429bc95d3af651fe08
+2024-05-07,20,we can't be friends (wait for your love),Ariana Grande,94,228639,album,13,2024-03-08,False,https://i.scdn.co/image/ab67616d0000b2738b58d20f1b77295730db15b4
+2024-05-07,21,Prada,cassö & RAYE & D-Block Europe,89,132359,single,1,2023-08-11,True,https://i.scdn.co/image/ab67616d0000b273e4b7dccdfd54375ded9ccc5c
+2024-05-07,22,TEXAS HOLD 'EM,Beyoncé,86,233456,album,27,2024-03-29,True,https://i.scdn.co/image/ab67616d0000b2731572698fff8a1db257a53599
+2024-05-07,23,Like That,Future & Metro Boomin,95,267706,album,17,2024-03-22,True,https://i.scdn.co/image/ab67616d0000b273a46b07c291e6dfdee13b3ee8
+2024-05-07,24,"Good Luck, Babe!",Chappell Roan,90,218423,single,1,2024-04-05,False,https://i.scdn.co/image/ab67616d0000b27391b4bc7c88d91a42e0f3a8b7
+2024-05-07,25,Down Bad,Taylor Swift,88,261228,album,16,2024-04-18,True,https://i.scdn.co/image/ab67616d0000b2735076e4160d018e378f488c33
+2024-05-07,26,Slow It Down,Benson Boone,88,161831,album,15,2024-04-05,False,https://i.scdn.co/image/ab67616d0000b273cc04ff3e70e146ba9abacf40
+2024-05-07,27,greedy,Tate McRae,95,131872,single,1,2023-09-15,True,https://i.scdn.co/image/ab67616d0000b27322fd802bc61db666c7c81aa8
+2024-05-07,28,Who’s Afraid of Little Old Me?,Taylor Swift,84,334084,album,16,2024-04-18,False,https://i.scdn.co/image/ab67616d0000b2735076e4160d018e378f488c33
+2024-05-07,29,Cruel Summer,Taylor Swift,95,178426,album,18,2019-08-23,False,https://i.scdn.co/image/ab67616d0000b273e787cffec20aa2a396a61647
+2024-05-07,30,"So Long, London",Taylor Swift,86,262974,album,16,2024-04-18,False,https://i.scdn.co/image/ab67616d0000b2735076e4160d018e378f488c33
+2024-05-07,31,These Words,Badger & Natasha Bedingfield,82,136580,single,1,2024-04-05,False,https://i.scdn.co/image/ab67616d0000b27300f75805e619ec91836d28f9
+2024-05-07,32,Illusion,Dua Lipa,71,188143,album,11,2024-05-03,False,https://i.scdn.co/image/ab67616d0000b273361debc2873b3aa493304b6d
+2024-05-07,33,Mr. Brightside,The Killers,87,222973,album,12,2004,False,https://i.scdn.co/image/ab67616d0000b273ccdddd46119a4ff53eaf1f5d
+2024-05-07,34,Saturn,SZA,93,186191,single,5,2024-02-22,False,https://i.scdn.co/image/ab67616d0000b273d70916ee9e40c90380ba5f07
+2024-05-07,35,Florida!!! (feat. Florence + The Machine),Taylor Swift,85,215463,album,16,2024-04-18,True,https://i.scdn.co/image/ab67616d0000b2735076e4160d018e378f488c33
+2024-05-07,36,Whatever She Wants,Bryson Tiller,89,161342,single,1,2024-02-13,True,https://i.scdn.co/image/ab67616d0000b2731aba7b448d35bd576ceac182
+2024-05-07,37,My Boy Only Breaks His Favorite Toys,Taylor Swift,85,203801,album,16,2024-04-18,False,https://i.scdn.co/image/ab67616d0000b2735076e4160d018e378f488c33
+2024-05-07,38,Unwritten,Natasha Bedingfield,91,259333,album,14,2004-08-30,False,https://i.scdn.co/image/ab67616d0000b273b337e1ca6629a53c66a3b0d4
+2024-05-07,39,Valerie (feat. Amy Winehouse) - Version Revisited,Mark Ronson,83,219413,album,17,2007-04-16,False,https://i.scdn.co/image/ab67616d0000b2736a5beb0500ad6e3b0f7aea22
+2024-05-07,40,Guilty as Sin?,Taylor Swift,83,254365,album,16,2024-04-18,False,https://i.scdn.co/image/ab67616d0000b2735076e4160d018e378f488c33
+2024-05-07,41,Push Ups,Drake,90,232774,single,1,2024-04-19,True,https://i.scdn.co/image/ab67616d0000b27384bfd0d363f0179ac7c97fa5
+2024-05-07,42,But Daddy I Love Him,Taylor Swift,84,340428,album,16,2024-04-18,True,https://i.scdn.co/image/ab67616d0000b2735076e4160d018e378f488c33
+2024-05-07,43,The Tortured Poets Department,Taylor Swift,85,293048,album,16,2024-04-18,True,https://i.scdn.co/image/ab67616d0000b2735076e4160d018e378f488c33
+2024-05-07,44,Back On 74,Jungle,86,209482,album,14,2023-08-11,False,https://i.scdn.co/image/ab67616d0000b27377619f14cb03e11baf5761d1
+2024-05-07,45,As It Was,Harry Styles,91,167303,album,13,2022-05-20,False,https://i.scdn.co/image/ab67616d0000b2732e8ed79e177ff6011076f5f0
+2024-05-07,46,Feather,Sabrina Carpenter,90,185552,album,17,2023-03-17,True,https://i.scdn.co/image/ab67616d0000b2730f45623be014a592a5815827
+2024-05-07,47,Happier (feat. Clementine Douglas),The Blessed Madonna & Clementine Douglas,77,170358,single,1,2024-02-02,False,https://i.scdn.co/image/ab67616d0000b2735d564f7de772a0675ab893be
+2024-05-07,48,Evergreen,Richy Mitch & The Coal Miners,89,87000,album,14,2017-05-17,False,https://i.scdn.co/image/ab67616d0000b2731cc17bae5ee17cce117e198a
+2024-05-07,49,Alibi (feat. Rudimental),Ella Henderson & Rudimental,82,184852,single,1,2024-01-12,False,https://i.scdn.co/image/ab67616d0000b2739e3b2d14dee8000a862c941e
+2024-05-07,50,Lovin On Me,Jack Harlow,91,138411,single,1,2023-11-10,True,https://i.scdn.co/image/ab67616d0000b273fcf4adae77baba5d0169e8e8
