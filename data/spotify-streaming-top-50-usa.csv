@@ -19849,3 +19849,53 @@ date,position,song,artist,popularity,duration_ms,album_type,total_tracks,release
 2024-06-19,48,euphoria,Kendrick Lamar,86,383639,single,1,2024-04-30,True,https://i.scdn.co/image/ab67616d0000b2737587213b1be294ac4000f648
 2024-06-19,49,Nonsense,Sabrina Carpenter,83,163648,album,13,2022-07-15,False,https://i.scdn.co/image/ab67616d0000b273700f7bf79c9f063ad0362bdf
 2024-06-19,50,Type Shit,Future & Metro Boomin,84,228266,album,17,2024-03-22,True,https://i.scdn.co/image/ab67616d0000b273a46b07c291e6dfdee13b3ee8
+2024-06-20,1,Please Please Please,Sabrina Carpenter,91,186365,single,2,2024-06-06,True,https://i.scdn.co/image/ab67616d0000b273de84adf0e48248ea2d769c3e
+2024-06-20,2,Espresso,Sabrina Carpenter,96,175459,single,1,2024-04-12,True,https://i.scdn.co/image/ab67616d0000b273659cd4673230913b3918e0d5
+2024-06-20,3,BIRDS OF A FEATHER,Billie Eilish,94,210373,album,10,2024-05-17,False,https://i.scdn.co/image/ab67616d0000b27371d62ea7ea8a5be92d3c1f62
+2024-06-20,4,MILLION DOLLAR BABY,Tommy Richman,87,155151,single,2,2024-04-26,False,https://i.scdn.co/image/ab67616d0000b27301c0cd5da820e6128655854f
+2024-06-20,5,I Had Some Help (Feat. Morgan Wallen),Post Malone & Morgan Wallen,92,178205,single,1,2024-05-10,True,https://i.scdn.co/image/ab67616d0000b27397306976e3eb8aad53b754eb
+2024-06-20,6,Not Like Us,Kendrick Lamar,93,274192,single,1,2024-05-04,True,https://i.scdn.co/image/ab67616d0000b2731ea0c62b2339cbf493a999ad
+2024-06-20,7,A Bar Song (Tipsy),Shaboozey,80,171291,album,12,2024-05-31,True,https://i.scdn.co/image/ab67616d0000b27360df033c8f8b17384387666a
+2024-06-20,8,"Good Luck, Babe!",Chappell Roan,88,218423,single,1,2024-04-05,False,https://i.scdn.co/image/ab67616d0000b27391b4bc7c88d91a42e0f3a8b7
+2024-06-20,9,Pink Skies,Zach Bryan,86,194920,single,1,2024-05-24,False,https://i.scdn.co/image/ab67616d0000b2731a2c9ac2d39bc5c2e22b9555
+2024-06-20,10,Too Sweet,Hozier,86,251424,album,20,2024-03-22,False,https://i.scdn.co/image/ab67616d0000b2733e1b212546dac35443735241
+2024-06-20,11,Houdini,Eminem,91,227239,single,1,2024-05-31,True,https://i.scdn.co/image/ab67616d0000b273810603c94c9246379604cf1a
+2024-06-20,12,LUNCH,Billie Eilish,93,179586,album,10,2024-05-17,False,https://i.scdn.co/image/ab67616d0000b27371d62ea7ea8a5be92d3c1f62
+2024-06-20,13,Beautiful Things,Benson Boone,87,180304,album,15,2024-04-05,False,https://i.scdn.co/image/ab67616d0000b273cc04ff3e70e146ba9abacf40
+2024-06-20,14,I Remember Everything (feat. Kacey Musgraves),Zach Bryan,85,227195,album,16,2023-08-25,False,https://i.scdn.co/image/ab67616d0000b273e5a25ed08d1e7e0fbb440cef
+2024-06-20,15,HOT TO GO!,Chappell Roan,81,184841,album,14,2023-09-22,False,https://i.scdn.co/image/ab67616d0000b27396fa88fb1789be437d5cb4b6
+2024-06-20,16,Fortnight (feat. Post Malone),Taylor Swift,89,228965,album,16,2024-04-18,False,https://i.scdn.co/image/ab67616d0000b2735076e4160d018e378f488c33
+2024-06-20,17,Like That,Future & Metro Boomin,88,267706,album,17,2024-03-22,True,https://i.scdn.co/image/ab67616d0000b273a46b07c291e6dfdee13b3ee8
+2024-06-20,18,Lose Control,Teddy Swims,87,210688,album,10,2023-09-15,False,https://i.scdn.co/image/ab67616d0000b2731a0323cc23419360a34a3ace
+2024-06-20,19,Red Wine Supernova,Chappell Roan,81,192720,album,14,2023-09-22,True,https://i.scdn.co/image/ab67616d0000b27396fa88fb1789be437d5cb4b6
+2024-06-20,20,Stick Season,Noah Kahan,87,182346,album,14,2022-10-14,False,https://i.scdn.co/image/ab67616d0000b2736ee35072df1af802cca09918
+2024-06-20,21,CHIHIRO,Billie Eilish,91,303440,album,10,2024-05-17,False,https://i.scdn.co/image/ab67616d0000b27371d62ea7ea8a5be92d3c1f62
+2024-06-20,22,Slow It Down,Benson Boone,86,161831,album,15,2024-04-05,False,https://i.scdn.co/image/ab67616d0000b273cc04ff3e70e146ba9abacf40
+2024-06-20,23,Cowgirls (feat. ERNEST),Morgan Wallen,82,181621,album,36,2023-03-03,False,https://i.scdn.co/image/ab67616d0000b273705079df9a25a28b452c1fc9
+2024-06-20,24,Austin (Boots Stop Workin'),Dasha,87,171782,album,8,2024-02-16,True,https://i.scdn.co/image/ab67616d0000b2734ccf88b66e04cfd247f287eb
+2024-06-20,25,I Can Do It With a Broken Heart,Taylor Swift,85,218004,album,16,2024-04-18,True,https://i.scdn.co/image/ab67616d0000b2735076e4160d018e378f488c33
+2024-06-20,26,Last Night,Morgan Wallen,80,163854,album,36,2023-03-03,True,https://i.scdn.co/image/ab67616d0000b273705079df9a25a28b452c1fc9
+2024-06-20,27,High Road (feat. Jessie Murph),Koe Wetzel & Jessie Murph,75,179413,single,1,2024-06-07,True,https://i.scdn.co/image/ab67616d0000b2732c44d76ea64d1b5876b44eb3
+2024-06-20,28,Feather,Sabrina Carpenter,85,185552,album,17,2023-03-17,True,https://i.scdn.co/image/ab67616d0000b2730f45623be014a592a5815827
+2024-06-20,29,BAND4BAND (feat. Lil Baby),Central Cee & Lil Baby,88,140733,single,1,2024-05-23,True,https://i.scdn.co/image/ab67616d0000b2737b588bf0555bde606f8b27c7
+2024-06-20,30,Gata Only,FloyyMenor & Cris Mj,93,222000,single,1,2024-02-02,True,https://i.scdn.co/image/ab67616d0000b273c4583f3ad76630879a75450a
+2024-06-20,31,we can't be friends (wait for your love),Ariana Grande,87,228639,album,13,2024-03-08,False,https://i.scdn.co/image/ab67616d0000b2738b58d20f1b77295730db15b4
+2024-06-20,32,i like the way you kiss me,Artemas,93,142514,single,1,2024-03-19,False,https://i.scdn.co/image/ab67616d0000b273e67611dbbf69a90d0b6cb738
+2024-06-20,33,You Proof,Morgan Wallen,80,157477,album,36,2023-03-03,False,https://i.scdn.co/image/ab67616d0000b273705079df9a25a28b452c1fc9
+2024-06-20,34,Stargazing,Myles Smith,88,172533,single,1,2024-05-10,False,https://i.scdn.co/image/ab67616d0000b27381b12e1a0584e8ea7ba2ae4a
+2024-06-20,35,BANDIT,Don Toliver,67,147706,album,16,2024-06-14,True,https://i.scdn.co/image/ab67616d0000b273c800e1a4a237cf8f085183c5
+2024-06-20,36,DEVIL IS A LIE,Tommy Richman,72,130944,single,1,2024-06-14,True,https://i.scdn.co/image/ab67616d0000b273f1708ceacc5e678619364239
+2024-06-20,37,Saturn,SZA,87,186191,single,5,2024-02-22,False,https://i.scdn.co/image/ab67616d0000b273d70916ee9e40c90380ba5f07
+2024-06-20,38,End of Beginning,Djo,91,159245,album,13,2022-09-16,False,https://i.scdn.co/image/ab67616d0000b273fddfffec51b4580acae727c1
+2024-06-20,39,Thinkin’ Bout Me,Morgan Wallen,81,177387,album,36,2023-03-03,False,https://i.scdn.co/image/ab67616d0000b273705079df9a25a28b452c1fc9
+2024-06-20,40,See You Again (feat. Kali Uchis),"Tyler, The Creator",85,180386,album,14,2017-07-21,True,https://i.scdn.co/image/ab67616d0000b2738940ac99f49e44f59e6f7fb3
+2024-06-20,41,Something in the Orange,Zach Bryan,83,228013,single,4,2022-04-22,False,https://i.scdn.co/image/ab67616d0000b273b2b6670e3aca9bcd55fbabbb
+2024-06-20,42,The Man He Sees in Me,Luke Combs,68,165058,album,12,2024-06-14,False,https://i.scdn.co/image/ab67616d0000b27317b23f31a918e6566a947f44
+2024-06-20,43,WHISKEY WHISKEY (feat. Morgan Wallen),Moneybagg Yo,61,161052,album,17,2024-06-14,True,https://i.scdn.co/image/ab67616d0000b27323f68790c67fdd51ecd87f2f
+2024-06-20,44,Cruel Summer,Taylor Swift,89,178426,album,18,2019-08-23,False,https://i.scdn.co/image/ab67616d0000b273e787cffec20aa2a396a61647
+2024-06-20,45,Heading South,Zach Bryan,81,171692,single,1,2019-09-30,True,https://i.scdn.co/image/ab67616d0000b273f9017bcd001d030d46850226
+2024-06-20,46,Scared To Start,Michael Marcagi,85,159636,single,1,2024-01-12,False,https://i.scdn.co/image/ab67616d0000b27351ef67c49732e45cd2b26fbe
+2024-06-20,47,WILDFLOWER,Billie Eilish,87,261466,album,10,2024-05-17,False,https://i.scdn.co/image/ab67616d0000b27371d62ea7ea8a5be92d3c1f62
+2024-06-20,48,Close To You,Gracie Abrams,79,225973,single,1,2024-06-07,False,https://i.scdn.co/image/ab67616d0000b27305120ec42445d23764388857
+2024-06-20,49,The Thin Grey Line,$uicideboy$,67,105724,album,13,2024-06-14,True,https://i.scdn.co/image/ab67616d0000b27335d777c5fa4a353b87ad62bd
+2024-06-20,50,euphoria,Kendrick Lamar,86,383639,single,1,2024-04-30,True,https://i.scdn.co/image/ab67616d0000b2737587213b1be294ac4000f648
