@@ -20399,3 +20399,53 @@ date,position,song,artist,popularity,duration_ms,album_type,total_tracks,release
 2024-06-30,48,I Can Do It With a Broken Heart,Taylor Swift,87,218004,album,16,2024-04-18,True,https://i.scdn.co/image/ab67616d0000b2735076e4160d018e378f488c33
 2024-06-30,49,Kill Bill,SZA,86,153946,album,23,2022-12-08,False,https://i.scdn.co/image/ab67616d0000b2730c471c36970b9406233842a5
 2024-06-30,50,Stumblin' In,CYRIL,87,213363,single,1,2023-11-10,False,https://i.scdn.co/image/ab67616d0000b2739a903819d8a5d3c80c47734c
+2024-07-01,1,Espresso,Sabrina Carpenter,99,175459,single,1,2024-04-12,True,https://i.scdn.co/image/ab67616d0000b273659cd4673230913b3918e0d5
+2024-07-01,2,Please Please Please,Sabrina Carpenter,97,186365,single,2,2024-06-06,True,https://i.scdn.co/image/ab67616d0000b273de84adf0e48248ea2d769c3e
+2024-07-01,3,BIRDS OF A FEATHER,Billie Eilish,97,210373,album,10,2024-05-17,False,https://i.scdn.co/image/ab67616d0000b27371d62ea7ea8a5be92d3c1f62
+2024-07-01,4,Gata Only,FloyyMenor & Cris Mj,96,222000,single,1,2024-02-02,True,https://i.scdn.co/image/ab67616d0000b273c4583f3ad76630879a75450a
+2024-07-01,5,Not Like Us,Kendrick Lamar,96,274192,single,1,2024-05-04,True,https://i.scdn.co/image/ab67616d0000b2731ea0c62b2339cbf493a999ad
+2024-07-01,6,MILLION DOLLAR BABY,Tommy Richman,93,155151,single,2,2024-04-26,False,https://i.scdn.co/image/ab67616d0000b27301c0cd5da820e6128655854f
+2024-07-01,7,A Bar Song (Tipsy),Shaboozey,85,171291,album,12,2024-05-31,True,https://i.scdn.co/image/ab67616d0000b27360df033c8f8b17384387666a
+2024-07-01,8,"Good Luck, Babe!",Chappell Roan,93,218423,single,1,2024-04-05,False,https://i.scdn.co/image/ab67616d0000b27391b4bc7c88d91a42e0f3a8b7
+2024-07-01,9,Beautiful Things,Benson Boone,90,180304,album,15,2024-04-05,False,https://i.scdn.co/image/ab67616d0000b273cc04ff3e70e146ba9abacf40
+2024-07-01,10,Smeraldo Garden Marching Band (feat. Loco),Jimin & Loco,82,182840,single,1,2024-06-28,False,https://i.scdn.co/image/ab67616d0000b27338881a83135ef5b4ace418ba
+2024-07-01,11,Rockstar,LISA,81,138213,single,5,2024-06-27,True,https://i.scdn.co/image/ab67616d0000b27397265410628ab7f94a380c9d
+2024-07-01,12,I Had Some Help (Feat. Morgan Wallen),Post Malone & Morgan Wallen,95,178205,single,1,2024-05-10,True,https://i.scdn.co/image/ab67616d0000b27397306976e3eb8aad53b754eb
+2024-07-01,13,Too Sweet,Hozier,89,251424,album,20,2024-03-22,False,https://i.scdn.co/image/ab67616d0000b2733e1b212546dac35443735241
+2024-07-01,14,Si Antes Te Hubiera Conocido,KAROL G,86,195824,single,1,2024-06-21,False,https://i.scdn.co/image/ab67616d0000b273491678beaffcefac517a699e
+2024-07-01,15,i like the way you kiss me,Artemas,95,142514,single,1,2024-03-19,False,https://i.scdn.co/image/ab67616d0000b273e67611dbbf69a90d0b6cb738
+2024-07-01,16,REAL GANGSTA LOVE,Trueno,90,145342,album,13,2024-05-23,True,https://i.scdn.co/image/ab67616d0000b27368a450f7bcdc187e20f0ba0a
+2024-07-01,17,LUNCH,Billie Eilish,95,179586,album,10,2024-05-17,False,https://i.scdn.co/image/ab67616d0000b27371d62ea7ea8a5be92d3c1f62
+2024-07-01,18,Houdini,Eminem,94,227239,single,1,2024-05-31,True,https://i.scdn.co/image/ab67616d0000b273810603c94c9246379604cf1a
+2024-07-01,19,End of Beginning,Djo,93,159245,album,13,2022-09-16,False,https://i.scdn.co/image/ab67616d0000b273fddfffec51b4580acae727c1
+2024-07-01,20,As It Was,Harry Styles,91,167303,album,13,2022-05-20,False,https://i.scdn.co/image/ab67616d0000b2732e8ed79e177ff6011076f5f0
+2024-07-01,21,Lose Control,Teddy Swims,90,210688,album,10,2023-09-15,False,https://i.scdn.co/image/ab67616d0000b2731a0323cc23419360a34a3ace
+2024-07-01,22,we can't be friends (wait for your love),Ariana Grande,90,228639,album,13,2024-03-08,False,https://i.scdn.co/image/ab67616d0000b2738b58d20f1b77295730db15b4
+2024-07-01,23,Fortnight (feat. Post Malone),Taylor Swift,91,228965,album,16,2024-04-18,False,https://i.scdn.co/image/ab67616d0000b2735076e4160d018e378f488c33
+2024-07-01,24,Cruel Summer,Taylor Swift,92,178426,album,18,2019-08-23,False,https://i.scdn.co/image/ab67616d0000b273e787cffec20aa2a396a61647
+2024-07-01,25,Stargazing,Myles Smith,92,172533,single,1,2024-05-10,False,https://i.scdn.co/image/ab67616d0000b27381b12e1a0584e8ea7ba2ae4a
+2024-07-01,26,Sweater Weather,The Neighbourhood,89,240400,album,11,2013-04-19,False,https://i.scdn.co/image/ab67616d0000b2738265a736a1eb838ad5a0b921
+2024-07-01,27,"One Of The Girls (with JENNIE, Lily Rose Depp)",The Weeknd & JENNIE & Lily-Rose Depp,91,244684,single,3,2023-06-23,False,https://i.scdn.co/image/ab67616d0000b273b0dd6a5cd1dec96c4119c262
+2024-07-01,28,CHIHIRO,Billie Eilish,93,303440,album,10,2024-05-17,False,https://i.scdn.co/image/ab67616d0000b27371d62ea7ea8a5be92d3c1f62
+2024-07-01,29,Austin (Boots Stop Workin'),Dasha,90,171782,album,8,2024-02-16,True,https://i.scdn.co/image/ab67616d0000b2734ccf88b66e04cfd247f287eb
+2024-07-01,30,Santa,Rvssian,83,193038,single,2,2024-04-03,False,https://i.scdn.co/image/ab67616d0000b273edf307a421ee80c9262f8dc8
+2024-07-01,31,I Wanna Be Yours,Arctic Monkeys,90,183956,album,12,2013-09-09,False,https://i.scdn.co/image/ab67616d0000b2734ae1c4c5c45aabe565499163
+2024-07-01,32,LUNA,Feid,90,196800,album,10,2023-12-01,False,https://i.scdn.co/image/ab67616d0000b273f1aad814a40ec7419c234242
+2024-07-01,33,BAND4BAND (feat. Lil Baby),Central Cee & Lil Baby,91,140733,single,1,2024-05-23,True,https://i.scdn.co/image/ab67616d0000b2737b588bf0555bde606f8b27c7
+2024-07-01,34,Yellow,Coldplay,88,266773,album,10,2000-07-10,False,https://i.scdn.co/image/ab67616d0000b2739164bafe9aaa168d93f4816a
+2024-07-01,35,Locked out of Heaven,Bruno Mars,51,233653,album,10,2012-12-05,False,https://i.scdn.co/image/ab67616d0000b27349055dce3554e72e82082980
+2024-07-01,36,Like Crazy,Jimin,88,212241,single,6,2023-03-24,False,https://i.scdn.co/image/ab67616d0000b2732b46078245d0120690eb560d
+2024-07-01,37,Belong Together,Mark Ambor,90,148317,single,1,2024-02-16,False,https://i.scdn.co/image/ab67616d0000b273ed71b8008aaa879622f8c3b5
+2024-07-01,38,Riptide,Vance Joy,84,204280,album,13,2014-09-08,False,https://i.scdn.co/image/ab67616d0000b273d3ce97395ff522b0d70c1094
+2024-07-01,39,The Night We Met,Lord Huron,87,208211,album,14,2015-04-06,False,https://i.scdn.co/image/ab67616d0000b27317875a0610c23d8946454583
+2024-07-01,40,I Don't Wanna Wait,David Guetta & OneRepublic,89,149667,single,2,2024-04-05,False,https://i.scdn.co/image/ab67616d0000b2732f479a6c1825c1f29e0a3d49
+2024-07-01,41,Seven (feat. Latto) (Explicit Ver.),Jung Kook,84,183550,album,11,2023-11-03,True,https://i.scdn.co/image/ab67616d0000b273741fd4807f442af3f7359316
+2024-07-01,42,Kill Bill,SZA,86,153946,album,23,2022-12-08,False,https://i.scdn.co/image/ab67616d0000b2730c471c36970b9406233842a5
+2024-07-01,43,Si No Quieres No,Luis R Conriquez & Neton Vega,88,147011,single,1,2024-03-10,False,https://i.scdn.co/image/ab67616d0000b2735c7365ca8cfaf7d80136c656
+2024-07-01,44,HOT TO GO!,Chappell Roan,86,184841,album,14,2023-09-22,False,https://i.scdn.co/image/ab67616d0000b27396fa88fb1789be437d5cb4b6
+2024-07-01,45,SI NO ES CONTIGO,Cris Mj,87,156000,single,1,2024-05-23,True,https://i.scdn.co/image/ab67616d0000b273b5a456d85aa63ef612e73edb
+2024-07-01,46,DEVIL IS A LIE,Tommy Richman,83,130944,single,1,2024-06-14,True,https://i.scdn.co/image/ab67616d0000b273f1708ceacc5e678619364239
+2024-07-01,47,I Can Do It With a Broken Heart,Taylor Swift,87,218004,album,16,2024-04-18,True,https://i.scdn.co/image/ab67616d0000b2735076e4160d018e378f488c33
+2024-07-01,48,Like That,Future & Metro Boomin,90,267706,album,17,2024-03-22,True,https://i.scdn.co/image/ab67616d0000b273a46b07c291e6dfdee13b3ee8
+2024-07-01,49,FE!N (feat. Playboi Carti),Travis Scott,89,191700,album,19,2023-07-28,True,https://i.scdn.co/image/ab67616d0000b273881d8d8378cd01099babcd44
+2024-07-01,50,SORRY 4 THAT MUCH,Feid,86,207746,single,1,2024-06-07,True,https://i.scdn.co/image/ab67616d0000b273746cdeef8d4a4110f1b5af29
