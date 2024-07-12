@@ -20899,3 +20899,53 @@ date,position,song,artist,popularity,duration_ms,album_type,total_tracks,release
 2024-07-10,48,Vai!,Alfa,64,156923,album,10,2024-02-16,False,https://i.scdn.co/image/ab67616d0000b2733112795a9d1f0e98fbfe91a6
 2024-07-10,49,PER SEMPRE,Geolier,70,179386,album,21,2024-06-07,False,https://i.scdn.co/image/ab67616d0000b2736ca1afc5513fd69a8c0c4dc2
 2024-07-10,50,MAMMAMÌ,Petit,69,183222,single,1,2024-04-30,False,https://i.scdn.co/image/ab67616d0000b2730ce75cf5ccaf0b2dcbfdf6ff
+2024-07-12,1,30ºC,ANNA,71,142615,album,18,2024-06-27,True,https://i.scdn.co/image/ab67616d0000b273fb7329a6fb6154b1fa3704c7
+2024-07-12,2,SESSO E SAMBA (feat. Gaia),Tony Effe,76,167263,album,18,2024-05-22,True,https://i.scdn.co/image/ab67616d0000b273079bf39440a71ce5095b40a1
+2024-07-12,3,I LOVE IT (feat. Artie 5ive),ANNA,73,191999,album,18,2024-06-27,True,https://i.scdn.co/image/ab67616d0000b273fb7329a6fb6154b1fa3704c7
+2024-07-12,4,COME UN TUONO (feat. Guè),Rose Villain,78,175293,album,12,2024-03-08,True,https://i.scdn.co/image/ab67616d0000b2737d3c7c72548a5c8bff302714
+2024-07-12,5,TT LE GIRLZ (feat. Niky Savage),ANNA,70,144210,album,18,2024-06-27,True,https://i.scdn.co/image/ab67616d0000b273fb7329a6fb6154b1fa3704c7
+2024-07-12,6,Paprika,Ghali,78,148571,single,1,2024-05-10,False,https://i.scdn.co/image/ab67616d0000b27335542084789157d2c769aada
+2024-07-12,7,Gata Only,FloyyMenor & Cris Mj,96,222000,single,1,2024-02-02,True,https://i.scdn.co/image/ab67616d0000b273c4583f3ad76630879a75450a
+2024-07-12,8,SEXY SHOP,Fedez & Emis Killa,77,188684,single,1,2024-05-31,False,https://i.scdn.co/image/ab67616d0000b27392e8871054eea6af37849904
+2024-07-12,9,STORIE BREVI,Tananai & Annalisa,74,175153,single,1,2024-06-04,False,https://i.scdn.co/image/ab67616d0000b273b9e2109bbe77afec0e7af667
+2024-07-12,10,Beatrice (feat. Annalisa),Tedua,76,183500,album,24,2024-05-24,False,https://i.scdn.co/image/ab67616d0000b27348c2c3db78eeae67163866f4
+2024-07-12,11,EL PIBE DE ORO,Geolier,72,155493,album,21,2024-06-07,True,https://i.scdn.co/image/ab67616d0000b2736ca1afc5513fd69a8c0c4dc2
+2024-07-12,12,BBE (feat. Lazza),ANNA,67,198260,album,18,2024-06-27,True,https://i.scdn.co/image/ab67616d0000b273fb7329a6fb6154b1fa3704c7
+2024-07-12,13,EPISODIO D'AMORE,Geolier,74,196613,album,21,2024-06-07,False,https://i.scdn.co/image/ab67616d0000b2736ca1afc5513fd69a8c0c4dc2
+2024-07-12,14,MIU MIU,Tony Effe,76,147498,album,17,2024-03-15,True,https://i.scdn.co/image/ab67616d0000b273e8f24177ed966e1f814a849c
+2024-07-12,15,RA TA TA,Mahmood,61,152383,album,14,2024-03-07,False,https://i.scdn.co/image/ab67616d0000b273bba1b6cd3a5b27442e25cea5
+2024-07-12,16,L'ULTIMA POESIA (feat. Ultimo),Geolier,69,228378,album,21,2024-06-07,False,https://i.scdn.co/image/ab67616d0000b2736ca1afc5513fd69a8c0c4dc2
+2024-07-12,17,ABC (feat. Tony Boy & thasup),ANNA,71,196434,album,18,2024-06-27,True,https://i.scdn.co/image/ab67616d0000b273fb7329a6fb6154b1fa3704c7
+2024-07-12,18,DOPO LE 4 (feat. Bresh & Tedua),Tony Effe,75,182906,album,17,2024-03-15,True,https://i.scdn.co/image/ab67616d0000b273e8f24177ed966e1f814a849c
+2024-07-12,19,BIKINI (feat. Guè),ANNA,71,119217,album,18,2024-06-27,True,https://i.scdn.co/image/ab67616d0000b273fb7329a6fb6154b1fa3704c7
+2024-07-12,20,MALAVITA,Coma_Cose,71,166725,single,1,2024-04-26,False,https://i.scdn.co/image/ab67616d0000b2732f3927ea8457a80e64556035
+2024-07-12,21,BACIO DI GIUDA (feat. Mida & VillaBanks),AVA & Mida & VillaBanks,73,167111,single,1,2024-06-14,True,https://i.scdn.co/image/ab67616d0000b2735a1cb79197e3236d93d7ac3c
+2024-07-12,22,Devastante,Olly & JVLI,75,190122,single,1,2024-03-08,False,https://i.scdn.co/image/ab67616d0000b273b43ab2a00ff73a7500b67462
+2024-07-12,23,Torcida,Bresh,74,174628,single,1,2024-05-10,False,https://i.scdn.co/image/ab67616d0000b273505392b81986d654a1a3cd03
+2024-07-12,24,Alé (feat. Capo Plaza),Rhove,73,200592,album,16,2024-03-29,False,https://i.scdn.co/image/ab67616d0000b273730c8ffade7393a6d1aa20d5
+2024-07-12,25,IO T’O GIUR’ (feat. Sfera Ebbasta),Geolier,74,200000,album,21,2024-06-07,False,https://i.scdn.co/image/ab67616d0000b2736ca1afc5513fd69a8c0c4dc2
+2024-07-12,26,Black Nirvana,Elodie,72,184250,single,1,2024-05-30,False,https://i.scdn.co/image/ab67616d0000b273dbf24e43127f4c3ef66d4b14
+2024-07-12,27,ALTROVE,Ultimo,67,205354,album,8,2024-05-17,False,https://i.scdn.co/image/ab67616d0000b27395c1fc384c2bf4e7f9292017
+2024-07-12,28,100 MESSAGGI,Lazza,75,244096,single,1,2024-02-27,True,https://i.scdn.co/image/ab67616d0000b273643268ac0b8c58e88584ee59
+2024-07-12,29,melodrama,Angelina Mango,67,147053,album,14,2024-05-31,False,https://i.scdn.co/image/ab67616d0000b273ded556b858164159f96662cb
+2024-07-12,30,Soldi Arrotolati (feat. ANNA),Capo Plaza,73,151515,album,18,2024-05-03,True,https://i.scdn.co/image/ab67616d0000b273d0e1ffdaa9764768a9ef6ff6
+2024-07-12,31,Mezzo Rotto (feat. BigMama),Alessandra Amoroso & BigMama,69,195238,single,1,2024-05-31,False,https://i.scdn.co/image/ab67616d0000b27310369c25237bdba85daefb6b
+2024-07-12,32,i like the way you kiss me,Artemas,18,142514,album,14,2024-07-11,False,https://i.scdn.co/image/ab67616d0000b273832f7480648f09cf6e262ded
+2024-07-12,33,"I P’ ME, TU P’ TE",Geolier,68,187881,album,21,2024-06-07,False,https://i.scdn.co/image/ab67616d0000b2736ca1afc5513fd69a8c0c4dc2
+2024-07-12,34,Espresso,Sabrina Carpenter,99,175459,single,1,2024-04-12,True,https://i.scdn.co/image/ab67616d0000b273659cd4673230913b3918e0d5
+2024-07-12,35,VIENI DALLA BADDIE - interlude,ANNA,66,93391,album,18,2024-06-27,True,https://i.scdn.co/image/ab67616d0000b273fb7329a6fb6154b1fa3704c7
+2024-07-12,36,Fino All'Alba,Capo Plaza,62,157168,album,19,2024-05-03,True,https://i.scdn.co/image/ab67616d0000b273212a429ea7e155c81b35e011
+2024-07-12,37,Petit Fou Fou (feat. ANNA),Rhove,69,113737,album,16,2024-03-29,False,https://i.scdn.co/image/ab67616d0000b273730c8ffade7393a6d1aa20d5
+2024-07-12,38,"NU PARL, NU SENT, NU VEC",Geolier,71,134306,album,21,2024-06-07,True,https://i.scdn.co/image/ab67616d0000b2736ca1afc5513fd69a8c0c4dc2
+2024-07-12,39,TUTA GOLD,Mahmood,68,178467,album,10,2024-02-15,False,https://i.scdn.co/image/ab67616d0000b2739648b60985cf2d0f0ca9998a
+2024-07-12,40,CLICK BOOM!,Rose Villain,67,225561,album,12,2024-03-08,False,https://i.scdn.co/image/ab67616d0000b2737d3c7c72548a5c8bff302714
+2024-07-12,41,SI STAT’ TU,Geolier,72,205840,album,21,2024-06-07,False,https://i.scdn.co/image/ab67616d0000b2736ca1afc5513fd69a8c0c4dc2
+2024-07-12,42,GHETTO LOVE (feat. CLARA),Icy Subzero & CLARA,69,144724,single,1,2024-05-31,True,https://i.scdn.co/image/ab67616d0000b27397c3725a0a62aa39e62cd88d
+2024-07-12,43,Beautiful Things,Benson Boone,90,180304,album,15,2024-04-05,False,https://i.scdn.co/image/ab67616d0000b273cc04ff3e70e146ba9abacf40
+2024-07-12,44,HO VOGLIA DI TE,JVLI & Emma & Olly,67,188785,single,1,2024-06-14,False,https://i.scdn.co/image/ab67616d0000b2730479cf3ff348107b31806fd0
+2024-07-12,45,MAMMAMÌ,Petit,69,183222,single,1,2024-04-30,False,https://i.scdn.co/image/ab67616d0000b2730ce75cf5ccaf0b2dcbfdf6ff
+2024-07-12,46,00,Artie 5ive,71,134347,single,1,2024-04-03,True,https://i.scdn.co/image/ab67616d0000b273c19a8ad728598fceaa8bc151
+2024-07-12,47,CHICA ITALIANA (feat. Sfera Ebbasta),ANNA,68,166153,album,18,2024-06-27,True,https://i.scdn.co/image/ab67616d0000b273fb7329a6fb6154b1fa3704c7
+2024-07-12,48,Move,Adam Port & Stryv & Keinemusik,86,177598,single,1,2024-06-07,False,https://i.scdn.co/image/ab67616d0000b27317a013a00d0a33f3dd49974d
+2024-07-12,49,MA CHE IDEA (feat. Pino D'Angiò),bnkr44 & Pino D'Angiò,71,226464,single,1,2024-02-10,False,https://i.scdn.co/image/ab67616d0000b273bac36ba5d7473b56938f4b30
+2024-07-12,50,Eva (feat. Tedua),Kid Yugi,71,160496,album,14,2024-03-01,True,https://i.scdn.co/image/ab67616d0000b273d07f18d70bd75e7f4092f041
