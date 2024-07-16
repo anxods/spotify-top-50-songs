@@ -21099,3 +21099,53 @@ date,position,song,artist,popularity,duration_ms,album_type,total_tracks,release
 2024-07-15,48,"Ride Or Die, Pt. 2 (with Villano Antillano & Tokischa)",Sevdaliza & Villano Antillano & Tokischa,84,158728,single,2,2024-04-18,True,https://i.scdn.co/image/ab67616d0000b27314c2bc6e79b87f232c38b547
 2024-07-15,49,El Gordo Trae El Mando,Chino Pacas,80,112087,single,1,2023-01-27,True,https://i.scdn.co/image/ab67616d0000b2736a6ab689151163a1e9f60f36
 2024-07-15,50,Ya Te Olvide,Natanael Cano,82,216317,single,1,2024-05-15,False,https://i.scdn.co/image/ab67616d0000b2733a64ea6033fe309c6b67dfa4
+2024-07-16,1,Si No Quieres No,Luis R Conriquez & Neton Vega,89,147011,single,1,2024-03-10,False,https://i.scdn.co/image/ab67616d0000b2735c7365ca8cfaf7d80136c656
+2024-07-16,2,LA PATRULLA,Peso Pluma,83,130614,album,24,2024-06-20,True,https://i.scdn.co/image/ab67616d0000b2732690127e1d6cd0aa35cc353b
+2024-07-16,3,Volver Al Futuro,Oscar Maydon & Junior H,86,204102,single,1,2024-05-30,False,https://i.scdn.co/image/ab67616d0000b27306116ae20d0a4c09d65c7d1d
+2024-07-16,4,Giza,Natanael Cano & Oscar Maydon,73,177580,single,1,2024-07-10,False,https://i.scdn.co/image/ab67616d0000b273a708ecde93d99f552f4c5b0f
+2024-07-16,5,Madonna,Natanael Cano & Oscar Maydon,87,187087,single,1,2024-03-08,True,https://i.scdn.co/image/ab67616d0000b273fcd2820c9b859adc64a64b88
+2024-07-16,6,Si Antes Te Hubiera Conocido,KAROL G,92,195824,single,1,2024-06-21,False,https://i.scdn.co/image/ab67616d0000b273491678beaffcefac517a699e
+2024-07-16,7,Gata Only,FloyyMenor & Cris Mj,96,222000,single,1,2024-02-02,True,https://i.scdn.co/image/ab67616d0000b273c4583f3ad76630879a75450a
+2024-07-16,8,Regalo De Dios,Julión Álvarez y su Norteño Banda,84,185933,album,12,2023-11-17,False,https://i.scdn.co/image/ab67616d0000b27301b15b3f93799c1823cde7bd
+2024-07-16,9,REAL GANGSTA LOVE,Trueno,92,145342,album,13,2024-05-23,True,https://i.scdn.co/image/ab67616d0000b27368a450f7bcdc187e20f0ba0a
+2024-07-16,10,EL AMOR DE SU VIDA,Grupo Frontera,83,165848,album,12,2023-08-25,False,https://i.scdn.co/image/ab67616d0000b27382ce4c7bbf861185252e82ae
+2024-07-16,11,Que Onda,Calle 24 & Chino Pacas & Fuerza Regida,85,191466,single,1,2023-08-30,True,https://i.scdn.co/image/ab67616d0000b273c8fd4190e32eed2dfcd00f66
+2024-07-16,12,VINO TINTO,Peso Pluma,83,245997,album,24,2024-06-20,True,https://i.scdn.co/image/ab67616d0000b2732690127e1d6cd0aa35cc353b
+2024-07-16,13,SANTAL 33,Peso Pluma,80,190303,album,24,2024-06-20,True,https://i.scdn.co/image/ab67616d0000b2732690127e1d6cd0aa35cc353b
+2024-07-16,14,YCQVM,Nueva H & Natanael Cano,82,183253,single,1,2024-06-12,False,https://i.scdn.co/image/ab67616d0000b273279af7c926a135688fab2007
+2024-07-16,15,LINDA,Tito Double P & Neton Vega,80,224210,single,1,2024-05-23,True,https://i.scdn.co/image/ab67616d0000b2731c35b4a50d46b65d5a3c50db
+2024-07-16,16,TÚ NAME,Fuerza Regida,85,152078,single,6,2024-02-09,False,https://i.scdn.co/image/ab67616d0000b273abc2d11a541fa61795691697
+2024-07-16,17,Y LLORO,Junior H,84,179013,album,17,2023-10-05,True,https://i.scdn.co/image/ab67616d0000b273f3ba6742a35f111aaea1ca2f
+2024-07-16,18,ADIVINO,Myke Towers & Bad Bunny,89,278644,single,1,2024-04-25,True,https://i.scdn.co/image/ab67616d0000b273b41f34aa51be675c5cfd3d94
+2024-07-16,19,TOMMY & PAMELA,Peso Pluma,78,209361,album,24,2024-06-20,True,https://i.scdn.co/image/ab67616d0000b2732690127e1d6cd0aa35cc353b
+2024-07-16,20,El Beneficio De La Duda,Grupo Firme,82,245500,single,1,2024-05-28,False,https://i.scdn.co/image/ab67616d0000b2738632e4c5f46220a7ad2ff6bb
+2024-07-16,21,PRIMO,Tito Double P & Natanael Cano,73,164991,single,1,2024-07-05,True,https://i.scdn.co/image/ab67616d0000b2735962e659fb01580a80e31827
+2024-07-16,22,La Diabla,Xavi,86,172264,single,1,2023-11-30,False,https://i.scdn.co/image/ab67616d0000b2731501c770de50a22b25d67611
+2024-07-16,23,Elvira,Oscar Maydon,83,196832,album,17,2023-12-22,True,https://i.scdn.co/image/ab67616d0000b27380c0cca1f04f91858a72ed09
+2024-07-16,24,Lo Tienes Todo,Julión Álvarez y su Norteño Banda,81,164386,album,12,2023-11-17,False,https://i.scdn.co/image/ab67616d0000b27301b15b3f93799c1823cde7bd
+2024-07-16,25,LUNA,Feid,91,196800,album,10,2023-12-01,False,https://i.scdn.co/image/ab67616d0000b273f1aad814a40ec7419c234242
+2024-07-16,26,SI NO ES CONTIGO,Cris Mj,89,156000,single,1,2024-05-23,True,https://i.scdn.co/image/ab67616d0000b273b5a456d85aa63ef612e73edb
+2024-07-16,27,QUE VUELVAS,Grupo Frontera,79,169418,album,12,2023-08-25,False,https://i.scdn.co/image/ab67616d0000b27382ce4c7bbf861185252e82ae
+2024-07-16,28,Primera Cita,Carin Leon,85,186455,album,18,2023-05-19,False,https://i.scdn.co/image/ab67616d0000b273daf12ebec7ae15f8322e1e5e
+2024-07-16,29,Entre las de 20,Bizarrap & Natanael Cano,80,168511,single,1,2024-04-02,True,https://i.scdn.co/image/ab67616d0000b273c06bfabb9334ac12ebd8d15c
+2024-07-16,30,GTA,Luis R Conriquez,81,153269,album,32,2024-02-29,False,https://i.scdn.co/image/ab67616d0000b2733db3ceab0dc5df8c9376c4cd
+2024-07-16,31,HOLLYWOOD,Peso Pluma,78,284864,album,24,2024-06-20,True,https://i.scdn.co/image/ab67616d0000b2732690127e1d6cd0aa35cc353b
+2024-07-16,32,300 Noches,Belinda & Natanael Cano,80,204800,single,1,2024-04-25,True,https://i.scdn.co/image/ab67616d0000b2734c330c8d739522364f1e67cd
+2024-07-16,33,ROCKSTAR,Junior H,81,168677,album,17,2023-10-05,True,https://i.scdn.co/image/ab67616d0000b273f3ba6742a35f111aaea1ca2f
+2024-07-16,34,Es un Secreto,Plan B,84,192120,album,15,2010-07-20,False,https://i.scdn.co/image/ab67616d0000b2732bf273f977582e8f890192fe
+2024-07-16,35,Porque Te Vas,Victor Cibrian & Gabito Ballesteros,80,230795,single,1,2024-04-05,False,https://i.scdn.co/image/ab67616d0000b2730bf488cd1bbc566dc12ca745
+2024-07-16,36,Amor,emmanuellcortess_,80,202058,album,9,2023-07-28,False,https://i.scdn.co/image/ab67616d0000b27302f41f10ba56cc9009cbe5f1
+2024-07-16,37,BELANOVA,Peso Pluma,78,164822,album,24,2024-06-20,True,https://i.scdn.co/image/ab67616d0000b2732690127e1d6cd0aa35cc353b
+2024-07-16,38,Mirame,Blessd & Ovy On The Drums,85,157453,single,1,2024-04-17,True,https://i.scdn.co/image/ab67616d0000b273b62a2ec2d61d48f34a368144
+2024-07-16,39,Corazón de Piedra,Xavi,84,193568,single,1,2024-03-21,False,https://i.scdn.co/image/ab67616d0000b273572e681dcdb302d7625b08c7
+2024-07-16,40,UNA CERVEZA,Fuerza Regida,82,279275,album,30,2023-10-20,True,https://i.scdn.co/image/ab67616d0000b273ad57982065339f7dc2058efe
+2024-07-16,41,Pocos Años Mil Errores,Kevin AMF & Jaque Mate & Carlos Manjarrez,79,198354,single,1,2024-05-28,False,https://i.scdn.co/image/ab67616d0000b273f61cc5ea411c68b98742907c
+2024-07-16,42,Despídase bien,Carin Leon,81,231375,album,19,2024-05-30,True,https://i.scdn.co/image/ab67616d0000b273b28b55cc0ac0ad1131ece780
+2024-07-16,43,QLONA,KAROL G,86,172797,album,9,2023-08-10,True,https://i.scdn.co/image/ab67616d0000b273d026bf9d7780f6a1267b4d03
+2024-07-16,44,RELOJ,Peso Pluma,79,232205,album,24,2024-06-20,True,https://i.scdn.co/image/ab67616d0000b2732690127e1d6cd0aa35cc353b
+2024-07-16,45,Vete,Alfredo Olivas,78,185240,album,12,2022-09-30,False,https://i.scdn.co/image/ab67616d0000b2734ad368f24e056b99f00fb0af
+2024-07-16,46,Que Se Cuide,Luis R Conriquez & Joel De La P & Chimbala,80,155624,single,1,2024-05-04,False,https://i.scdn.co/image/ab67616d0000b27375e22c457fc1f964f7dfd89d
+2024-07-16,47,La Bachata,Manuel Turizo,86,162637,album,15,2023-03-17,False,https://i.scdn.co/image/ab67616d0000b2734dd99565ae6453deab7c26e1
+2024-07-16,48,"Ride Or Die, Pt. 2 (with Villano Antillano & Tokischa)",Sevdaliza & Villano Antillano & Tokischa,84,158728,single,2,2024-04-18,True,https://i.scdn.co/image/ab67616d0000b27314c2bc6e79b87f232c38b547
+2024-07-16,49,El Gordo Trae El Mando,Chino Pacas,80,112087,single,1,2023-01-27,True,https://i.scdn.co/image/ab67616d0000b2736a6ab689151163a1e9f60f36
+2024-07-16,50,Ya Te Olvide,Natanael Cano,82,216317,single,1,2024-05-15,False,https://i.scdn.co/image/ab67616d0000b2733a64ea6033fe309c6b67dfa4
