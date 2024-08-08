@@ -22249,3 +22249,53 @@ date,position,song,artist,popularity,duration_ms,album_type,total_tracks,release
 2024-08-07,48,Riptide,Vance Joy,84,204280,album,13,2014-09-08,False,https://i.scdn.co/image/ab67616d0000b273d3ce97395ff522b0d70c1094
 2024-08-07,49,Casual,Chappell Roan,85,232796,album,14,2023-09-22,True,https://i.scdn.co/image/ab67616d0000b27396fa88fb1789be437d5cb4b6
 2024-08-07,50,Dreams - 2004 Remaster,Fleetwood Mac,86,257800,album,58,1977-02-04,False,https://i.scdn.co/image/ab67616d0000b273e52a59a28efa4773dd2bfe1b
+2024-08-08,1,Guess featuring Billie Eilish,Charli xcx & Billie Eilish,86,143330,single,1,2024-08-01,False,https://i.scdn.co/image/ab67616d0000b2738b8d8be49f9c4a44b0574144
+2024-08-08,2,BIRDS OF A FEATHER,Billie Eilish,99,210373,album,10,2024-05-17,False,https://i.scdn.co/image/ab67616d0000b27371d62ea7ea8a5be92d3c1f62
+2024-08-08,3,"Good Luck, Babe!",Chappell Roan,96,218423,single,1,2024-04-05,False,https://i.scdn.co/image/ab67616d0000b27391b4bc7c88d91a42e0f3a8b7
+2024-08-08,4,Espresso,Sabrina Carpenter,98,175459,single,1,2024-04-12,True,https://i.scdn.co/image/ab67616d0000b273659cd4673230913b3918e0d5
+2024-08-08,5,Please Please Please,Sabrina Carpenter,97,186365,single,2,2024-06-06,True,https://i.scdn.co/image/ab67616d0000b273de84adf0e48248ea2d769c3e
+2024-08-08,6,A Bar Song (Tipsy),Shaboozey,88,171291,album,12,2024-05-31,True,https://i.scdn.co/image/ab67616d0000b27360df033c8f8b17384387666a
+2024-08-08,7,Stargazing,Myles Smith,93,172533,single,1,2024-05-10,False,https://i.scdn.co/image/ab67616d0000b27381b12e1a0584e8ea7ba2ae4a
+2024-08-08,8,Too Sweet,Hozier,88,251424,album,20,2024-03-22,False,https://i.scdn.co/image/ab67616d0000b2733e1b212546dac35443735241
+2024-08-08,9,Beautiful Things,Benson Boone,91,180304,album,15,2024-04-05,False,https://i.scdn.co/image/ab67616d0000b273cc04ff3e70e146ba9abacf40
+2024-08-08,10,I Had Some Help (Feat. Morgan Wallen),Post Malone & Morgan Wallen,94,178205,single,1,2024-05-10,True,https://i.scdn.co/image/ab67616d0000b27397306976e3eb8aad53b754eb
+2024-08-08,11,Apple,Charli xcx,87,151739,album,15,2024-06-07,False,https://i.scdn.co/image/ab67616d0000b27388e3822cccfb8f2832c70c2e
+2024-08-08,12,Stick Season,Noah Kahan,90,182346,album,14,2022-10-14,False,https://i.scdn.co/image/ab67616d0000b2736ee35072df1af802cca09918
+2024-08-08,13,Austin (Boots Stop Workin'),Dasha,91,171782,album,8,2024-02-16,True,https://i.scdn.co/image/ab67616d0000b2734ccf88b66e04cfd247f287eb
+2024-08-08,14,Kisses (feat. bbyclose),BL3SS & CamrinWatsin & bbyclose,80,138246,single,1,2024-03-22,False,https://i.scdn.co/image/ab67616d0000b273b34e59de10e1fcd9133c1816
+2024-08-08,15,HOT TO GO!,Chappell Roan,90,184841,album,14,2023-09-22,False,https://i.scdn.co/image/ab67616d0000b27396fa88fb1789be437d5cb4b6
+2024-08-08,16,Lose Control,Teddy Swims,90,210688,album,10,2023-09-15,False,https://i.scdn.co/image/ab67616d0000b2731a0323cc23419360a34a3ace
+2024-08-08,17,Bye Bye Bye - From Deadpool and Wolverine Soundtrack,*NSYNC,86,200400,album,12,2000-03-21,False,https://i.scdn.co/image/ab67616d0000b273a6cb8fab778e1efc406a5909
+2024-08-08,18,KEHLANI,Jordan Adetunji,86,122360,single,3,2024-06-24,False,https://i.scdn.co/image/ab67616d0000b273f2cd132495d61b0da6a900d2
+2024-08-08,19,360,Charli xcx,88,133805,album,15,2024-06-07,True,https://i.scdn.co/image/ab67616d0000b27388e3822cccfb8f2832c70c2e
+2024-08-08,20,Not Like Us,Kendrick Lamar,96,274192,single,1,2024-05-04,True,https://i.scdn.co/image/ab67616d0000b2731ea0c62b2339cbf493a999ad
+2024-08-08,21,Slow It Down,Benson Boone,89,161831,album,15,2024-04-05,False,https://i.scdn.co/image/ab67616d0000b273cc04ff3e70e146ba9abacf40
+2024-08-08,22,Houdini,Eminem,84,227032,album,19,2024-07-12,True,https://i.scdn.co/image/ab67616d0000b2731633c43b5695735f7de36487
+2024-08-08,23,Move,Adam Port & Stryv & Keinemusik,90,177598,single,1,2024-06-07,False,https://i.scdn.co/image/ab67616d0000b27317a013a00d0a33f3dd49974d
+2024-08-08,24,MILLION DOLLAR BABY,Tommy Richman,94,155151,single,2,2024-04-26,False,https://i.scdn.co/image/ab67616d0000b27301c0cd5da820e6128655854f
+2024-08-08,25,LUNCH,Billie Eilish,93,179586,album,10,2024-05-17,False,https://i.scdn.co/image/ab67616d0000b27371d62ea7ea8a5be92d3c1f62
+2024-08-08,26,Belong Together,Mark Ambor,91,148317,single,1,2024-02-16,False,https://i.scdn.co/image/ab67616d0000b273ed71b8008aaa879622f8c3b5
+2024-08-08,27,Mr. Brightside,The Killers,87,222973,album,12,2004,False,https://i.scdn.co/image/ab67616d0000b273ccdddd46119a4ff53eaf1f5d
+2024-08-08,28,Scared To Start,Michael Marcagi,88,159636,single,1,2024-01-12,False,https://i.scdn.co/image/ab67616d0000b27351ef67c49732e45cd2b26fbe
+2024-08-08,29,Did It First (with Central Cee),Ice Spice & Central Cee,87,118002,single,1,2024-07-11,True,https://i.scdn.co/image/ab67616d0000b273dc9f83f20038d54b78c48aeb
+2024-08-08,30,BAND4BAND (feat. Lil Baby),Central Cee & Lil Baby,90,140733,single,1,2024-05-23,True,https://i.scdn.co/image/ab67616d0000b2737b588bf0555bde606f8b27c7
+2024-08-08,31,Cruel Summer,Taylor Swift,92,178426,album,18,2019-08-23,False,https://i.scdn.co/image/ab67616d0000b273e787cffec20aa2a396a61647
+2024-08-08,32,NIGHTS LIKE THIS,The Kid LAROI,87,86983,album,20,2023-11-10,False,https://i.scdn.co/image/ab67616d0000b2732abb30c6296964d5d07458c2
+2024-08-08,33,Pink Pony Club,Chappell Roan,87,258034,album,14,2023-09-22,False,https://i.scdn.co/image/ab67616d0000b27396fa88fb1789be437d5cb4b6
+2024-08-08,34,Evergreen,Richy Mitch & The Coal Miners,88,87000,album,14,2017-05-17,False,https://i.scdn.co/image/ab67616d0000b2731cc17bae5ee17cce117e198a
+2024-08-08,35,Fortnight (feat. Post Malone),Taylor Swift,90,228965,album,16,2024-04-18,False,https://i.scdn.co/image/ab67616d0000b2735076e4160d018e378f488c33
+2024-08-08,36,Big Dawgs,Hanumankind & Kalmi,84,190666,single,1,2024-07-09,True,https://i.scdn.co/image/ab67616d0000b273d9afe5c70c43cb2bd34605ea
+2024-08-08,37,Red Wine Supernova,Chappell Roan,88,192720,album,14,2023-09-22,True,https://i.scdn.co/image/ab67616d0000b27396fa88fb1789be437d5cb4b6
+2024-08-08,38,I Can Do It With a Broken Heart,Taylor Swift,87,218004,album,16,2024-04-18,True,https://i.scdn.co/image/ab67616d0000b2735076e4160d018e378f488c33
+2024-08-08,39,I Don't Wanna Wait,David Guetta & OneRepublic,90,149667,single,2,2024-04-05,False,https://i.scdn.co/image/ab67616d0000b2732f479a6c1825c1f29e0a3d49
+2024-08-08,40,i like the way you kiss me,Artemas,78,142514,album,14,2024-07-11,False,https://i.scdn.co/image/ab67616d0000b2738fe69d8df304ff053693653e
+2024-08-08,41,"I Love You, I'm Sorry",Gracie Abrams,84,157146,album,13,2024-06-21,True,https://i.scdn.co/image/ab67616d0000b2736e2101520787791370f4a96b
+2024-08-08,42,Unwritten,Natasha Bedingfield,88,259333,album,14,2004-08-30,False,https://i.scdn.co/image/ab67616d0000b273b337e1ca6629a53c66a3b0d4
+2024-08-08,43,The Night We Met,Lord Huron,89,208211,album,14,2015-04-06,False,https://i.scdn.co/image/ab67616d0000b27317875a0610c23d8946454583
+2024-08-08,44,WILDFLOWER,Billie Eilish,89,261466,album,10,2024-05-17,False,https://i.scdn.co/image/ab67616d0000b27371d62ea7ea8a5be92d3c1f62
+2024-08-08,45,Angel Of My Dreams,JADE,77,197639,single,1,2024-07-19,False,https://i.scdn.co/image/ab67616d0000b2730eea8e9f9c55fbecbca82734
+2024-08-08,46,Iris,The Goo Goo Dolls,87,289533,album,13,1998-09-11,False,https://i.scdn.co/image/ab67616d0000b273eda9478c39a21e1cdc6609ca
+2024-08-08,47,End of Beginning,Djo,92,159245,album,13,2022-09-16,False,https://i.scdn.co/image/ab67616d0000b273fddfffec51b4580acae727c1
+2024-08-08,48,Riptide,Vance Joy,84,204280,album,13,2014-09-08,False,https://i.scdn.co/image/ab67616d0000b273d3ce97395ff522b0d70c1094
+2024-08-08,49,misses,Dominic Fike,85,74378,album,8,2024-05-03,False,https://i.scdn.co/image/ab67616d0000b273abdde781e79a44868914e661
+2024-08-08,50,Dreams - 2004 Remaster,Fleetwood Mac,86,257800,album,58,1977-02-04,False,https://i.scdn.co/image/ab67616d0000b273e52a59a28efa4773dd2bfe1b
