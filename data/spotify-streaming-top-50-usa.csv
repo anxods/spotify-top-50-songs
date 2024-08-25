@@ -23049,3 +23049,53 @@ date,position,song,artist,popularity,duration_ms,album_type,total_tracks,release
 2024-08-24,48,28,Zach Bryan,86,233333,album,19,2024-07-04,False,https://i.scdn.co/image/ab67616d0000b273647ad18a07e9e939e399e5a1
 2024-08-24,49,Like That,Future & Metro Boomin,89,267706,album,17,2024-03-22,True,https://i.scdn.co/image/ab67616d0000b273a46b07c291e6dfdee13b3ee8
 2024-08-24,50,Si Antes Te Hubiera Conocido,KAROL G,96,195824,single,1,2024-06-21,False,https://i.scdn.co/image/ab67616d0000b273491678beaffcefac517a699e
+2024-08-25,1,Please Please Please,Sabrina Carpenter,97,186365,single,2,2024-06-06,True,https://i.scdn.co/image/ab67616d0000b273de84adf0e48248ea2d769c3e
+2024-08-25,2,Taste,Sabrina Carpenter,76,157279,album,12,2024-08-23,False,https://i.scdn.co/image/ab67616d0000b273208dc3669313f2c5114c612d
+2024-08-25,3,Espresso,Sabrina Carpenter,98,175459,single,1,2024-04-12,True,https://i.scdn.co/image/ab67616d0000b273659cd4673230913b3918e0d5
+2024-08-25,4,Die With A Smile,Lady Gaga & Bruno Mars,90,251667,single,1,2024-08-16,False,https://i.scdn.co/image/ab67616d0000b27382ea2e9e1858aa012c57cd45
+2024-08-25,5,"Good Luck, Babe!",Chappell Roan,96,218423,single,1,2024-04-05,False,https://i.scdn.co/image/ab67616d0000b27391b4bc7c88d91a42e0f3a8b7
+2024-08-25,6,BIRDS OF A FEATHER,Billie Eilish,100,210373,album,10,2024-05-17,False,https://i.scdn.co/image/ab67616d0000b27371d62ea7ea8a5be92d3c1f62
+2024-08-25,7,Good Graces,Sabrina Carpenter,74,185265,album,12,2024-08-23,True,https://i.scdn.co/image/ab67616d0000b273208dc3669313f2c5114c612d
+2024-08-25,8,I Had Some Help (Feat. Morgan Wallen),Post Malone,80,178205,album,18,2024-08-15,True,https://i.scdn.co/image/ab67616d0000b27388208159b1b3c69eefdeb2e0
+2024-08-25,9,Who,Jimin,94,170887,album,7,2024-07-19,False,https://i.scdn.co/image/ab67616d0000b273f02c451189a709b9a952aaec
+2024-08-25,10,Bed Chem,Sabrina Carpenter,73,171869,album,12,2024-08-23,False,https://i.scdn.co/image/ab67616d0000b273208dc3669313f2c5114c612d
+2024-08-25,11,A Bar Song (Tipsy),Shaboozey,88,171291,album,12,2024-05-31,True,https://i.scdn.co/image/ab67616d0000b27360df033c8f8b17384387666a
+2024-08-25,12,Sharpest Tool,Sabrina Carpenter,73,218284,album,12,2024-08-23,True,https://i.scdn.co/image/ab67616d0000b273208dc3669313f2c5114c612d
+2024-08-25,13,Not Like Us,Kendrick Lamar,95,274192,single,1,2024-05-04,True,https://i.scdn.co/image/ab67616d0000b2731ea0c62b2339cbf493a999ad
+2024-08-25,14,Juno,Sabrina Carpenter,72,223192,album,12,2024-08-23,True,https://i.scdn.co/image/ab67616d0000b273208dc3669313f2c5114c612d
+2024-08-25,15,Coincidence,Sabrina Carpenter,73,164202,album,12,2024-08-23,False,https://i.scdn.co/image/ab67616d0000b273208dc3669313f2c5114c612d
+2024-08-25,16,HOT TO GO!,Chappell Roan,91,184841,album,14,2023-09-22,False,https://i.scdn.co/image/ab67616d0000b27396fa88fb1789be437d5cb4b6
+2024-08-25,17,Slim Pickins,Sabrina Carpenter,72,152195,album,12,2024-08-23,False,https://i.scdn.co/image/ab67616d0000b273208dc3669313f2c5114c612d
+2024-08-25,18,MILLION DOLLAR BABY,Tommy Richman,94,155151,single,2,2024-04-26,False,https://i.scdn.co/image/ab67616d0000b27301c0cd5da820e6128655854f
+2024-08-25,19,Dumb & Poetic,Sabrina Carpenter,72,133478,album,12,2024-08-23,True,https://i.scdn.co/image/ab67616d0000b273208dc3669313f2c5114c612d
+2024-08-25,20,Pink Pony Club,Chappell Roan,88,258034,album,14,2023-09-22,False,https://i.scdn.co/image/ab67616d0000b27396fa88fb1789be437d5cb4b6
+2024-08-25,21,Don’t Smile,Sabrina Carpenter,71,206295,album,12,2024-08-23,False,https://i.scdn.co/image/ab67616d0000b273208dc3669313f2c5114c612d
+2024-08-25,22,Lie To Girls,Sabrina Carpenter,71,202001,album,12,2024-08-23,True,https://i.scdn.co/image/ab67616d0000b273208dc3669313f2c5114c612d
+2024-08-25,23,Red Wine Supernova,Chappell Roan,89,192720,album,14,2023-09-22,True,https://i.scdn.co/image/ab67616d0000b27396fa88fb1789be437d5cb4b6
+2024-08-25,24,Beautiful Things,Benson Boone,91,180304,album,15,2024-04-05,False,https://i.scdn.co/image/ab67616d0000b273cc04ff3e70e146ba9abacf40
+2024-08-25,25,Big Dawgs,Hanumankind & Kalmi,92,190666,single,1,2024-07-09,True,https://i.scdn.co/image/ab67616d0000b273d9afe5c70c43cb2bd34605ea
+2024-08-25,26,Guess featuring Billie Eilish,Charli xcx & Billie Eilish,92,143330,single,1,2024-08-01,False,https://i.scdn.co/image/ab67616d0000b2738b8d8be49f9c4a44b0574144
+2024-08-25,27,Pink Skies,Zach Bryan,88,194920,single,1,2024-05-24,False,https://i.scdn.co/image/ab67616d0000b2731a2c9ac2d39bc5c2e22b9555
+2024-08-25,28,Too Sweet,Hozier,83,251424,album,20,2024-03-22,False,https://i.scdn.co/image/ab67616d0000b2732e8b4358d044b75807e30bf0
+2024-08-25,29,I Remember Everything (feat. Kacey Musgraves),Zach Bryan,89,227195,album,16,2023-08-25,False,https://i.scdn.co/image/ab67616d0000b273e5a25ed08d1e7e0fbb440cef
+2024-08-25,30,Lose Control,Teddy Swims,91,210688,album,10,2023-09-15,False,https://i.scdn.co/image/ab67616d0000b2731a0323cc23419360a34a3ace
+2024-08-25,31,Apple,Charli xcx,89,151739,album,15,2024-06-07,False,https://i.scdn.co/image/ab67616d0000b27388e3822cccfb8f2832c70c2e
+2024-08-25,32,Stick Season,Noah Kahan,90,182346,album,14,2022-10-14,False,https://i.scdn.co/image/ab67616d0000b2736ee35072df1af802cca09918
+2024-08-25,33,Cowgirls (feat. ERNEST),Morgan Wallen,86,181621,album,36,2023-03-03,False,https://i.scdn.co/image/ab67616d0000b273705079df9a25a28b452c1fc9
+2024-08-25,34,Something in the Orange,Zach Bryan,87,228013,single,4,2022-04-22,False,https://i.scdn.co/image/ab67616d0000b273b2b6670e3aca9bcd55fbabbb
+2024-08-25,35,Lies Lies Lies,Morgan Wallen,87,198068,single,1,2024-07-05,False,https://i.scdn.co/image/ab67616d0000b27337eedb840f9441959db3107e
+2024-08-25,36,NIGHTS LIKE THIS,The Kid LAROI,89,86983,album,20,2023-11-10,False,https://i.scdn.co/image/ab67616d0000b2732abb30c6296964d5d07458c2
+2024-08-25,37,Austin (Boots Stop Workin'),Dasha,91,171782,album,8,2024-02-16,True,https://i.scdn.co/image/ab67616d0000b2734ccf88b66e04cfd247f287eb
+2024-08-25,38,Last Night,Morgan Wallen,83,163854,album,36,2023-03-03,True,https://i.scdn.co/image/ab67616d0000b273705079df9a25a28b452c1fc9
+2024-08-25,39,Ain't No Love In Oklahoma (From Twisters: The Album),Luke Combs,85,210950,single,1,2024-05-16,False,https://i.scdn.co/image/ab67616d0000b27339808230102049beb62fdd7b
+2024-08-25,40,Guy For That (Feat. Luke Combs),Post Malone,77,164011,album,18,2024-08-15,False,https://i.scdn.co/image/ab67616d0000b27388208159b1b3c69eefdeb2e0
+2024-08-25,41,See You Again (feat. Kali Uchis),"Tyler, The Creator",89,180386,album,14,2017-07-21,True,https://i.scdn.co/image/ab67616d0000b2738940ac99f49e44f59e6f7fb3
+2024-08-25,42,360,Charli xcx,89,133805,album,15,2024-06-07,True,https://i.scdn.co/image/ab67616d0000b27388e3822cccfb8f2832c70c2e
+2024-08-25,43,Heading South,Zach Bryan,86,171692,single,1,2019-09-30,True,https://i.scdn.co/image/ab67616d0000b273f9017bcd001d030d46850226
+2024-08-25,44,Si Antes Te Hubiera Conocido,KAROL G,96,195824,single,1,2024-06-21,False,https://i.scdn.co/image/ab67616d0000b273491678beaffcefac517a699e
+2024-08-25,45,Like That,Future & Metro Boomin,89,267706,album,17,2024-03-22,True,https://i.scdn.co/image/ab67616d0000b273a46b07c291e6dfdee13b3ee8
+2024-08-25,46,Casual,Chappell Roan,87,232796,album,14,2023-09-22,True,https://i.scdn.co/image/ab67616d0000b27396fa88fb1789be437d5cb4b6
+2024-08-25,47,Slow It Down,Benson Boone,89,161831,album,15,2024-04-05,False,https://i.scdn.co/image/ab67616d0000b273cc04ff3e70e146ba9abacf40
+2024-08-25,48,Scared To Start,Michael Marcagi,88,159636,single,1,2024-01-12,False,https://i.scdn.co/image/ab67616d0000b27351ef67c49732e45cd2b26fbe
+2024-08-25,49,Thinkin’ Bout Me,Morgan Wallen,85,177387,album,36,2023-03-03,False,https://i.scdn.co/image/ab67616d0000b273705079df9a25a28b452c1fc9
+2024-08-25,50,Sun to Me,Zach Bryan,85,163031,album,34,2022-05-20,False,https://i.scdn.co/image/ab67616d0000b273ba30859a1ca79c5a372d177a
