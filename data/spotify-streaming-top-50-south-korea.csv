@@ -25199,3 +25199,53 @@ date,position,song,artist,popularity,duration_ms,album_type,total_tracks,release
 2024-10-06,48,Bubble Gum,NewJeans,75,200266,single,4,2024-05-24,False,https://i.scdn.co/image/ab67616d0000b273b657fbb27b17e7bd4691c2b2
 2024-10-06,49,double take,Dhruv,82,171743,album,8,2022-01-21,False,https://i.scdn.co/image/ab67616d0000b2736f04e53cb5309f8e88286842
 2024-10-06,50,T.B.H,QWER,59,175880,single,7,2024-04-01,False,https://i.scdn.co/image/ab67616d0000b2738a0ed896193a7c70ae17b30e
+2024-10-07,1,Who,Jimin,93,170887,album,7,2024-07-19,False,https://i.scdn.co/image/ab67616d0000b273f02c451189a709b9a952aaec
+2024-10-07,2,Be Mine,Jimin,80,207347,album,7,2024-07-19,False,https://i.scdn.co/image/ab67616d0000b273f02c451189a709b9a952aaec
+2024-10-07,3,Seven (feat. Latto) (Explicit Ver.),Jung Kook,85,183550,album,11,2023-11-03,True,https://i.scdn.co/image/ab67616d0000b273741fd4807f442af3f7359316
+2024-10-07,4,3D (feat. Jack Harlow),Jung Kook,77,201812,album,7,2023-10-02,True,https://i.scdn.co/image/ab67616d0000b27399583bb32b47e87d55c6064b
+2024-10-07,5,HAPPY,DAY6,56,189934,single,7,2024-03-18,False,https://i.scdn.co/image/ab67616d0000b2731e20be5a6bdfd2780516320a
+2024-10-07,6,Smeraldo Garden Marching Band (feat. Loco),Jimin,74,182840,album,7,2024-07-19,False,https://i.scdn.co/image/ab67616d0000b273f02c451189a709b9a952aaec
+2024-10-07,7,Standing Next to You,Jung Kook,89,206019,album,11,2023-11-03,False,https://i.scdn.co/image/ab67616d0000b273741fd4807f442af3f7359316
+2024-10-07,8,My Name is Malguem,QWER,57,188320,single,8,2024-09-23,False,https://i.scdn.co/image/ab67616d0000b273df409319f6111210ada8cf35
+2024-10-07,9,CRAZY,LE SSERAFIM,79,164554,album,8,2024-09-02,False,https://i.scdn.co/image/ab67616d0000b273d49db78bd7ea1f7229865baa
+2024-10-07,10,Closer Than This,Jimin,73,223301,album,7,2024-07-19,False,https://i.scdn.co/image/ab67616d0000b273f02c451189a709b9a952aaec
+2024-10-07,11,Slow Dance (feat. Sofia Carson),Jimin,74,188399,album,7,2024-07-19,False,https://i.scdn.co/image/ab67616d0000b273f02c451189a709b9a952aaec
+2024-10-07,12,Rebirth (Intro),Jimin,73,144624,album,7,2024-07-19,False,https://i.scdn.co/image/ab67616d0000b273f02c451189a709b9a952aaec
+2024-10-07,13,Supersonic,fromis_9,72,174146,single,3,2024-08-12,False,https://i.scdn.co/image/ab67616d0000b2730490e8ab48790ca6e5add267
+2024-10-07,14,Supernatural,NewJeans,80,191000,single,4,2024-06-21,False,https://i.scdn.co/image/ab67616d0000b2737e1eeb0d7cc374a168369c80
+2024-10-07,15,Supernova,aespa,74,178880,album,10,2024-05-27,False,https://i.scdn.co/image/ab67616d0000b2730fc598038040859794c600e2
+2024-10-07,16,Who (Rock Remix),Jimin,65,171995,album,10,2024-07-23,False,https://i.scdn.co/image/ab67616d0000b273f150d9f2e5e8148e5032fd7d
+2024-10-07,17,Who (Instrumental),Jimin,64,170887,album,10,2024-07-23,False,https://i.scdn.co/image/ab67616d0000b273f150d9f2e5e8148e5032fd7d
+2024-10-07,18,Who (Acoustic Remix),Jimin,65,184075,album,10,2024-07-23,False,https://i.scdn.co/image/ab67616d0000b273f150d9f2e5e8148e5032fd7d
+2024-10-07,19,Die With A Smile,Lady Gaga & Bruno Mars,100,251667,single,1,2024-08-16,False,https://i.scdn.co/image/ab67616d0000b27382ea2e9e1858aa012c57cd45
+2024-10-07,20,Who (Beautiful Mind Remix),Jimin,64,177953,album,10,2024-07-23,False,https://i.scdn.co/image/ab67616d0000b27382601539d4a27061ad90eacb
+2024-10-07,21,Who (Shibuyakei Remix),Jimin,64,166809,album,10,2024-07-23,False,https://i.scdn.co/image/ab67616d0000b27382601539d4a27061ad90eacb
+2024-10-07,22,Interlude : Showtime,Jimin,72,78492,album,7,2024-07-19,False,https://i.scdn.co/image/ab67616d0000b273f02c451189a709b9a952aaec
+2024-10-07,23,Who (Funky Remix),Jimin,64,188498,album,10,2024-07-23,False,https://i.scdn.co/image/ab67616d0000b27382601539d4a27061ad90eacb
+2024-10-07,24,How Sweet,NewJeans,80,219026,single,4,2024-05-24,False,https://i.scdn.co/image/ab67616d0000b273b657fbb27b17e7bd4691c2b2
+2024-10-07,25,Warmth,Lim Young Woong,63,235053,single,2,2024-05-06,False,https://i.scdn.co/image/ab67616d0000b273744791c0e707946a832baa13
+2024-10-07,26,Home,Lim Young Woong,63,235333,single,2,2024-05-06,False,https://i.scdn.co/image/ab67616d0000b273744791c0e707946a832baa13
+2024-10-07,27,Magnetic,ILLIT,84,160688,single,4,2024-03-25,False,https://i.scdn.co/image/ab67616d0000b273f037c5fb9de6c78726cb8e2c
+2024-10-07,28,Do or Die,Lim Young Woong,60,205440,single,1,2023-10-09,False,https://i.scdn.co/image/ab67616d0000b273831b4a8eb3bd16788dca633a
+2024-10-07,29,Grain of Sand,Lim Young Woong,59,220309,single,1,2023-06-05,False,https://i.scdn.co/image/ab67616d0000b273111a6e9b713b646443c5c222
+2024-10-07,30,MEOW,MEOVV,51,172073,single,1,2024-09-06,False,https://i.scdn.co/image/ab67616d0000b27349ab7d55d550efc9ab5fdc12
+2024-10-07,31,Welcome to the Show,DAY6,52,217067,single,7,2024-03-18,False,https://i.scdn.co/image/ab67616d0000b2731e20be5a6bdfd2780516320a
+2024-10-07,32,London Boy,Lim Young Woong,58,244500,single,2,2022-11-15,False,https://i.scdn.co/image/ab67616d0000b2732d2009b6cad53ddacad11334
+2024-10-07,33,Armageddon,aespa,75,196466,album,10,2024-05-27,False,https://i.scdn.co/image/ab67616d0000b2730fc598038040859794c600e2
+2024-10-07,34,Love Me Again,V,86,182293,single,2,2023-08-11,False,https://i.scdn.co/image/ab67616d0000b2732f1a5b69c2bd76474bca8035
+2024-10-07,35,한 페이지가 될 수 있게,DAY6,52,205575,single,6,2019-07-15,False,https://i.scdn.co/image/ab67616d0000b27380c0a2d0bf89e3707b6365c4
+2024-10-07,36,Touch,KATSEYE,50,129882,single,1,2024-07-26,False,https://i.scdn.co/image/ab67616d0000b2737e08f4e6d2766b139abb3a67
+2024-10-07,37,BIRDS OF A FEATHER,Billie Eilish,98,210373,album,10,2024-05-17,False,https://i.scdn.co/image/ab67616d0000b27371d62ea7ea8a5be92d3c1f62
+2024-10-07,38,Sticky,KISS OF LIFE,80,157120,single,2,2024-07-01,False,https://i.scdn.co/image/ab67616d0000b2734cd7f69b85766b3d3035c27c
+2024-10-07,39,Perfect Night,LE SSERAFIM,80,159080,single,1,2023-10-27,False,https://i.scdn.co/image/ab67616d0000b2735e352f6eccf8cb96d0b247cc
+2024-10-07,40,녹아내려요 Melt Down,DAY6,55,165587,single,8,2024-09-02,False,https://i.scdn.co/image/ab67616d0000b27342e0fe9e101c705fe7edf5a2
+2024-10-07,41,Timeless (with Playboi Carti),The Weeknd & Playboi Carti,89,256000,single,1,2024-09-27,True,https://i.scdn.co/image/ab67616d0000b273ee2fe4a7b285d3817b470859
+2024-10-07,42,Like Crazy,Jimin,76,212241,single,6,2023-03-24,False,https://i.scdn.co/image/ab67616d0000b2732b46078245d0120690eb560d
+2024-10-07,43,If I have you only (My love X Nerd Connection),Nerd Connection,53,250573,single,2,2023-08-15,False,https://i.scdn.co/image/ab67616d0000b27320daf4f9c25cbe0bc384e606
+2024-10-07,44,예뻤어,DAY6,49,283160,album,14,2017-06-07,False,https://i.scdn.co/image/ab67616d0000b273b3773dc742bde1298ea9399f
+2024-10-07,45,Polaroid,Lim Young Woong,55,206400,single,2,2022-11-15,False,https://i.scdn.co/image/ab67616d0000b2732d2009b6cad53ddacad11334
+2024-10-07,46,Ditto,NewJeans,78,185506,single,1,2022-12-19,False,https://i.scdn.co/image/ab67616d0000b273edf5b257be1d6593e81bb45f
+2024-10-07,47,double take,Dhruv,82,171743,album,8,2022-01-21,False,https://i.scdn.co/image/ab67616d0000b2736f04e53cb5309f8e88286842
+2024-10-07,48,Espresso,Sabrina Carpenter,86,175459,album,12,2024-08-23,True,https://i.scdn.co/image/ab67616d0000b273fd8d7a8d96871e791cb1f626
+2024-10-07,49,T.B.H,QWER,59,175880,single,7,2024-04-01,False,https://i.scdn.co/image/ab67616d0000b2738a0ed896193a7c70ae17b30e
+2024-10-07,50,If We Ever Meet Again,Lim Young Woong,55,274386,album,12,2022-05-02,False,https://i.scdn.co/image/ab67616d0000b2738f116e476da669a9a3e7dcaa
