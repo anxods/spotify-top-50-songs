@@ -26349,3 +26349,53 @@ date,position,song,artist,popularity,duration_ms,album_type,total_tracks,release
 2024-10-29,48,CHIARA,Tony Effe,60,149473,album,19,2024-05-22,True,https://i.scdn.co/image/ab67616d0000b27383a1b439e695c7898e2ddae6
 2024-10-29,49,Borse Hermès,Capo Plaza,25,159745,album,20,2024-05-03,True,https://i.scdn.co/image/ab67616d0000b27382d142d223faa4fd33cfaf2b
 2024-10-29,50,40 GRADI,Simba La Rue,54,162406,album,26,2024-10-18,True,https://i.scdn.co/image/ab67616d0000b2736bfaece99a2e987ba1b6963e
+2024-10-30,1,MI PIACCIONO LE ARMI,Simba La Rue,70,129655,album,26,2024-10-18,True,https://i.scdn.co/image/ab67616d0000b2736bfaece99a2e987ba1b6963e
+2024-10-30,2,Per due come noi,Olly & JVLI,57,212853,album,12,2024-10-25,False,https://i.scdn.co/image/ab67616d0000b2731e252362775c20ee98f6d3e1
+2024-10-30,3,HEETS (feat. Geolier),Lele Blade,63,177545,album,16,2024-10-25,False,https://i.scdn.co/image/ab67616d0000b273c869beb91b53eedf6a3796f6
+2024-10-30,4,il filo rosso,Alfa,59,187403,album,11,2024-02-16,False,https://i.scdn.co/image/ab67616d0000b273010f5fc0c1575865a7d7c2af
+2024-10-30,5,Donna,Kid Yugi,64,179072,single,1,2024-10-24,True,https://i.scdn.co/image/ab67616d0000b2738920e995cd3c53ba368af2fe
+2024-10-30,6,TT LE GIRLZ (feat. Niky Savage),ANNA,76,144210,album,18,2024-06-27,True,https://i.scdn.co/image/ab67616d0000b273fb7329a6fb6154b1fa3704c7
+2024-10-30,7,Ora che non ho più te,Cesare Cremonini,72,303032,single,1,2024-09-23,False,https://i.scdn.co/image/ab67616d0000b273a9b9eff7f4b27ea38df7bed9
+2024-10-30,8,1 MOMENTO (feat. ANNA),Astro,71,176838,album,17,2024-10-04,True,https://i.scdn.co/image/ab67616d0000b273943d45d67e39ecf75b96c060
+2024-10-30,9,BUIO DAVANTI,Lazza,72,189642,album,18,2024-09-19,True,https://i.scdn.co/image/ab67616d0000b27312b860c1df72545a88313518
+2024-10-30,10,Si Antes Te Hubiera Conocido,KAROL G,94,195824,single,1,2024-06-21,False,https://i.scdn.co/image/ab67616d0000b273491678beaffcefac517a699e
+2024-10-30,11,"Entro nel posto (feat. Tony Boy, Kid Yugi & Capo Plaza)",Night Skinny,72,179545,album,18,2024-10-10,True,https://i.scdn.co/image/ab67616d0000b2738dd0855360fb4f0be2b9055c
+2024-10-30,12,Rossetto e caffè,Sal Da Vinci,73,192989,single,1,2024-06-14,False,https://i.scdn.co/image/ab67616d0000b27322fcd711bb672944ffc67358
+2024-10-30,13,EPISODIO D'AMORE,Geolier,73,196613,album,21,2024-06-07,False,https://i.scdn.co/image/ab67616d0000b2736ca1afc5513fd69a8c0c4dc2
+2024-10-30,14,Devastante,Olly & JVLI,54,190122,album,12,2024-10-25,False,https://i.scdn.co/image/ab67616d0000b2731e252362775c20ee98f6d3e1
+2024-10-30,15,Amore Disperato,Achille Lauro,70,188918,single,1,2024-09-20,False,https://i.scdn.co/image/ab67616d0000b27304ba939131698b080b0b2e59
+2024-10-30,16,SPENDERE (feat. Simba La Rue),Astro,70,124675,album,17,2024-10-04,True,https://i.scdn.co/image/ab67616d0000b273943d45d67e39ecf75b96c060
+2024-10-30,17,Gotham (feat. Kid Yugi),Shiva,74,207346,album,18,2024-09-06,False,https://i.scdn.co/image/ab67616d0000b273b94d9d452e2fb58c761eb525
+2024-10-30,18,Quei ricordi là,Olly & JVLI,60,180856,album,12,2024-10-25,False,https://i.scdn.co/image/ab67616d0000b2731e252362775c20ee98f6d3e1
+2024-10-30,19,Romantico Ma Muori,Pinguini Tattici Nucleari,73,166330,single,1,2024-09-13,False,https://i.scdn.co/image/ab67616d0000b273d850d10b72e8ccd5658ab77d
+2024-10-30,20,Tessera sanitaria (feat. Nerissima Serpe & Papa V),Night Skinny,70,204668,album,18,2024-10-10,True,https://i.scdn.co/image/ab67616d0000b2738dd0855360fb4f0be2b9055c
+2024-10-30,21,RAGNI,Tananai,60,210677,album,12,2024-10-17,False,https://i.scdn.co/image/ab67616d0000b273d86f25217d7ae4a47a186dc2
+2024-10-30,22,Scarabocchi,Olly & JVLI,58,180137,album,12,2024-10-25,False,https://i.scdn.co/image/ab67616d0000b2731e252362775c20ee98f6d3e1
+2024-10-30,23,CANZONE D'ODIO (feat. Lil Baby),Lazza,75,162969,album,18,2024-09-19,True,https://i.scdn.co/image/ab67616d0000b27312b860c1df72545a88313518
+2024-10-30,24,St. Chroma (feat. Daniel Caesar),"Tyler, The Creator",79,197019,album,14,2024-10-28,True,https://i.scdn.co/image/ab67616d0000b273232374a6a869e62826f3f1f7
+2024-10-30,25,Die With A Smile,Lady Gaga & Bruno Mars,100,251667,single,1,2024-08-16,False,https://i.scdn.co/image/ab67616d0000b27382ea2e9e1858aa012c57cd45
+2024-10-30,26,30ºC,ANNA,69,142615,album,18,2024-06-27,True,https://i.scdn.co/image/ab67616d0000b273fb7329a6fb6154b1fa3704c7
+2024-10-30,27,HELLO KITTY (feat. Sillyelly),ANNA,71,149091,album,18,2024-06-27,True,https://i.scdn.co/image/ab67616d0000b273fb7329a6fb6154b1fa3704c7
+2024-10-30,28,STORIE BREVI,Tananai,57,175153,album,12,2024-10-17,False,https://i.scdn.co/image/ab67616d0000b273d86f25217d7ae4a47a186dc2
+2024-10-30,29,Rah Tah Tah,"Tyler, The Creator",78,165412,album,14,2024-10-28,True,https://i.scdn.co/image/ab67616d0000b273232374a6a869e62826f3f1f7
+2024-10-30,30,"Solo Dio sa (feat. Tony Boy, anice, Geolier & Shiva)",Night Skinny,69,210000,album,18,2024-10-10,True,https://i.scdn.co/image/ab67616d0000b2738dd0855360fb4f0be2b9055c
+2024-10-30,31,Noid,"Tyler, The Creator",82,284363,single,1,2024-10-21,True,https://i.scdn.co/image/ab67616d0000b273dc620428d6bbc305cd43c19b
+2024-10-30,32,Niente Panico,Ghali,67,181373,single,1,2024-10-11,False,https://i.scdn.co/image/ab67616d0000b27366e9b91e95b5fe8025cf83e7
+2024-10-30,33,"Nella trap (feat. Artie 5ive, Capo Plaza & Tony Effe)",Night Skinny,69,140869,album,18,2024-10-10,True,https://i.scdn.co/image/ab67616d0000b2738dd0855360fb4f0be2b9055c
+2024-10-30,34,NUN È OVER,Le-one & Christian Liguori & Babywyne,62,117230,single,1,2024-10-11,False,https://i.scdn.co/image/ab67616d0000b273fdcc82353462e6c6a4c31d49
+2024-10-30,35,HO VOGLIA DI TE,JVLI & Emma & Olly,71,188785,single,1,2024-06-14,False,https://i.scdn.co/image/ab67616d0000b2730479cf3ff348107b31806fd0
+2024-10-30,36,VRP,Simba La Rue,57,148148,album,26,2024-10-18,True,https://i.scdn.co/image/ab67616d0000b2736bfaece99a2e987ba1b6963e
+2024-10-30,37,Beatrice (feat. Annalisa),Tedua,71,183500,album,24,2024-05-24,False,https://i.scdn.co/image/ab67616d0000b27348c2c3db78eeae67163866f4
+2024-10-30,38,Soldi Arrotolati (feat. ANNA),Capo Plaza,69,151515,album,18,2024-05-03,True,https://i.scdn.co/image/ab67616d0000b273d0e1ffdaa9764768a9ef6ff6
+2024-10-30,39,Polvere (feat. Tony Boy),Shiva,71,167921,album,18,2024-09-06,False,https://i.scdn.co/image/ab67616d0000b273b94d9d452e2fb58c761eb525
+2024-10-30,40,SESSO E SAMBA (feat. Gaia),Tony Effe,66,167263,album,19,2024-05-22,True,https://i.scdn.co/image/ab67616d0000b27383a1b439e695c7898e2ddae6
+2024-10-30,41,FENTANYL (feat. Sfera Ebbasta),Lazza,73,188081,album,18,2024-09-19,True,https://i.scdn.co/image/ab67616d0000b27312b860c1df72545a88313518
+2024-10-30,42,I LOVE IT (feat. Artie 5ive),ANNA,72,191999,album,18,2024-06-27,True,https://i.scdn.co/image/ab67616d0000b273fb7329a6fb6154b1fa3704c7
+2024-10-30,43,"Darling, I (feat. Teezo Touchdown)","Tyler, The Creator",77,253834,album,14,2024-10-28,True,https://i.scdn.co/image/ab67616d0000b273232374a6a869e62826f3f1f7
+2024-10-30,44,Paprika,Ghali,71,148571,single,1,2024-05-10,False,https://i.scdn.co/image/ab67616d0000b27335542084789157d2c769aada
+2024-10-30,45,RA TA TA,Mahmood,64,152383,album,14,2024-03-07,False,https://i.scdn.co/image/ab67616d0000b273bba1b6cd3a5b27442e25cea5
+2024-10-30,46,ALTROVE,Ultimo,66,205354,album,8,2024-05-17,False,https://i.scdn.co/image/ab67616d0000b27395c1fc384c2bf4e7f9292017
+2024-10-30,47,GHETTO (feat. Baby Gang),Simba La Rue,64,151926,album,26,2024-10-18,True,https://i.scdn.co/image/ab67616d0000b2736bfaece99a2e987ba1b6963e
+2024-10-30,48,PELIGROSA,FloyyMenor,84,134930,album,7,2024-08-09,True,https://i.scdn.co/image/ab67616d0000b273200e2b6526846c59789c92e6
+2024-10-30,49,Baby Mama,Don Pero,69,151160,single,1,2022-10-27,True,https://i.scdn.co/image/ab67616d0000b2731f5185de4c80542dc1d79e8e
+2024-10-30,50,40 GRADI,Simba La Rue,56,162406,album,26,2024-10-18,True,https://i.scdn.co/image/ab67616d0000b2736bfaece99a2e987ba1b6963e
