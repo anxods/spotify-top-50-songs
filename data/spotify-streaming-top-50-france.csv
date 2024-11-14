@@ -27099,3 +27099,53 @@ date,position,song,artist,popularity,duration_ms,album_type,total_tracks,release
 2024-11-13,48,WILDFLOWER,Billie Eilish,92,261466,album,10,2024-05-17,False,https://i.scdn.co/image/ab67616d0000b27371d62ea7ea8a5be92d3c1f62
 2024-11-13,49,The Emptiness Machine,Linkin Park,90,190427,single,1,2024-09-05,True,https://i.scdn.co/image/ab67616d0000b273c0db065619ed208515412917
 2024-11-13,50,Tu connais,Werenoi,68,169000,album,7,2023-09-21,True,https://i.scdn.co/image/ab67616d0000b2737fed909b45d0c711e00ef715
+2024-11-14,1,CARTIER SANTOS,SDM,80,183813,album,14,2024-09-26,True,https://i.scdn.co/image/ab67616d0000b27370f8508745ea2e7fff2f510f
+2024-11-14,2,SOIS PAS TIMIDE,GIMS,72,165978,album,7,2024-09-13,False,https://i.scdn.co/image/ab67616d0000b27329393fc9cf92d10b86676297
+2024-11-14,3,Ça parle mal,Bouss,76,176248,album,25,2024-06-21,True,https://i.scdn.co/image/ab67616d0000b273a1725d8b0c1af59e2ae1ba3a
+2024-11-14,4,POUR ELLE,SDM,78,179034,album,14,2024-09-26,True,https://i.scdn.co/image/ab67616d0000b27370f8508745ea2e7fff2f510f
+2024-11-14,5,Sous la lune,Jul,73,171000,album,25,2019-06-28,True,https://i.scdn.co/image/ab67616d0000b2733c505b5ddcbdf80c7dff5a1f
+2024-11-14,6,SPIDER,GIMS,72,188818,album,7,2024-09-13,False,https://i.scdn.co/image/ab67616d0000b27329393fc9cf92d10b86676297
+2024-11-14,7,Minimum ça,Dr. Yaro,73,149811,single,1,2024-08-09,False,https://i.scdn.co/image/ab67616d0000b273d39b05d217190ce3b8dece9b
+2024-11-14,8,Monaco,Guy2Bezbar,76,141314,single,1,2024-07-11,True,https://i.scdn.co/image/ab67616d0000b2732b5b2817520b75805d922f90
+2024-11-14,9,Die With A Smile,Lady Gaga & Bruno Mars,100,251667,single,1,2024-08-16,False,https://i.scdn.co/image/ab67616d0000b27382ea2e9e1858aa012c57cd45
+2024-11-14,10,Collabo,Ninho & Niska,70,174153,album,15,2024-10-25,True,https://i.scdn.co/image/ab67616d0000b273d30660d949dfac1116226d0f
+2024-11-14,11,PROBATION,Gazo,64,219584,single,1,2024-11-08,True,https://i.scdn.co/image/ab67616d0000b273369395f3c1176dc86c496b03
+2024-11-14,12,4 Kampé,Joé Dwèt Filé,72,214971,single,1,2024-10-25,False,https://i.scdn.co/image/ab67616d0000b273813dacdd5d40ab892a2f0abc
+2024-11-14,13,Malya,AMK,68,192182,album,15,2022-05-27,True,https://i.scdn.co/image/ab67616d0000b27358617a36795bced5e940f1d7
+2024-11-14,14,MANON B,Tiakola,69,169846,album,17,2024-09-20,True,https://i.scdn.co/image/ab67616d0000b2732ce65e1fddfaf10dbe42b701
+2024-11-14,15,APT.,ROSÉ & Bruno Mars,98,169917,single,1,2024-10-18,False,https://i.scdn.co/image/ab67616d0000b273f8c8297efc6022534f1357e1
+2024-11-14,16,Alibi (with Pabllo Vittar & Yseult),Sevdaliza & Pabllo Vittar & Yseult,86,161655,single,1,2024-06-28,False,https://i.scdn.co/image/ab67616d0000b2734ee35e37bc21fe929a4d3605
+2024-11-14,17,Où aller,GIMS,45,236400,album,39,2018-03-23,False,https://i.scdn.co/image/ab67616d0000b273f2dbf3eef5b03638e6ba9db0
+2024-11-14,18,Recommence-moi,SANTA,72,196334,album,11,2024-05-24,False,https://i.scdn.co/image/ab67616d0000b2738ec1d323eca7c1d48390eb9a
+2024-11-14,19,Boucan (feat. Franglish),KeBlack & Franglish,73,171216,single,1,2024-04-25,True,https://i.scdn.co/image/ab67616d0000b27378ed0170fe04ce8369809eb3
+2024-11-14,20,BIRDS OF A FEATHER,Billie Eilish,97,210373,album,10,2024-05-17,False,https://i.scdn.co/image/ab67616d0000b27371d62ea7ea8a5be92d3c1f62
+2024-11-14,21,PONA NINI,Tiakola,71,246978,album,17,2024-09-20,True,https://i.scdn.co/image/ab67616d0000b2732ce65e1fddfaf10dbe42b701
+2024-11-14,22,CRF - Nouvelle École,Various Artists,73,129153,single,5,2024-07-05,False,https://i.scdn.co/image/ab67616d0000b27365ccfa3a7a9139ec9bcdee86
+2024-11-14,23,Passe ton chemin,Lynda,71,169256,single,1,2024-06-14,False,https://i.scdn.co/image/ab67616d0000b273950cfdfba8816aeefbda7603
+2024-11-14,24,J’crois qu’ils ont pas compris,Leto,73,130000,album,12,2024-07-19,True,https://i.scdn.co/image/ab67616d0000b273e5f1f76084cf6dc4dc2b865d
+2024-11-14,25,Pétunias,Werenoi,62,210247,album,18,2024-02-16,True,https://i.scdn.co/image/ab67616d0000b27315a77fc58cab8c163a1b7509
+2024-11-14,26,I'M SORRY,La Mano 1.9,72,152571,single,1,2024-09-25,True,https://i.scdn.co/image/ab67616d0000b2731cdb019a5ba20446d828b700
+2024-11-14,27,Coco,Ninho & Niska,66,148656,album,15,2024-10-25,True,https://i.scdn.co/image/ab67616d0000b273d30660d949dfac1116226d0f
+2024-11-14,28,Nightcall,Kavinsky & Angèle & Phoenix,74,179306,single,1,2024-09-20,False,https://i.scdn.co/image/ab67616d0000b27382e856e42426e69b8bb43461
+2024-11-14,29,Imagine,Carbonne,75,165775,single,1,2024-05-03,False,https://i.scdn.co/image/ab67616d0000b273213394bc8b490e9d31feb662
+2024-11-14,30,Vanilla,VEN1 & Ramos.,72,187810,single,1,2024-08-30,True,https://i.scdn.co/image/ab67616d0000b2733a44d3f574d45f256be5ef66
+2024-11-14,31,Bah Ouais - Nouvelle École,Dadi & JYEUHAIR & Youssef Swatt's,72,201951,single,3,2024-07-22,False,https://i.scdn.co/image/ab67616d0000b2739fd9c32f3fc0231398c31a23
+2024-11-14,32,Beautiful Things,Benson Boone,89,180304,album,15,2024-04-05,False,https://i.scdn.co/image/ab67616d0000b273cc04ff3e70e146ba9abacf40
+2024-11-14,33,Si Antes Te Hubiera Conocido,KAROL G,93,195824,single,1,2024-06-21,False,https://i.scdn.co/image/ab67616d0000b273491678beaffcefac517a699e
+2024-11-14,34,Aucune attache,KeBlack,72,161977,single,1,2024-02-02,False,https://i.scdn.co/image/ab67616d0000b2734554f6ef4b73557ab553bc21
+2024-11-14,35,The Emptiness Machine,Linkin Park,90,190427,single,1,2024-09-05,True,https://i.scdn.co/image/ab67616d0000b273c0db065619ed208515412917
+2024-11-14,36,TOKA,SDM,70,175901,album,14,2024-09-26,True,https://i.scdn.co/image/ab67616d0000b27370f8508745ea2e7fff2f510f
+2024-11-14,37,La vie qu'on mène,Ninho,70,193443,album,18,2019-03-22,False,https://i.scdn.co/image/ab67616d0000b27349f298c896b4e4237e2a614e
+2024-11-14,38,Hakayet,VEN1,73,158208,single,1,2023-11-20,True,https://i.scdn.co/image/ab67616d0000b27313295a84f4cf446fab5553a9
+2024-11-14,39,KONGOLESE SOUS BBL,Theodora,47,164234,album,13,2024-11-01,True,https://i.scdn.co/image/ab67616d0000b273914a47c2fae7a4b4893eb34d
+2024-11-14,40,Dolce Camara,Booba,69,178401,album,10,2024-02-08,True,https://i.scdn.co/image/ab67616d0000b27324b6493c8778514c3e275560
+2024-11-14,41,FLASHBACK,Favé,70,176120,album,15,2023-10-13,True,https://i.scdn.co/image/ab67616d0000b273bed20ca2a508148c3f8cffd8
+2024-11-14,42,Laboratoire,Werenoi,71,162840,album,18,2023-03-09,True,https://i.scdn.co/image/ab67616d0000b273454178915a2bb0bb78cfebaf
+2024-11-14,43,No lo sé,Lacrim,63,165813,album,23,2024-07-05,True,https://i.scdn.co/image/ab67616d0000b273e043a37063d0245f3944ccb3
+2024-11-14,44,EL GEMANO,Genezio & La Mano 1.9,70,248000,single,1,2024-07-31,True,https://i.scdn.co/image/ab67616d0000b273205ce6fb2d8b06e755e427b9
+2024-11-14,45,Espresso,Sabrina Carpenter,88,175459,album,12,2024-08-23,True,https://i.scdn.co/image/ab67616d0000b273fd8d7a8d96871e791cb1f626
+2024-11-14,46,Bonbon à la menthe,Jok'air,66,317404,album,18,2019-03-29,True,https://i.scdn.co/image/ab67616d0000b273a91a188ad0b27eba9b55b38c
+2024-11-14,47,Gata Only,FloyyMenor,77,222000,album,7,2024-08-09,True,https://i.scdn.co/image/ab67616d0000b273200e2b6526846c59789c92e6
+2024-11-14,48,La famine,Werenoi,69,189569,album,31,2024-10-18,True,https://i.scdn.co/image/ab67616d0000b2735e69d7a9159306d54ee54fd2
+2024-11-14,49,Tu connais,Werenoi,68,169000,album,7,2023-09-21,True,https://i.scdn.co/image/ab67616d0000b2737fed909b45d0c711e00ef715
+2024-11-14,50,WILDFLOWER,Billie Eilish,92,261466,album,10,2024-05-17,False,https://i.scdn.co/image/ab67616d0000b27371d62ea7ea8a5be92d3c1f62
