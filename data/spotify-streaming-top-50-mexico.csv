@@ -27649,3 +27649,53 @@ date,position,song,artist,popularity,duration_ms,album_type,total_tracks,release
 2024-11-24,48,LUNA,Feid,88,196800,album,10,2023-12-01,False,https://i.scdn.co/image/ab67616d0000b273f1aad814a40ec7419c234242
 2024-11-24,49,Lo Que Hay X Aquí,La Receta,75,158545,album,17,2024-08-22,False,https://i.scdn.co/image/ab67616d0000b273ab040cfe5435f9eccddd1000
 2024-11-24,50,Cero Empatía,Julión Álvarez y su Norteño Banda,78,189524,single,4,2024-10-24,False,https://i.scdn.co/image/ab67616d0000b273198485e6367bfff4b1aaab5f
+2024-11-25,1,Tu Boda,Oscar Maydon & Fuerza Regida,93,225880,single,1,2024-09-26,True,https://i.scdn.co/image/ab67616d0000b273b51d9a74d356d785cce9dea9
+2024-11-25,2,Presidente,Gabito Ballesteros & Natanael Cano & Luis R Conriquez,86,181064,single,1,2024-10-21,True,https://i.scdn.co/image/ab67616d0000b273f66501800b3a51af3bc69f8d
+2024-11-25,3,EL LOKERON,Tito Double P,89,145473,album,21,2024-08-22,True,https://i.scdn.co/image/ab67616d0000b27347e9618ef7411438f9c9478b
+2024-11-25,4,DOS DÍAS,Tito Double P,88,153928,album,21,2024-08-22,True,https://i.scdn.co/image/ab67616d0000b27347e9618ef7411438f9c9478b
+2024-11-25,5,ESCAPATE,Tito Double P,87,144674,album,21,2024-08-22,True,https://i.scdn.co/image/ab67616d0000b27347e9618ef7411438f9c9478b
+2024-11-25,6,NADIE,Tito Double P,71,197031,single,1,2024-11-21,True,https://i.scdn.co/image/ab67616d0000b273369bcf083996da3c3b6d1f40
+2024-11-25,7,LA PATRULLA,Peso Pluma,86,130614,album,24,2024-06-20,True,https://i.scdn.co/image/ab67616d0000b2732690127e1d6cd0aa35cc353b
+2024-11-25,8,Morena Canela,Chino Pacas,80,178336,album,15,2024-10-18,True,https://i.scdn.co/image/ab67616d0000b273ef6655b813e1b2cd726e99d3
+2024-11-25,9,AY MAMÁ,Tito Double P,85,163031,album,21,2024-08-22,True,https://i.scdn.co/image/ab67616d0000b27347e9618ef7411438f9c9478b
+2024-11-25,10,Qué Pasaría...,Rauw Alejandro,84,191018,album,18,2024-11-15,True,https://i.scdn.co/image/ab67616d0000b273ed432d7df981360768dd5856
+2024-11-25,11,5-7,Tito Double P,83,174500,album,21,2024-08-22,False,https://i.scdn.co/image/ab67616d0000b27347e9618ef7411438f9c9478b
+2024-11-25,12,Rey Sin Reina,Julión Álvarez y su Norteño Banda,85,150523,single,4,2024-09-05,False,https://i.scdn.co/image/ab67616d0000b27336ac351ae8307f95c20c0487
+2024-11-25,13,Madonna,Natanael Cano & Oscar Maydon,84,187087,single,1,2024-03-08,True,https://i.scdn.co/image/ab67616d0000b273fcd2820c9b859adc64a64b88
+2024-11-25,14,Khé?,Rauw Alejandro,81,206066,album,18,2024-11-15,False,https://i.scdn.co/image/ab67616d0000b273ed432d7df981360768dd5856
+2024-11-25,15,PRIMO,Tito Double P,81,164991,album,21,2024-08-22,True,https://i.scdn.co/image/ab67616d0000b27347e9618ef7411438f9c9478b
+2024-11-25,16,SANTAL 33,Peso Pluma,81,190303,album,24,2024-06-20,True,https://i.scdn.co/image/ab67616d0000b2732690127e1d6cd0aa35cc353b
+2024-11-25,17,NEL,Fuerza Regida,88,149073,album,15,2024-07-25,True,https://i.scdn.co/image/ab67616d0000b273369abe8c52c2c6ec50caa1db
+2024-11-25,18,PIÉNSALO,Junior H,84,240669,album,17,2023-10-05,True,https://i.scdn.co/image/ab67616d0000b273f3ba6742a35f111aaea1ca2f
+2024-11-25,19,LOS CUADROS,Peso Pluma & Tito Double P,83,160409,single,1,2024-08-08,True,https://i.scdn.co/image/ab67616d0000b273580fd1177275056e83589fd2
+2024-11-25,20,Mejores Jordans,Victor Mendivil & Oscar Maydon,83,234077,single,1,2024-07-30,False,https://i.scdn.co/image/ab67616d0000b2733fe991a96ee9808f76cce959
+2024-11-25,21,Kamikaze (feat. Victor Mendivil),Natanael Cano & Uriel Gaxiola & Ganggy,74,248362,single,1,2024-11-14,True,https://i.scdn.co/image/ab67616d0000b273bbae836030105fb4a56cf963
+2024-11-25,22,EL AMOR DE SU VIDA,Grupo Frontera,82,165848,album,12,2023-08-25,False,https://i.scdn.co/image/ab67616d0000b27382ce4c7bbf861185252e82ae
+2024-11-25,23,Que Onda,Calle 24 & Chino Pacas & Fuerza Regida,84,191466,single,1,2023-08-30,True,https://i.scdn.co/image/ab67616d0000b273c8fd4190e32eed2dfcd00f66
+2024-11-25,24,Y LLORO,Junior H,84,179013,album,17,2023-10-05,True,https://i.scdn.co/image/ab67616d0000b273f3ba6742a35f111aaea1ca2f
+2024-11-25,25,Si No Quieres No,Luis R Conriquez & Neton Vega,84,147011,single,1,2024-03-10,False,https://i.scdn.co/image/ab67616d0000b2735c7365ca8cfaf7d80136c656
+2024-11-25,26,BLANCA ROSITA Y MARIA,Tito Double P,80,200658,album,21,2024-08-22,True,https://i.scdn.co/image/ab67616d0000b27347e9618ef7411438f9c9478b
+2024-11-25,27,AMIRI,Jasiel Nuñez,75,123096,album,20,2024-11-07,True,https://i.scdn.co/image/ab67616d0000b2739b7b01c383be069b94003e85
+2024-11-25,28,HOLLYWOOD,Peso Pluma,81,284864,album,24,2024-06-20,True,https://i.scdn.co/image/ab67616d0000b2732690127e1d6cd0aa35cc353b
+2024-11-25,29,LINDA,Tito Double P,79,224210,album,21,2024-08-22,True,https://i.scdn.co/image/ab67616d0000b27347e9618ef7411438f9c9478b
+2024-11-25,30,Si Antes Te Hubiera Conocido,KAROL G,93,195824,single,1,2024-06-21,False,https://i.scdn.co/image/ab67616d0000b273491678beaffcefac517a699e
+2024-11-25,31,Giza,Natanael Cano & Oscar Maydon,82,177580,single,1,2024-07-10,False,https://i.scdn.co/image/ab67616d0000b273a708ecde93d99f552f4c5b0f
+2024-11-25,32,Regalo De Dios,Julión Álvarez y su Norteño Banda,83,185933,album,12,2023-11-17,False,https://i.scdn.co/image/ab67616d0000b27301b15b3f93799c1823cde7bd
+2024-11-25,33,No Son Doritos,Clave Especial & Luis R Conriquez,82,160714,single,1,2024-08-23,True,https://i.scdn.co/image/ab67616d0000b2735d4ba105043ca380474d9f19
+2024-11-25,34,Se Fue,Rauw Alejandro,80,240179,album,18,2024-11-15,False,https://i.scdn.co/image/ab67616d0000b273ed432d7df981360768dd5856
+2024-11-25,35,QUEMA,Ryan Castro,80,150927,album,18,2024-05-10,True,https://i.scdn.co/image/ab67616d0000b273dca8e6ba1b5d33d0e69b0cfc
+2024-11-25,36,Un Scar,Victor Mendivil & Luis R Conriquez,73,299381,single,1,2024-11-11,False,https://i.scdn.co/image/ab67616d0000b2736ba8ec9cc49d41b1183d4c70
+2024-11-25,37,TÚ NAME,Fuerza Regida,81,152078,single,6,2024-02-09,False,https://i.scdn.co/image/ab67616d0000b273abc2d11a541fa61795691697
+2024-11-25,38,Die With A Smile,Lady Gaga & Bruno Mars,100,251667,single,1,2024-08-16,False,https://i.scdn.co/image/ab67616d0000b27382ea2e9e1858aa012c57cd45
+2024-11-25,39,APT.,ROSÉ & Bruno Mars,98,169917,single,1,2024-10-18,False,https://i.scdn.co/image/ab67616d0000b273f8c8297efc6022534f1357e1
+2024-11-25,40,Hecha Pa' Mí,Grupo Frontera,82,195845,single,1,2024-10-03,False,https://i.scdn.co/image/ab67616d0000b273ba3a049d5b30dd2a1cf6869f
+2024-11-25,41,Vaquero - Remix,Bellakath & El Malilla & El Bogueto,80,300000,single,1,2024-08-08,True,https://i.scdn.co/image/ab67616d0000b273e79fb8d4bc4071b59aab96f7
+2024-11-25,42,TU SI,Tito Double P,75,181921,album,21,2024-08-22,True,https://i.scdn.co/image/ab67616d0000b27347e9618ef7411438f9c9478b
+2024-11-25,43,Tú Con Él,Rauw Alejandro,80,289131,album,18,2024-11-15,False,https://i.scdn.co/image/ab67616d0000b273ed432d7df981360768dd5856
+2024-11-25,44,Cero Empatía,Julión Álvarez y su Norteño Banda,78,189524,single,4,2024-10-24,False,https://i.scdn.co/image/ab67616d0000b273198485e6367bfff4b1aaab5f
+2024-11-25,45,Apaga El Cel,Calle 24 & Chino Pacas,79,170832,single,1,2023-12-22,False,https://i.scdn.co/image/ab67616d0000b273e82f6c1bd7b7222daf3fa6ce
+2024-11-25,46,Nena Moxita,El Bogueto,68,217298,album,23,2024-09-26,True,https://i.scdn.co/image/ab67616d0000b27362a43f5b99b86fe34dc78e0a
+2024-11-25,47,BELANOVA,Peso Pluma,80,164822,album,24,2024-06-20,True,https://i.scdn.co/image/ab67616d0000b2732690127e1d6cd0aa35cc353b
+2024-11-25,48,Volver Al Futuro,Oscar Maydon & Junior H,81,204102,single,1,2024-05-30,False,https://i.scdn.co/image/ab67616d0000b27306116ae20d0a4c09d65c7d1d
+2024-11-25,49,Ese Vato No Te Queda,Carin Leon & Gabito Ballesteros,76,198607,single,1,2024-10-24,True,https://i.scdn.co/image/ab67616d0000b273a6dae629d3f23aa5a725f601
+2024-11-25,50,On D Gas,LEGADO 7,78,201322,album,15,2024-08-23,True,https://i.scdn.co/image/ab67616d0000b2733cb2b4f6b8287a83e473e181
